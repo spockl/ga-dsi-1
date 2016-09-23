@@ -30,8 +30,8 @@ Your work must:
 ### Necessary Deliverables / Submission
 
 - Materials must be submitted in a clearly labeled Jupyter notebook.
-- Materials must be submitted via a Github PR to the instructor's repo.
-- Materials must be submitted by the end of Week 1.
+- Materials must be submitted by pushing to your personal GitHub repo.
+- Materials must be submitted by the start of class on Wednesday of Week 2.
 
 ---
 
@@ -42,8 +42,6 @@ for plotting and visualizing our data. This type of visualization is handy for p
 and quick data analysis. We will discuss more advanced data visualizations for disseminating your work.
 
 Open the [starter code instructions](./starter-code/) in a Jupyter notebook.
-
-> Instructor Note: The [solution code is linked here](./solution-code/)
 
 ### Dataset
 
