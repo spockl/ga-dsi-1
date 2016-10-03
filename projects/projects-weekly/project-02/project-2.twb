@@ -1,0 +1,1869 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 10000.16.0917.1429                               -->
+<workbook source-build='10.0.1 (10000.16.0917.1429)' source-platform='mac' version='10.0' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='billboards2' inline='true' name='federated.16rwsvb0j4zzik1fm6y6q11nodl4' version='10.0'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='billboards2' name='textscan.1lflz0t0s8h9351gcz2tp17silhs'>
+            <connection class='textscan' directory='/Users/stel/joce/general_assembly/data-science-immersive/ga-dsi/projects/projects-weekly/project-02' filename='billboards2.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1lflz0t0s8h9351gcz2tp17silhs' name='billboards2.csv' table='[billboards2#csv]' type='table'>
+          <columns character-set='windows-1252' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='artist.inverted' ordinal='1' />
+            <column datatype='string' name='track' ordinal='2' />
+            <column datatype='integer' name='track_length_seconds' ordinal='3' />
+            <column datatype='integer' name='length_group' ordinal='4' />
+            <column datatype='string' name='genre_clean' ordinal='5' />
+            <column datatype='integer' name='genre_cat' ordinal='6' />
+            <column datatype='date' name='date_entered' ordinal='7' />
+            <column datatype='date' name='date_peaked' ordinal='8' />
+            <column datatype='string' name='season' ordinal='9' />
+            <column datatype='integer' name='season_cat' ordinal='10' />
+            <column datatype='real' name='weeks_to_peak' ordinal='11' />
+            <column datatype='integer' name='weeks_on_billboard' ordinal='12' />
+            <column datatype='integer' name='rank_entered' ordinal='13' />
+            <column datatype='real' name='highest_rank' ordinal='14' />
+            <column datatype='real' name='ranks_climbed' ordinal='15' />
+            <column datatype='real' name='last_rank' ordinal='16' />
+            <column datatype='integer' name='entering_rank_group' ordinal='17' />
+            <column datatype='integer' name='highest_rank_group' ordinal='18' />
+            <column datatype='integer' name='x1st.week' ordinal='19' />
+            <column datatype='real' name='x2nd.week' ordinal='20' />
+            <column datatype='real' name='x3rd.week' ordinal='21' />
+            <column datatype='real' name='x4th.week' ordinal='22' />
+            <column datatype='real' name='x5th.week' ordinal='23' />
+            <column datatype='real' name='x6th.week' ordinal='24' />
+            <column datatype='real' name='x7th.week' ordinal='25' />
+            <column datatype='real' name='x8th.week' ordinal='26' />
+            <column datatype='real' name='x9th.week' ordinal='27' />
+            <column datatype='real' name='x10th.week' ordinal='28' />
+            <column datatype='real' name='x11th.week' ordinal='29' />
+            <column datatype='real' name='x12th.week' ordinal='30' />
+            <column datatype='real' name='x13th.week' ordinal='31' />
+            <column datatype='real' name='x14th.week' ordinal='32' />
+            <column datatype='real' name='x15th.week' ordinal='33' />
+            <column datatype='real' name='x16th.week' ordinal='34' />
+            <column datatype='real' name='x17th.week' ordinal='35' />
+            <column datatype='real' name='x18th.week' ordinal='36' />
+            <column datatype='real' name='x19th.week' ordinal='37' />
+            <column datatype='real' name='x20th.week' ordinal='38' />
+            <column datatype='real' name='x21st.week' ordinal='39' />
+            <column datatype='real' name='x22nd.week' ordinal='40' />
+            <column datatype='real' name='x23rd.week' ordinal='41' />
+            <column datatype='real' name='x24th.week' ordinal='42' />
+            <column datatype='real' name='x25th.week' ordinal='43' />
+            <column datatype='real' name='x26th.week' ordinal='44' />
+            <column datatype='real' name='x27th.week' ordinal='45' />
+            <column datatype='real' name='x28th.week' ordinal='46' />
+            <column datatype='real' name='x29th.week' ordinal='47' />
+            <column datatype='real' name='x30th.week' ordinal='48' />
+            <column datatype='real' name='x31st.week' ordinal='49' />
+            <column datatype='real' name='x32nd.week' ordinal='50' />
+            <column datatype='real' name='x33rd.week' ordinal='51' />
+            <column datatype='real' name='x34th.week' ordinal='52' />
+            <column datatype='real' name='x35th.week' ordinal='53' />
+            <column datatype='real' name='x36th.week' ordinal='54' />
+            <column datatype='real' name='x37th.week' ordinal='55' />
+            <column datatype='real' name='x38th.week' ordinal='56' />
+            <column datatype='real' name='x39th.week' ordinal='57' />
+            <column datatype='real' name='x40th.week' ordinal='58' />
+            <column datatype='real' name='x41st.week' ordinal='59' />
+            <column datatype='real' name='x42nd.week' ordinal='60' />
+            <column datatype='real' name='x43rd.week' ordinal='61' />
+            <column datatype='real' name='x44th.week' ordinal='62' />
+            <column datatype='real' name='x45th.week' ordinal='63' />
+            <column datatype='real' name='x46th.week' ordinal='64' />
+            <column datatype='real' name='x47th.week' ordinal='65' />
+            <column datatype='real' name='x48th.week' ordinal='66' />
+            <column datatype='real' name='x49th.week' ordinal='67' />
+            <column datatype='real' name='x50th.week' ordinal='68' />
+            <column datatype='real' name='x51st.week' ordinal='69' />
+            <column datatype='real' name='x52nd.week' ordinal='70' />
+            <column datatype='real' name='x53rd.week' ordinal='71' />
+            <column datatype='real' name='x54th.week' ordinal='72' />
+            <column datatype='real' name='x55th.week' ordinal='73' />
+            <column datatype='real' name='x56th.week' ordinal='74' />
+            <column datatype='real' name='x57th.week' ordinal='75' />
+            <column datatype='real' name='x58th.week' ordinal='76' />
+            <column datatype='real' name='x59th.week' ordinal='77' />
+            <column datatype='real' name='x60th.week' ordinal='78' />
+            <column datatype='real' name='x61st.week' ordinal='79' />
+            <column datatype='real' name='x62nd.week' ordinal='80' />
+            <column datatype='real' name='x63rd.week' ordinal='81' />
+            <column datatype='real' name='x64th.week' ordinal='82' />
+            <column datatype='real' name='x65th.week' ordinal='83' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>artist.inverted</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[artist.inverted]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>artist.inverted</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteCollation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteMetadata (compression)'>&quot;heap&quot;</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4294967292</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (storagewidth)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;str&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>track</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[track]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>track</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteCollation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteMetadata (compression)'>&quot;heap&quot;</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4294967292</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (storagewidth)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;str&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>track_length_seconds</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[track_length_seconds]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>track_length_seconds</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>length_group</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[length_group]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>length_group</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>genre_clean</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[genre_clean]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>genre_clean</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteCollation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteMetadata (compression)'>&quot;heap&quot;</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4294967292</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (storagewidth)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;str&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>genre_cat</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[genre_cat]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>genre_cat</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date_entered</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[date_entered]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>date_entered</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;date&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date_peaked</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[date_peaked]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>date_peaked</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;date&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>season</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[season]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>season</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteCollation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteMetadata (compression)'>&quot;heap&quot;</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4294967292</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (storagewidth)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;str&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>season_cat</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[season_cat]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>season_cat</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weeks_to_peak</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[weeks_to_peak]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>weeks_to_peak</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weeks_on_billboard</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[weeks_on_billboard]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>weeks_on_billboard</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>rank_entered</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[rank_entered]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>rank_entered</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>highest_rank</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[highest_rank]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>highest_rank</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ranks_climbed</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[ranks_climbed]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>ranks_climbed</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>last_rank</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[last_rank]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>last_rank</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>entering_rank_group</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[entering_rank_group]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>entering_rank_group</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>highest_rank_group</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[highest_rank_group]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>highest_rank_group</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x1st.week</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[x1st.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x1st.week</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x2nd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x2nd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x2nd.week</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x3rd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x3rd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x3rd.week</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x4th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x4th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x4th.week</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x5th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x5th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x5th.week</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x6th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x6th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x6th.week</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x7th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x7th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x7th.week</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x8th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x8th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x8th.week</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x9th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x9th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x9th.week</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x10th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x10th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x10th.week</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x11th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x11th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x11th.week</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x12th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x12th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x12th.week</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x13th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x13th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x13th.week</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x14th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x14th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x14th.week</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x15th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x15th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x15th.week</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x16th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x16th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x16th.week</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x17th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x17th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x17th.week</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x18th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x18th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x18th.week</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x19th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x19th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x19th.week</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x20th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x20th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x20th.week</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x21st.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x21st.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x21st.week</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x22nd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x22nd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x22nd.week</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x23rd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x23rd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x23rd.week</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x24th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x24th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x24th.week</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x25th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x25th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x25th.week</remote-alias>
+            <ordinal>43</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x26th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x26th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x26th.week</remote-alias>
+            <ordinal>44</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x27th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x27th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x27th.week</remote-alias>
+            <ordinal>45</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x28th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x28th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x28th.week</remote-alias>
+            <ordinal>46</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x29th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x29th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x29th.week</remote-alias>
+            <ordinal>47</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x30th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x30th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x30th.week</remote-alias>
+            <ordinal>48</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x31st.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x31st.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x31st.week</remote-alias>
+            <ordinal>49</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x32nd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x32nd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x32nd.week</remote-alias>
+            <ordinal>50</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x33rd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x33rd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x33rd.week</remote-alias>
+            <ordinal>51</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x34th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x34th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x34th.week</remote-alias>
+            <ordinal>52</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x35th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x35th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x35th.week</remote-alias>
+            <ordinal>53</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x36th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x36th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x36th.week</remote-alias>
+            <ordinal>54</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x37th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x37th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x37th.week</remote-alias>
+            <ordinal>55</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x38th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x38th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x38th.week</remote-alias>
+            <ordinal>56</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x39th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x39th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x39th.week</remote-alias>
+            <ordinal>57</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x40th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x40th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x40th.week</remote-alias>
+            <ordinal>58</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x41st.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x41st.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x41st.week</remote-alias>
+            <ordinal>59</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x42nd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x42nd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x42nd.week</remote-alias>
+            <ordinal>60</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x43rd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x43rd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x43rd.week</remote-alias>
+            <ordinal>61</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x44th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x44th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x44th.week</remote-alias>
+            <ordinal>62</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x45th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x45th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x45th.week</remote-alias>
+            <ordinal>63</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x46th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x46th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x46th.week</remote-alias>
+            <ordinal>64</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x47th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x47th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x47th.week</remote-alias>
+            <ordinal>65</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x48th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x48th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x48th.week</remote-alias>
+            <ordinal>66</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x49th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x49th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x49th.week</remote-alias>
+            <ordinal>67</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x50th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x50th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x50th.week</remote-alias>
+            <ordinal>68</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x51st.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x51st.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x51st.week</remote-alias>
+            <ordinal>69</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x52nd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x52nd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x52nd.week</remote-alias>
+            <ordinal>70</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x53rd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x53rd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x53rd.week</remote-alias>
+            <ordinal>71</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x54th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x54th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x54th.week</remote-alias>
+            <ordinal>72</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x55th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x55th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x55th.week</remote-alias>
+            <ordinal>73</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x56th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x56th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x56th.week</remote-alias>
+            <ordinal>74</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x57th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x57th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x57th.week</remote-alias>
+            <ordinal>75</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x58th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x58th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x58th.week</remote-alias>
+            <ordinal>76</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x59th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x59th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x59th.week</remote-alias>
+            <ordinal>77</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x60th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x60th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x60th.week</remote-alias>
+            <ordinal>78</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x61st.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x61st.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x61st.week</remote-alias>
+            <ordinal>79</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x62nd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x62nd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x62nd.week</remote-alias>
+            <ordinal>80</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x63rd.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x63rd.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x63rd.week</remote-alias>
+            <ordinal>81</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x64th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x64th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x64th.week</remote-alias>
+            <ordinal>82</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>x65th.week</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[x65th.week]</local-name>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias>x65th.week</remote-alias>
+            <ordinal>83</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[billboards2.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;ibm-5348_P100-1997&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Artist.Inverted' datatype='string' name='[artist.inverted]' role='dimension' type='nominal' />
+      <column caption='Date Entered' datatype='date' name='[date_entered]' role='dimension' type='ordinal' />
+      <column caption='Date Peaked' datatype='date' name='[date_peaked]' role='dimension' type='ordinal' />
+      <column caption='Entering Rank Group' datatype='integer' name='[entering_rank_group]' role='measure' type='quantitative' />
+      <column caption='Genre Cat' datatype='integer' name='[genre_cat]' role='measure' type='quantitative' />
+      <column caption='Genre Clean' datatype='string' name='[genre_clean]' role='dimension' type='nominal' />
+      <column caption='Highest Rank' datatype='real' name='[highest_rank]' role='measure' type='quantitative' />
+      <column caption='Highest Rank Group' datatype='integer' name='[highest_rank_group]' role='measure' type='quantitative' />
+      <column caption='Last Rank' datatype='real' name='[last_rank]' role='measure' type='quantitative' />
+      <column caption='Length Group' datatype='integer' name='[length_group]' role='measure' type='quantitative' />
+      <column caption='Rank Entered' datatype='integer' name='[rank_entered]' role='measure' type='quantitative' />
+      <column caption='Ranks Climbed' datatype='real' name='[ranks_climbed]' role='measure' type='quantitative' />
+      <column caption='Season' datatype='string' name='[season]' role='dimension' type='nominal' />
+      <column caption='Season Cat' datatype='integer' name='[season_cat]' role='measure' type='quantitative' />
+      <column caption='Track' datatype='string' name='[track]' role='dimension' type='nominal' />
+      <column caption='Track Length Seconds' datatype='integer' name='[track_length_seconds]' role='measure' type='quantitative' />
+      <column caption='Weeks On Billboard' datatype='integer' name='[weeks_on_billboard]' role='measure' type='quantitative' />
+      <column caption='Weeks To Peak' datatype='real' name='[weeks_to_peak]' role='measure' type='quantitative' />
+      <column caption='X10Th.Week' datatype='real' name='[x10th.week]' role='dimension' type='quantitative' />
+      <column caption='X11Th.Week' datatype='real' name='[x11th.week]' role='dimension' type='quantitative' />
+      <column caption='X12Th.Week' datatype='real' name='[x12th.week]' role='dimension' type='quantitative' />
+      <column caption='X13Th.Week' datatype='real' name='[x13th.week]' role='dimension' type='quantitative' />
+      <column caption='X14Th.Week' datatype='real' name='[x14th.week]' role='dimension' type='quantitative' />
+      <column caption='X15Th.Week' datatype='real' name='[x15th.week]' role='dimension' type='quantitative' />
+      <column caption='X16Th.Week' datatype='real' name='[x16th.week]' role='dimension' type='quantitative' />
+      <column caption='X17Th.Week' datatype='real' name='[x17th.week]' role='dimension' type='quantitative' />
+      <column caption='X18Th.Week' datatype='real' name='[x18th.week]' role='dimension' type='quantitative' />
+      <column caption='X19Th.Week' datatype='real' name='[x19th.week]' role='dimension' type='quantitative' />
+      <column caption='X1St.Week' datatype='integer' name='[x1st.week]' role='dimension' type='quantitative' />
+      <column caption='X20Th.Week' datatype='real' name='[x20th.week]' role='dimension' type='quantitative' />
+      <column caption='X21St.Week' datatype='real' name='[x21st.week]' role='dimension' type='quantitative' />
+      <column caption='X22Nd.Week' datatype='real' name='[x22nd.week]' role='dimension' type='quantitative' />
+      <column caption='X23Rd.Week' datatype='real' name='[x23rd.week]' role='dimension' type='quantitative' />
+      <column caption='X24Th.Week' datatype='real' name='[x24th.week]' role='dimension' type='quantitative' />
+      <column caption='X25Th.Week' datatype='real' name='[x25th.week]' role='dimension' type='quantitative' />
+      <column caption='X26Th.Week' datatype='real' name='[x26th.week]' role='dimension' type='quantitative' />
+      <column caption='X27Th.Week' datatype='real' name='[x27th.week]' role='dimension' type='quantitative' />
+      <column caption='X28Th.Week' datatype='real' name='[x28th.week]' role='dimension' type='quantitative' />
+      <column caption='X29Th.Week' datatype='real' name='[x29th.week]' role='dimension' type='quantitative' />
+      <column caption='X2Nd.Week' datatype='real' name='[x2nd.week]' role='dimension' type='quantitative' />
+      <column caption='X30Th.Week' datatype='real' name='[x30th.week]' role='dimension' type='quantitative' />
+      <column caption='X31St.Week' datatype='real' name='[x31st.week]' role='dimension' type='quantitative' />
+      <column caption='X32Nd.Week' datatype='real' name='[x32nd.week]' role='dimension' type='quantitative' />
+      <column caption='X33Rd.Week' datatype='real' name='[x33rd.week]' role='dimension' type='quantitative' />
+      <column caption='X34Th.Week' datatype='real' name='[x34th.week]' role='dimension' type='quantitative' />
+      <column caption='X35Th.Week' datatype='real' name='[x35th.week]' role='dimension' type='quantitative' />
+      <column caption='X36Th.Week' datatype='real' name='[x36th.week]' role='dimension' type='quantitative' />
+      <column caption='X37Th.Week' datatype='real' name='[x37th.week]' role='dimension' type='quantitative' />
+      <column caption='X38Th.Week' datatype='real' name='[x38th.week]' role='dimension' type='quantitative' />
+      <column caption='X39Th.Week' datatype='real' name='[x39th.week]' role='dimension' type='quantitative' />
+      <column caption='X3Rd.Week' datatype='real' name='[x3rd.week]' role='dimension' type='quantitative' />
+      <column caption='X40Th.Week' datatype='real' name='[x40th.week]' role='dimension' type='quantitative' />
+      <column caption='X41St.Week' datatype='real' name='[x41st.week]' role='dimension' type='quantitative' />
+      <column caption='X42Nd.Week' datatype='real' name='[x42nd.week]' role='dimension' type='quantitative' />
+      <column caption='X43Rd.Week' datatype='real' name='[x43rd.week]' role='dimension' type='quantitative' />
+      <column caption='X44Th.Week' datatype='real' name='[x44th.week]' role='dimension' type='quantitative' />
+      <column caption='X45Th.Week' datatype='real' name='[x45th.week]' role='dimension' type='quantitative' />
+      <column caption='X46Th.Week' datatype='real' name='[x46th.week]' role='dimension' type='quantitative' />
+      <column caption='X47Th.Week' datatype='real' name='[x47th.week]' role='dimension' type='quantitative' />
+      <column caption='X48Th.Week' datatype='real' name='[x48th.week]' role='dimension' type='quantitative' />
+      <column caption='X49Th.Week' datatype='real' name='[x49th.week]' role='dimension' type='quantitative' />
+      <column caption='X4Th.Week' datatype='real' name='[x4th.week]' role='dimension' type='quantitative' />
+      <column caption='X50Th.Week' datatype='real' name='[x50th.week]' role='dimension' type='quantitative' />
+      <column caption='X51St.Week' datatype='real' name='[x51st.week]' role='dimension' type='quantitative' />
+      <column caption='X52Nd.Week' datatype='real' name='[x52nd.week]' role='dimension' type='quantitative' />
+      <column caption='X53Rd.Week' datatype='real' name='[x53rd.week]' role='dimension' type='quantitative' />
+      <column caption='X54Th.Week' datatype='real' name='[x54th.week]' role='dimension' type='quantitative' />
+      <column caption='X55Th.Week' datatype='real' name='[x55th.week]' role='dimension' type='quantitative' />
+      <column caption='X56Th.Week' datatype='real' name='[x56th.week]' role='dimension' type='quantitative' />
+      <column caption='X57Th.Week' datatype='real' name='[x57th.week]' role='dimension' type='quantitative' />
+      <column caption='X58Th.Week' datatype='real' name='[x58th.week]' role='dimension' type='quantitative' />
+      <column caption='X59Th.Week' datatype='real' name='[x59th.week]' role='dimension' type='quantitative' />
+      <column caption='X5Th.Week' datatype='real' name='[x5th.week]' role='dimension' type='quantitative' />
+      <column caption='X60Th.Week' datatype='real' name='[x60th.week]' role='dimension' type='quantitative' />
+      <column caption='X61St.Week' datatype='real' name='[x61st.week]' role='dimension' type='quantitative' />
+      <column caption='X62Nd.Week' datatype='real' name='[x62nd.week]' role='dimension' type='quantitative' />
+      <column caption='X63Rd.Week' datatype='real' name='[x63rd.week]' role='dimension' type='quantitative' />
+      <column caption='X64Th.Week' datatype='real' name='[x64th.week]' role='dimension' type='quantitative' />
+      <column caption='X65Th.Week' datatype='real' name='[x65th.week]' role='dimension' type='quantitative' />
+      <column caption='X6Th.Week' datatype='real' name='[x6th.week]' role='dimension' type='quantitative' />
+      <column caption='X7Th.Week' datatype='real' name='[x7th.week]' role='dimension' type='quantitative' />
+      <column caption='X8Th.Week' datatype='real' name='[x8th.week]' role='dimension' type='quantitative' />
+      <column caption='X9Th.Week' datatype='real' name='[x9th.week]' role='dimension' type='quantitative' />
+      <column-instance column='[highest_rank]' derivation='Median' name='[med:highest_rank:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[rank_entered]' derivation='Median' name='[med:rank_entered:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[weeks_on_billboard]' derivation='Median' name='[med:weeks_on_billboard:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[weeks_on_billboard]' derivation='Sum' name='[sum:weeks_on_billboard:qk]' pivot='key' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.556436' measure-ordering='alphabetic' measure-percentage='0.443564' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:highest_rank:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:weeks_on_billboard:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[sum:weeks_on_billboard:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:rank_entered:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='billboards2' name='federated.16rwsvb0j4zzik1fm6y6q11nodl4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.16rwsvb0j4zzik1fm6y6q11nodl4'>
+            <column caption='Genre Clean' datatype='string' name='[genre_clean]' role='dimension' type='nominal' />
+            <column caption='Highest Rank' datatype='real' name='[highest_rank]' role='measure' type='quantitative' />
+            <column-instance column='[highest_rank]' derivation='Median' name='[med:highest_rank:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[rank_entered]' derivation='Median' name='[med:rank_entered:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[weeks_on_billboard]' derivation='Median' name='[med:weeks_on_billboard:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[genre_clean]' derivation='None' name='[none:genre_clean:nk]' pivot='key' type='nominal' />
+            <column-instance column='[season]' derivation='None' name='[none:season:nk]' pivot='key' type='nominal' />
+            <column caption='Rank Entered' datatype='integer' name='[rank_entered]' role='measure' type='quantitative' />
+            <column caption='Season' datatype='string' name='[season]' role='dimension' type='nominal' />
+            <column caption='Weeks On Billboard' datatype='integer' name='[weeks_on_billboard]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[none:season:nk]'>
+            <groupfilter function='member' level='[none:season:nk]' member='&quot;Winter&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[none:season:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:highest_rank:qk]' field-type='quantitative' fold='true' scope='rows' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='1' y-axis-name='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:rank_entered:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' y-axis-name='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:highest_rank:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+                <format attr='size' value='0.91154694557189941' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='3' y-axis-name='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:weeks_on_billboard:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:rank_entered:qk] + ([federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:highest_rank:qk] + [federated.16rwsvb0j4zzik1fm6y6q11nodl4].[med:weeks_on_billboard:qk]))</rows>
+        <cols>[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[none:genre_clean:nk]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='radiolist' param='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[none:season:nk]' type='filter' />
+            <card pane-specification-id='1' param='[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[none:genre_clean:nk]</field>
+            <field>[federated.16rwsvb0j4zzik1fm6y6q11nodl4].[none:season:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      aMBQEtZk8f8BKpuS4vYRDuYAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
