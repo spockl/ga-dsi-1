@@ -1,0 +1,801 @@
+,world_rank,university_name,rscores
+0,1,California Institute of Technology,95.1042286239
+1,2,University of Oxford,93.953870333
+2,3,Stanford University,93.7207564384
+3,4,University of Cambridge,92.5968152382
+4,5,Massachusetts Institute of Technology,91.8445347804
+5,6,Harvard University,91.4939407261
+6,7,Princeton University,89.9186834266
+7,8,Imperial College London,88.9483603712
+8,9,ETH Zurich – Swiss Federal Institute of Technology Zurich,88.0247983071
+9,10,University of Chicago,87.8336921128
+10,11,Johns Hopkins University,87.5169287564
+11,12,Yale University,87.2481397812
+12,13,"University of California, Berkeley",87.1188882306
+13,14,University College London,86.9205751442
+14,15,Columbia University,85.2441552942
+15,16,"University of California, Los Angeles",85.7570515752
+16,17,University of Pennsylvania,85.1865890063
+17,18,Cornell University,83.8940112696
+18,19,University of Toronto,83.6994899252
+19,20,Duke University,82.6074088392
+20,21,University of Michigan,82.3307428851
+21,22,Carnegie Mellon University,82.3794359611
+22,23,London School of Economics and Political Science,80.7642688469
+23,24,University of Edinburgh,80.082743955
+24,25,Northwestern University,79.4438058853
+25,26,National University of Singapore,78.8646320044
+26,27,King’s College London,78.0472848985
+27,28,Karolinska Institute,77.4579201766
+28,29,LMU Munich,77.2231626565
+29,30,New York University,77.1667008349
+30,31,École Polytechnique Fédérale de Lausanne,75.9066546816
+31,32,University of Washington,75.6185322484
+32,33,University of Melbourne,75.232317679
+33,34,University of British Columbia,75.0833891731
+34,35,KU Leuven,74.850306644
+35,36,University of Illinois at Urbana-Champaign,74.531576549
+36,37,Heidelberg University,74.3379452358
+37,38,McGill University,72.2518552884
+38,39,"University of California, San Diego",72.2968751169
+39,39,"University of California, Santa Barbara",72.1086086363
+40,41,Georgia Institute of Technology,72.0011345642
+41,42,Peking University,71.9231590094
+42,43,University of Tokyo,71.1008974128
+43,44,"University of California, Davis",70.8109394671
+44,44,University of Hong Kong,70.7004407564
+45,46,University of Texas at Austin,70.4156466796
+46,47,Tsinghua University,69.9413764789
+47,47,Wageningen University and Research Center,69.9201120955
+48,49,Humboldt University of Berlin,69.7353125377
+49,50,University of Wisconsin-Madison,69.7164496181
+50,51,Brown University,69.5122384421
+51,52,Australian National University,69.2023055284
+52,53,Technical University of Munich,69.3282835287
+53,54,École Normale Supérieure,68.6845248725
+54,55,Nanyang Technological University,67.9597025659
+55,56,University of Manchester,67.8297081901
+56,56,University of Sydney,67.9058918684
+57,58,University of Amsterdam,67.7720720779
+58,59,Hong Kong University of Science and Technology,67.0109663557
+59,60,The University of Queensland,66.6978585913
+60,60,Washington University in St Louis,66.9721566876
+61,62,Utrecht University,66.5662304897
+62,63,University of North Carolina at Chapel Hill,66.451570977
+63,64,Boston University,66.0686471097
+64,65,Delft University of Technology,65.6474575318
+65,65,University of Minnesota,65.9473758967
+66,67,Leiden University,65.6224841283
+67,68,University of Southern California,65.4992355499
+68,69,University of Bristol,64.0730504847
+69,70,Durham University,63.3031769502
+70,71,Erasmus University Rotterdam,63.4040929807
+71,72,Free University of Berlin,62.9279153534
+72,73,Monash University,62.3328852745
+73,74,University of Groningen,62.303475511
+74,75,Pennsylvania State University,62.2959664812
+75,76,University of Glasgow,61.6661973491
+76,76,University of Helsinki,61.8854113943
+77,78,University of Tübingen,61.5778324507
+78,79,University of Pittsburgh,61.5456019988
+79,80,University of Warwick,61.0494912874
+80,81,Uppsala University,61.1561355827
+81,82,University of Copenhagen,60.8281686731
+82,82,University of New South Wales,60.7704177435
+83,84,University of Freiburg,60.6526207566
+84,85,Seoul National University,60.4829018239
+85,86,University of St Andrews,60.186694018
+86,87,Vanderbilt University,60.1803636672
+87,88,Kyoto University,59.802427946
+88,88,Maastricht University,59.8323724075
+89,90,Emory University,59.6619301857
+90,90,Lund University,59.5232707971
+91,90,Ohio State University,59.6278870616
+92,93,University of Exeter,59.2180881105
+93,94,University of Bonn,57.9937284049
+94,94,Georgetown University,58.7156387467
+95,94,McMaster University,58.521724944
+96,97,University of Sheffield,58.387235326
+97,98,Queen Mary University of London,58.3354628377
+98,99,University of Göttingen,57.8499940874
+99,99,Michigan State University,57.9032296635
+100,101,University of Basel,57.544630584
+101,101,École Polytechnique,57.5114789805
+102,101,Rice University,57.7727675716
+103,104,Dartmouth College,57.8720565975
+104,104,University of Zurich,57.4536665843
+105,106,Aarhus University,57.5347931611
+106,106,"University of California, Irvine",57.5538380083
+107,106,University of Mannheim,57.5828086647
+108,108,University of Notre Dame,57.5148378078
+109,109,University of Western Australia,57.2224026043
+110,110,RWTH Aachen University,57.0889765294
+111,110,University of Southampton,56.8993118931
+112,112,Scuola Normale Superiore di Pisa,57.0963012171
+113,113,University of Montreal,56.7522254828
+114,113,Pierre and Marie Curie University,56.8239137238
+115,113,Purdue University,56.0511862981
+116,116,Pohang University of Science and Technology,56.8815091861
+117,117,"University of Maryland, College Park",56.6210109043
+118,118,Ghent University,56.5546461678
+119,119,University of Birmingham,55.9149310071
+120,120,University of Bern,55.7171638487
+121,120,University of Cape Town,55.93984124
+122,120,University of Florida,55.3321733139
+123,123,University of Erlangen-Nuremberg,55.9376712537
+124,123,"Rutgers, the State University of New Jersey",55.9711725635
+125,125,University of Münster,55.9305235665
+126,125,Radboud University Nijmegen,55.7969568573
+127,127,University of Colorado Boulder,55.7911368202
+128,127,Tufts University,55.740993112
+129,129,"Royal Holloway, University of London",55.418829969
+130,130,Lancaster University,55.3303277963
+131,131,University of Geneva,55.0634105466
+132,131,University of York,54.9364224237
+133,133,Case Western Reserve University,55.3058165099
+134,133,University of Leeds,55.0247487417
+135,135,University of Oslo,55.0276457452
+136,136,Stockholm University,54.7242109094
+137,137,University of Alberta,54.3369256998
+138,138,Chinese University of Hong Kong,54.2187656331
+139,138,Karlsruhe Institute of Technology,54.3740027582
+140,140,University of Sussex,54.1551977216
+141,141,University of Massachusetts,54.3159027406
+142,142,University of Vienna,53.9108068244
+143,143,University of Nottingham,53.8237614839
+144,144,"University of California, Santa Cruz",53.8179863103
+145,144,University of Lausanne,53.5462402425
+146,146,Autonomous University of Barcelona,53.9205389372
+147,147,University of Virginia,53.2544229792
+148,148,Korea Advanced Institute of Science and Technology (KAIST),52.9700026739
+149,149,University of Adelaide,52.6151813998
+150,149,University of East Anglia,52.7474838076
+151,149,University of Twente,52.6589071399
+152,153,Sungkyunkwan University (SKKU),52.6984580283
+153,154,VU University Amsterdam,52.4779288509
+154,155,KTH Royal Institute of Technology,52.1214248157
+155,156,University of Cologne,52.1770491134
+156,157,University of Liverpool,51.955780896
+157,158,TU Dresden,51.9992089833
+158,158,University of Rochester,52.0450256723
+159,160,Trinity College Dublin,51.7389133371
+160,161,Lomonosov Moscow State University,51.6842894973
+161,161,University of Miami,51.7383761816
+162,163,University of Arizona,51.6629588628
+163,164,Pompeu Fabra University,51.1308210539
+164,164,University of Reading,50.8449623838
+165,164,Yeshiva University,50.5670023167
+166,167,"University of California, Riverside",50.9895979143
+167,167,University of Leicester,50.8288115014
+168,167,National Taiwan University,51.1191586254
+169,167,Technical University of Denmark,50.9027668458
+170,167,Université Catholique de Louvain,50.9602763254
+171,172,University of Aberdeen,50.7527994879
+172,172,University of Auckland,50.7544662726
+173,174,University of Barcelona,50.9541213928
+174,175,University of Konstanz,50.6105580706
+175,176,Eindhoven University of Technology,50.3860290821
+176,176,University College Dublin,50.312145917
+177,178,Hebrew University of Jerusalem,50.3974717906
+178,179,University of Waterloo,49.9787046768
+179,180,University of Gothenburg,50.0722329324
+180,180,Scuola Superiore Sant’Anna,50.3765053231
+181,182,University of Bergen,49.9505418392
+182,182,Cardiff University,49.827523399
+183,182,University of Utah,50.1165908518
+184,185,Brandeis University,49.9173234636
+185,185,University of Dundee,49.7328033735
+186,185,University of Würzburg,49.7879484221
+187,188,Paris-Sud University,49.653457737
+188,189,Arizona State University,49.804340694
+189,190,University of Antwerp,49.4766667391
+190,190,Boston College,49.5356042726
+191,192,Ulm University,49.3848464036
+192,193,University of Luxembourg,49.4585373635
+193,193,Texas A&M University,49.1632389662
+194,195,Charité - Universitätsmedizin Berlin,49.1967883884
+195,196,Newcastle University,48.895819698
+196,196,"St George’s, University of London",49.1114130778
+197,198,University of Trento,49.1610030186
+198,199,Paris Diderot University – Paris 7,48.8334410616
+199,200,Queen’s University Belfast,48.3955598073
+200,201-250,Aalborg University,44.455871879
+201,201-250,"Birkbeck, University of London",47.588659539
+202,201-250,University of Bologna,46.5359466759
+203,201-250,University at Buffalo,46.3217528669
+204,201-250,University of Calgary,47.8110103943
+205,201-250,Chalmers University of Technology,44.6693203588
+206,201-250,City University of Hong Kong,47.7992365075
+207,201-250,Copenhagen Business School,44.8307901056
+208,201-250,Dalhousie University,44.2793539016
+209,201-250,University of Duisburg-Essen,47.8601622415
+210,201-250,École Normale Supérieure de Lyon,47.6557456621
+211,201-250,Florida State University,46.7587081096
+212,201-250,University of Fribourg,46.4174379651
+213,201-250,Fudan University,44.3870884071
+214,201-250,George Washington University,44.3502418332
+215,201-250,Goethe University Frankfurt,48.4890747636
+216,201-250,University of Hawai’i at M_noa,46.0674310499
+217,201-250,Hong Kong Polytechnic University,45.0875188617
+218,201-250,University of Illinois at Chicago,45.0653431809
+219,201-250,Indiana University,46.5693908579
+220,201-250,University of Iowa,46.1197086069
+221,201-250,Johannes Gutenberg University of Mainz,44.4233325769
+222,201-250,Joseph Fourier University,46.777833666
+223,201-250,University of Kiel,46.3620552448
+224,201-250,Laval University,45.3606673535
+225,201-250,Medical University of Vienna,46.0066471661
+226,201-250,Northeastern University,47.1639586742
+227,201-250,Oregon Health and Science University,44.6787219496
+228,201-250,University of Otago,48.1174277173
+229,201-250,University of Ottawa,46.5579152172
+230,201-250,Paris Descartes University,45.4182699867
+231,201-250,Peter the Great St Petersburg Polytechnic University,47.3755741242
+232,201-250,Polytechnic University of Milan,46.8304982471
+233,201-250,Royal Veterinary College,45.5207032667
+234,201-250,Rush University,46.0452741183
+235,201-250,Sapienza University of Rome,44.6190715257
+236,201-250,University of Science and Technology of China,48.8047804386
+237,201-250,University of South Florida,45.9603151342
+238,201-250,Stony Brook University,46.0484096197
+239,201-250,University of Stuttgart,48.3919337757
+240,201-250,Swedish University of Agricultural Sciences,45.1373913279
+241,201-250,Technical University of Darmstadt,45.8060672355
+242,201-250,University of Technology Sydney,46.1932309122
+243,201-250,Tel Aviv University,46.7278924439
+244,201-250,University of Texas at Dallas,46.2694243312
+245,201-250,Tilburg University,46.2993936333
+246,201-250,Tohoku University,45.1918638494
+247,201-250,Tokyo Institute of Technology,44.6668440958
+248,201-250,University of Victoria,44.796009262
+249,201-250,Wake Forest University,47.6398700895
+250,201-250,University of Western Ontario,45.6626650117
+251,201-250,William & Mary,45.0481874703
+252,201-250,University of the Witwatersrand,47.5719075795
+253,251-300,Aalto University,44.0486908856
+254,251-300,Aix-Marseille University,42.4687432427
+255,251-300,University of Bath,40.9279990755
+256,251-300,Bayreuth University,42.2120760731
+257,251-300,Bielefeld University,44.1277884433
+258,251-300,University of Bordeaux,40.4610378888
+259,251-300,Charles Darwin University,43.6121598791
+260,251-300,Colorado School of Mines,43.8891275396
+261,251-300,Colorado State University,40.644673694
+262,251-300,University of Delaware,43.8110359967
+263,251-300,Flinders University,40.6630208717
+264,251-300,University of Georgia,40.6496573523
+265,251-300,Griffith University,40.8839475043
+266,251-300,University of Iceland,42.4416174915
+267,251-300,Indian Institute of Science,42.3372968926
+268,251-300,Iowa State University,40.5463012564
+269,251-300,James Cook University,43.0301632646
+270,251-300,Justus Liebig University Giessen,40.4027928554
+271,251-300,King Abdulaziz University,42.3866976471
+272,251-300,Koç University,42.9598584651
+273,251-300,Korea University,44.0884916379
+274,251-300,University of Liège,41.1490345912
+275,251-300,Linköping University,41.2217158868
+276,251-300,Nanjing University,42.1416590897
+277,251-300,National Tsing Hua University,41.175822474
+278,251-300,"National University of Ireland, Galway",42.8560262629
+279,251-300,University of Newcastle,43.3545728432
+280,251-300,North Carolina State University,42.4663926925
+281,251-300,Oregon State University,40.7197911397
+282,251-300,Osaka University,42.6048680447
+283,251-300,Queen’s University,43.4514816058
+284,251-300,Queensland University of Technology,43.3324629445
+285,251-300,Rensselaer Polytechnic Institute,43.0236101709
+286,251-300,Royal College of Surgeons in Ireland,42.0832215287
+287,251-300,Ruhr University Bochum,40.5437377598
+288,251-300,Saint Louis University,42.6202033845
+289,251-300,University of São Paulo,43.6117816428
+290,251-300,Simon Fraser University,43.0516545818
+291,251-300,University of Surrey,40.7822568307
+292,251-300,Syracuse University,42.5383133162
+293,251-300,University of Tasmania,41.3599608001
+294,251-300,"University of Tennessee, Knoxville",44.1374960267
+295,251-300,Tomsk Polytechnic University,42.9398799851
+296,251-300,Tulane University,41.2066498529
+297,251-300,Umeå University,40.9274312819
+298,251-300,Vienna University of Technology,43.9843627874
+299,251-300,Virginia Polytechnic Institute and State University,41.3984295935
+300,251-300,University of Wollongong,41.6358653347
+301,251-300,Zhejiang University,41.7625727267
+302,301-350,Aberystwyth University,38.184719608
+303,301-350,University of Alaska Fairbanks,38.3848605439
+304,301-350,Autonomous University of Madrid,38.3962522225
+305,301-350,Bangor University,39.5273787859
+306,301-350,University of Bremen,38.7878948841
+307,301-350,University of Cincinnati,40.1258401176
+308,301-350,University of Connecticut,39.3687680986
+309,301-350,Deakin University,39.5466895389
+310,301-350,University of Essex,38.9968017682
+311,301-350,George Mason University,38.0798485322
+312,301-350,University of Greifswald,38.2906386522
+313,301-350,Gwangju Institute of Science and Technology,39.9320056514
+314,301-350,University of Hohenheim,39.7615218622
+315,301-350,University of Innsbruck,40.3213943346
+316,301-350,Kazan Federal University,39.7538332173
+317,301-350,University of Kent,38.2366964855
+318,301-350,Leibniz University of Hanover,38.5004510099
+319,301-350,Macquarie University,39.6774765576
+320,301-350,Medical College of Wisconsin,39.8784115108
+321,301-350,University of Milan,39.7828039101
+322,301-350,University of Milan-Bicocca,38.4826409925
+323,301-350,Montpellier University,39.1750812082
+324,301-350,Nagoya University,40.179420946
+325,301-350,University of Naples Federico II,39.2756399396
+326,301-350,National Chiao Tung University,38.449064935
+327,301-350,National Research Nuclear University MePhI,39.0691933048
+328,301-350,National Taiwan University of Science and Technology (Taiwan Tech),38.704409892
+329,301-350,University of Navarra,38.5175368553
+330,301-350,University of Nebraska-Lincoln,38.2313422621
+331,301-350,Örebro University,38.6460141527
+332,301-350,University of Oregon,38.2005067135
+333,301-350,University of Padua,40.6578944814
+334,301-350,University of Pavia,38.5879036443
+335,301-350,Plymouth University,39.0217288649
+336,301-350,Shanghai Jiao Tong University,39.3837685822
+337,301-350,University of Southern Denmark,40.0401311345
+338,301-350,Stellenbosch University,39.0963997597
+339,301-350,University of Strasbourg,39.9689531104
+340,301-350,Technical University of Dortmund,39.9309077764
+341,301-350,Technion Israel Institute of Technology,39.99402294
+342,301-350,Toulouse 1 Capitole University,38.73791153
+343,301-350,University of Trieste,40.117702392
+344,301-350,University of Turin,39.50826698
+345,301-350,University of Turku,39.7016178176
+346,301-350,Vrije Universiteit Brussel,39.5777331225
+347,301-350,V_B - Technical University of Ostrava,38.7603848169
+348,301-350,Yonsei University,38.0414626223
+349,301-350,York University,37.9075706834
+350,351-400,Bilkent University,35.4262963711
+351,351-400,"Binghamton University, State University of New York",35.2664801067
+352,351-400,University of Crete,37.8319617002
+353,351-400,University of Cyprus,37.1696382505
+354,351-400,Drexel University,35.2623090594
+355,351-400,University of Eastern Finland,37.3535210935
+356,351-400,University of Florence,38.172897911
+357,351-400,University of St Gallen,35.0369146202
+358,351-400,Graz University of Technology,35.3340574024
+359,351-400,University of Guelph,36.8368894628
+360,351-400,Hanyang University,35.2628560044
+361,351-400,Hong Kong Baptist University,36.8496842315
+362,351-400,University of Houston,37.4692610602
+363,351-400,Indian Institute of Technology Bombay,36.9721071673
+364,351-400,Instituto Superior Técnico Lisboa,36.4024835504
+365,351-400,University of Jyväskylä,36.9709406796
+366,351-400,La Trobe University,36.8576632367
+367,351-400,Loughborough University,37.3729697615
+368,351-400,University of Manitoba,36.1815523597
+369,351-400,University of Missouri,36.7118293135
+370,351-400,University of Modena and Reggio Emilia,35.6479847671
+371,351-400,University of Montana,35.3099362277
+372,351-400,"National University of Ireland, Maynooth",35.4663837649
+373,351-400,University of Nebraska Medical Center,37.9249402507
+374,351-400,University of New Mexico,37.6464631409
+375,351-400,Norwegian University of Science and Technology,36.202234002
+376,351-400,University of Oulu,35.2233140549
+377,351-400,Panthéon-Sorbonne University – Paris 1,36.2207718905
+378,351-400,Polytechnic University of Turin,37.3494733335
+379,351-400,University of Rome III,36.3531427026
+380,351-400,Sabancı University,37.0581545994
+381,351-400,San Diego State University,35.6141650108
+382,351-400,University of South Australia,36.6976820857
+383,351-400,University of South Carolina,35.8898831791
+384,351-400,University of South Dakota,35.5196399523
+385,351-400,State University of Campinas,35.6286863512
+386,351-400,University of Stirling,37.7706053414
+387,351-400,Sun Yat-sen University,35.3140193048
+388,351-400,Swansea University,37.1602013842
+389,351-400,Swinburne University of Technology,35.3535207228
+390,351-400,University of Tartu,37.5209751269
+391,351-400,Temple University,36.23747574
+392,351-400,University of Texas at San Antonio,35.7896388755
+393,351-400,UiT The Arctic University of Norway,36.8514151188
+394,351-400,Université Libre de Bruxelles,37.7223759353
+395,351-400,Lille 2 University – Health and Law,35.6375747747
+396,351-400,University College Cork,36.7120441342
+397,351-400,Verona University,37.7385958371
+398,351-400,Victoria University of Wellington,37.1233842369
+399,351-400,Washington State University,36.2292898198
+400,351-400,Wayne State University,36.6142423722
+401,401-500,American University,32.8342568739
+402,401-500,Aston University,34.3519903427
+403,401-500,University of Aveiro,32.878375245
+404,401-500,University of Bari Aldo Moro,33.2434058596
+405,401-500,Bar-Ilan University,30.1197324872
+406,401-500,Bournemouth University,29.4775930549
+407,401-500,University of Brescia,34.5481122572
+408,401-500,Brno University of Technology,30.18961259
+409,401-500,Brunel University London,33.5569528951
+410,401-500,Ca’ Foscari University of Venice,33.8147156034
+411,401-500,University of Cagliari,30.1167376563
+412,401-500,University of Canterbury,33.1698096395
+413,401-500,Catholic University of the Sacred Heart,29.5164488047
+414,401-500,Charles University in Prague,32.7994389924
+415,401-500,"China Medical University, Taiwan",32.93432353
+416,401-500,City University London,33.5374892107
+417,401-500,Claude Bernard University Lyon 1,34.8358782805
+418,401-500,University of Coimbra,33.4635585919
+419,401-500,Complutense University of Madrid,31.2530495338
+420,401-500,Concordia University,29.8864205084
+421,401-500,Curtin University,33.0070097743
+422,401-500,Dublin City University,32.8983975293
+423,401-500,East China University of Science and Technology,29.4931647584
+424,401-500,Ewha Womans University,31.6576682722
+425,401-500,Federico Santa María Technical University,34.2541753121
+426,401-500,University of Ferrara,33.5083774886
+427,401-500,Florida International University,31.0720704955
+428,401-500,University of Genoa,34.2222149563
+429,401-500,Georgia State University,32.4023929879
+430,401-500,University of Graz,34.0145580423
+431,401-500,Heriot-Watt University,32.1122027162
+432,401-500,Hokkaido University,33.9773126001
+433,401-500,Howard University,30.3413135801
+434,401-500,University of Hull,29.7248697528
+435,401-500,University of Idaho,29.5319782202
+436,401-500,Indian Institute of Technology Delhi,31.2993155312
+437,401-500,Indian Institute of Technology Kharagpur,33.431352978
+438,401-500,Indian Institute of Technology Madras,29.5007169032
+439,401-500,University of Ioannina,30.1849705819
+440,401-500,Iran University of Science and Technology,30.8535501812
+441,401-500,Johannes Kepler University of Linz,30.5300372096
+442,401-500,University of Kaiserslautern,35.0675782932
+443,401-500,Keele University,32.9832709595
+444,401-500,University of KwaZulu-Natal,31.3109974739
+445,401-500,Kyung Hee University,33.3739506403
+446,401-500,Kyushu University,32.6521874143
+447,401-500,Lehigh University,32.689413604
+448,401-500,Louisiana State University,29.4629144866
+449,401-500,University of Macau,33.5795356534
+450,401-500,Makerere University,34.0557457078
+451,401-500,Marche Polytechnic University,34.8556439257
+452,401-500,"University of Maryland, Baltimore County",33.0639566963
+453,401-500,Murdoch University,34.0713190001
+454,401-500,University of Nantes,32.9939324798
+455,401-500,National and Kapodistrian University of Athens,29.5677969957
+456,401-500,National Autonomous University of Mexico,33.6370136539
+457,401-500,National Cheng Kung University,33.6622780128
+458,401-500,National Institute of Applied Sciences of Lyon (INSA Lyon),29.3596656598
+459,401-500,National Yang-Ming University,29.8586382585
+460,401-500,University of Neuchâtel,32.4397778235
+461,401-500,New University of Lisbon,30.433729233
+462,401-500,University of Nice Sophia Antipolis,33.6935581371
+463,401-500,Novosibirsk State University,32.8496788423
+464,401-500,The Open University,32.9052090758
+465,401-500,Oxford Brookes University,31.6667973681
+466,401-500,University of Palermo,33.2217929062
+467,401-500,University of Parma,30.927634869
+468,401-500,University of Pisa,34.7361379677
+469,401-500,Polytechnic University of Catalonia,31.0822077441
+470,401-500,Pontifical Catholic University of Chile,30.462158299
+471,401-500,University of Porto,33.5391982264
+472,401-500,University of Portsmouth,32.1800447081
+473,401-500,RMIT University,32.7871325804
+474,401-500,University of Rome II – Tor Vergata,35.2335701189
+475,401-500,University of Rovira i Virgili,34.6404109023
+476,401-500,Saint Petersburg State University,31.2050228947
+477,401-500,University of Salento,31.5147991248
+478,401-500,University of San Francisco,30.7781276259
+479,401-500,University of Saskatchewan,33.1089598436
+480,401-500,Sharif University of Technology,30.6014092164
+481,401-500,University of Siena,29.7003999553
+482,401-500,Southern Cross University,31.829666543
+483,401-500,State University of New York Albany,31.7546063725
+484,401-500,University of Strathclyde,31.6775965341
+485,401-500,University of Tampere,34.312329256
+486,401-500,Tampere University of Technology,31.2575556519
+487,401-500,Tokyo Medical and Dental University (TMDU),31.3432953543
+488,401-500,Tokyo Metropolitan University,33.8693993142
+489,401-500,University of Tsukuba,34.5900020193
+490,401-500,University of Ulsan,31.2015935295
+491,401-500,Ulster University,29.0795877502
+492,401-500,Université du Québec à Montréal,31.5663850874
+493,401-500,Universiti Teknologi Malaysia,30.3603064757
+494,401-500,University of Urbino Carlo Bo,31.2835921381
+495,401-500,University of Valencia,30.5554746248
+496,401-500,University of Waikato,34.3498057619
+497,401-500,Western Sydney University,33.6725660025
+498,401-500,Wuhan University,29.8518859915
+499,401-500,Xiamen University,28.591938843
+500,501-600,American University of Beirut,27.9194770794
+501,501-600,Amirkabir University of Technology,27.6250286625
+502,501-600,"University of the Andes, Colombia",24.2833039974
+503,501-600,University of Arkansas,24.6013708551
+504,501-600,Auburn University,23.9111863336
+505,501-600,Babe_-Bolyai University,25.1638072513
+506,501-600,University of the Basque Country,25.2845088523
+507,501-600,Bauman Moscow State Technical University,24.036117167
+508,501-600,Ben-Gurion University of the Negev,27.3611557901
+509,501-600,Blaise Pascal University,25.6668648017
+510,501-600,Bo_aziçi University,28.7726455203
+511,501-600,University of Burgundy,26.5248215887
+512,501-600,University of Canberra,24.9685090249
+513,501-600,Carleton University,27.7457253648
+514,501-600,University of Catania,29.111615499
+515,501-600,Central Queensland University,27.248187819
+516,501-600,University of Chile,26.7103388235
+517,501-600,China Agricultural University,27.4607911276
+518,501-600,Chung-Ang University,26.9776382983
+519,501-600,Czech Technical University in Prague,25.5524267018
+520,501-600,De Montfort University,24.8692427159
+521,501-600,East China Normal University,28.0409856911
+522,501-600,Edith Cowan University,26.6212896194
+523,501-600,Federal University of Rio de Janeiro,24.0009476121
+524,501-600,University of Granada,28.8656760011
+525,501-600,University of Haifa,27.5559865606
+526,501-600,Harbin Institute of Technology,25.9591071935
+527,501-600,University of Hertfordshire,28.9111558104
+528,501-600,Hiroshima University,29.1352169652
+529,501-600,Huazhong University of Science and Technology,28.128225332
+530,501-600,Indian Institute of Technology Guwahati,28.17994612
+531,501-600,Indian Institute of Technology Kanpur,25.8382002839
+532,501-600,Indian Institute of Technology Roorkee,28.5007847481
+533,501-600,Isfahan University of Technology,28.0780734993
+534,501-600,Istanbul Technical University,24.9069774598
+535,501-600,Jadavpur University,27.5682024746
+536,501-600,Kanazawa University,24.5244765982
+537,501-600,Kansas State University,27.8518607435
+538,501-600,Keio University,23.8836793789
+539,501-600,Kent State University,28.9244821403
+540,501-600,King Fahd University of Petroleum and Minerals,27.8122524768
+541,501-600,King Saud University,24.7169981387
+542,501-600,University of La Laguna,25.4316644943
+543,501-600,Lappeenranta University of Technology,28.307963442
+544,501-600,University of Limerick,27.9477126236
+545,501-600,University of Lisbon,27.2887589927
+546,501-600,Liverpool John Moores University,27.1758087448
+547,501-600,Mahidol University,26.0498685907
+548,501-600,Manchester Metropolitan University,23.8719598873
+549,501-600,University of Maribor,24.8147659982
+550,501-600,Masaryk University,25.8530742269
+551,501-600,Massey University,28.148182865
+552,501-600,Memorial University of Newfoundland,25.7042006981
+553,501-600,Middle East Technical University,26.2024735071
+554,501-600,University of Minho,28.2936585421
+555,501-600,Missouri University of Science and Technology,25.2405321019
+556,501-600,Montana State University,28.9644410166
+557,501-600,Monterrey Institute of Technology and Higher Education,24.1795005873
+558,501-600,National Central University,23.8412959412
+559,501-600,National Sun Yat-Sen University,27.9527957404
+560,501-600,National Taiwan Normal University,26.8382629484
+561,501-600,National Technical University of Athens,24.750023465
+562,501-600,New Jersey Institute of Technology,24.4275041886
+563,501-600,New Mexico State University,28.7567225494
+564,501-600,University of North Carolina at Greensboro,24.8889062737
+565,501-600,Oklahoma State University,27.5560621326
+566,501-600,Osaka City University,24.6951973022
+567,501-600,Otto von Guericke University of Magdeburg,27.1483577713
+568,501-600,University of Oviedo,25.1385759266
+569,501-600,Palack_ University in Olomouc,26.4550111283
+570,501-600,Panjab University,24.1854485322
+571,501-600,Paris Dauphine University,23.7728784674
+572,501-600,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),26.249750036
+573,501-600,Portland State University,25.6546818453
+574,501-600,University of Pretoria,23.7625231035
+575,501-600,Pusan National University,25.6945017173
+576,501-600,Quaid-i-azam University,24.7538667127
+577,501-600,University of Regina,23.8034805516
+578,501-600,Renmin University of China,27.5369921469
+579,501-600,University of Rennes 1,26.3624407812
+580,501-600,University of Salamanca,24.3641803997
+581,501-600,University of Santiago de Compostela,28.6973495408
+582,501-600,Semmelweis University,28.2925620925
+583,501-600,University of Seville,23.9705706572
+584,501-600,Université de Sherbrooke,26.3808949993
+585,501-600,Soochow University,26.6999719816
+586,501-600,South China University of Technology,24.3200933873
+587,501-600,Tallinn University of Technology,24.9512121189
+588,501-600,Tehran University of Medical Sciences,26.0940929111
+589,501-600,University of Texas at Arlington,28.670011472
+590,501-600,Tianjin University,28.3810181816
+591,501-600,Tokyo University of Agriculture and Technology,25.0021634717
+592,501-600,University of Toledo,25.8187359756
+593,501-600,Tongji University,25.4712295619
+594,501-600,University of Tulsa,24.9680966779
+595,501-600,United Arab Emirates University,24.1678357951
+596,501-600,University of Warsaw,29.0503137248
+597,501-600,University of Wisconsin-Milwaukee,25.5076078064
+598,501-600,Xi’an Jiaotong University,26.5401787787
+599,501-600,University of Zaragoza,28.0987189679
+600,601-800,University of A Coruña,16.0428528727
+601,601-800,Adam Mickiewicz University,16.468957641
+602,601-800,AGH University of Science and Technology,17.4992824742
+603,601-800,Ajou University,19.046111507
+604,601-800,University of Alcalá,21.7887053952
+605,601-800,Alexandria University,15.9322103247
+606,601-800,Alexandru Ioan Cuza University,17.7092029629
+607,601-800,Aligarh Muslim University,19.8821542721
+608,601-800,American University of Sharjah,18.9015834549
+609,601-800,Amrita University,16.9350720571
+610,601-800,Anadolu University,17.4681892442
+611,601-800,Andhra University,14.1579160632
+612,601-800,University of Antioquia,20.3077065077
+613,601-800,Aristotle University of Thessaloniki,23.660904894
+614,601-800,"Asia University, Taiwan",20.4935524434
+615,601-800,Athens University of Economics and Business,23.5026986453
+616,601-800,Auckland University of Technology,22.0851127241
+617,601-800,Austral University of Chile,16.3804254163
+618,601-800,Beijing Institute of Technology,20.2508509473
+619,601-800,Belarusian State University,14.6663550472
+620,601-800,University of Belgrade,17.8334362423
+621,601-800,"Birla Institute of Technology and Science, Pilani",14.958340674
+622,601-800,University of Bradford,23.439159126
+623,601-800,University of Brasília,13.5900378651
+624,601-800,University of Brighton,19.2287382831
+625,601-800,University of Bucharest,19.0768153712
+626,601-800,Budapest University of Technology and Economics,19.0557017498
+627,601-800,Cairo University,15.6603443506
+628,601-800,University of Calcutta,20.6648522715
+629,601-800,"California State University, Long Beach",14.7978260946
+630,601-800,Capital Medical University,19.1843143539
+631,601-800,University of Castilla-La Mancha,20.55002475
+632,601-800,University of Central Lancashire,20.4002067182
+633,601-800,University of Cergy-Pontoise,15.4765009868
+634,601-800,Chang Gung University,23.3655749705
+635,601-800,Carlos III University of Madrid,23.6241833789
+636,601-800,"University of Chemistry and Technology, Prague",19.5990755359
+637,601-800,Chiang Mai University,20.5364459576
+638,601-800,Chiba University,23.3315251174
+639,601-800,China University of Geosciences (Wuhan),21.9020003849
+640,601-800,China University of Petroleum (Beijing),19.7693988022
+641,601-800,Chonbuk National University,20.3156248426
+642,601-800,Chongqing University,15.961327756
+643,601-800,Chonnam National University,19.663091814
+644,601-800,Chulalongkorn University,19.6987811098
+645,601-800,Chung Yuan Christian University,18.9287595457
+646,601-800,Chungnam National University,18.4825801445
+647,601-800,Clemson University,23.6355438553
+648,601-800,Comenius University in Bratislava,20.0743892863
+649,601-800,Coventry University,18.4880790589
+650,601-800,Dalian University of Technology,23.2813096072
+651,601-800,University of Debrecen,18.5212553639
+652,601-800,University of Delhi,19.7733394958
+653,601-800,University of Dhaka,14.3628537124
+654,601-800,Dublin Institute of Technology,19.2641071332
+655,601-800,Ehime University,16.6682345852
+656,601-800,University of Electronic Science and Technology of China,14.1678137291
+657,601-800,Eötvös Loránd University,23.1653830444
+658,601-800,Erciyes University,15.2525768189
+659,601-800,Federal University of Bahia,13.5715797353
+660,601-800,Federal University of Minas Gerais,22.262848537
+661,601-800,Federal University of Paraná (UFPR),13.4143979965
+662,601-800,Federal University of Rio Grande do Sul,20.272007929
+663,601-800,Federal University of Santa Catarina,18.2716362577
+664,601-800,Federal University of São Carlos,16.5374220357
+665,601-800,Federal University of Viçosa,19.9261362791
+666,601-800,Federal University of Lavras,14.5189790405
+667,601-800,Feng Chia University,21.1906410876
+668,601-800,Florida Institute of Technology,22.651767161
+669,601-800,Fu Jen Catholic University,15.2052277335
+670,601-800,Gda_sk University of Technology,14.1797531695
+671,601-800,University of Ghana,18.77670262
+672,601-800,Gifu University,19.0808439037
+673,601-800,Glasgow Caledonian University,19.9719819235
+674,601-800,University of Greenwich,19.2115489888
+675,601-800,Hacettepe University,17.8245722408
+676,601-800,University of Huddersfield,16.2379259313
+677,601-800,Hunan University,18.5150798107
+678,601-800,University of Ibadan,14.2475749644
+679,601-800,University of Indonesia,15.8151352962
+680,601-800,Inha University,22.1370178207
+681,601-800,I-Shou University,13.9986451447
+682,601-800,Istanbul University,21.7127388334
+683,601-800,Jagiellonian University,23.9198126281
+684,601-800,Jilin University,19.5751489329
+685,601-800,University of Jordan,15.04325521
+686,601-800,Jordan University of Science and Technology,17.1244899779
+687,601-800,Juntendo University,22.3823371051
+688,601-800,K.N. Toosi University of Technology,20.2016610564
+689,601-800,Kaohsiung Medical University,21.1853523375
+690,601-800,Khon Kaen University,16.8373356525
+691,601-800,King Mongkut’s University of Technology Thonburi,23.6574225111
+692,601-800,Kingston University,22.7390902979
+693,601-800,Kinki University,18.8975037691
+694,601-800,Kobe University,22.7856869102
+695,601-800,Konkuk University,19.3679295596
+696,601-800,Kumamoto University,21.497023129
+697,601-800,Kyungpook National University,18.8554389318
+698,601-800,Kyushu Institute of Technology,16.24415491
+699,601-800,University of Latvia,19.2725472366
+700,601-800,Lille 1 University – Science and Technology,23.2886673021
+701,601-800,University of Lincoln,21.6547652323
+702,601-800,University of Ljubljana,22.1956828088
+703,601-800,University of Marrakech Cadi Ayyad,14.5300459006
+704,601-800,Miami University,23.7361361717
+705,601-800,Middlesex University,22.0795888093
+706,601-800,Moscow Institute of Physics and Technology,23.6456449389
+707,601-800,University of Murcia,20.4761444141
+708,601-800,Nagasaki University,15.7493545152
+709,601-800,University of Nairobi,16.798686235
+710,601-800,National Chengchi University,16.5083247231
+711,601-800,National Chung Cheng University,19.1429037465
+712,601-800,National Chung Hsing University,20.6937268792
+713,601-800,National Taipei University of Technology,17.7591243482
+714,601-800,National Taiwan Ocean University,19.8069499019
+715,601-800,National University of Córdoba,14.2533457534
+716,601-800,National University of Science and Technology (MISiS),20.0113282346
+717,601-800,National University of Sciences and Technology,22.2430813521
+718,601-800,Niigata University,16.9036616513
+719,601-800,Northumbria University,21.8235997827
+720,601-800,Northwestern Polytechnical University,14.3100811132
+721,601-800,Nottingham Trent University,20.1178535787
+722,601-800,Oakland University,17.8042897048
+723,601-800,Ocean University of China,15.0011530354
+724,601-800,Ohio University,22.3401598548
+725,601-800,Okayama University,21.9109231707
+726,601-800,Osaka Prefecture University,16.941189645
+727,601-800,University of Pardubice,14.0388075537
+728,601-800,University of Paris North – Paris 13,23.592589738
+729,601-800,Paris-Sorbonne University – Paris 4,21.5601315038
+730,601-800,University of Patras,21.2569558576
+731,601-800,University of Pécs,20.0972397127
+732,601-800,Polytechnic University of Valencia,23.6783060982
+733,601-800,Pontifical Catholic University of Paraná,19.2206050874
+734,601-800,Pontifical Catholic University of Rio Grande do Sul (PUCRS),20.5670275684
+735,601-800,Pontifical Catholic University of Valparaíso,14.6593978154
+736,601-800,Prince of Songkla University,16.4120650597
+737,601-800,Qatar University,21.4824221137
+738,601-800,Rio de Janeiro State University (UERJ),14.8825967492
+739,601-800,Rochester Institute of Technology,19.5333214219
+740,601-800,Saitama University,17.5523926664
+741,601-800,University of Salford,21.477374942
+742,601-800,"University of Santiago, Chile (USACH)",15.3377467622
+743,601-800,São Paulo State University (UNESP),19.5348750883
+744,601-800,Savitribai Phule Pune University,20.5944537691
+745,601-800,University of Science and Technology Beijing,19.5568371793
+746,601-800,Sejong University,23.5599292383
+747,601-800,University of Seoul,20.4398847148
+748,601-800,Shahid Beheshti University,17.7767918653
+749,601-800,Shanghai University,17.1902633261
+750,601-800,Shantou University,19.3202583969
+751,601-800,Sheffield Hallam University,17.9200218939
+752,601-800,Shinshu University,17.4351353725
+753,601-800,Showa University,13.7976362234
+754,601-800,Sichuan University,21.1957893278
+755,601-800,University of Silesia in Katowice,15.9247517987
+756,601-800,Slovak University of Technology in Bratislava,20.2448483649
+757,601-800,Sogang University,23.0532963104
+758,601-800,Sophia University,13.8458142679
+759,601-800,University of South Africa,14.5187336344
+760,601-800,Southern Federal University,14.013429828
+761,601-800,University of Southern Mississippi,18.1755012127
+762,601-800,University of Southern Queensland,18.7708608591
+763,601-800,Suez Canal University,15.5019352271
+764,601-800,Sultan Qaboos University,20.4679678126
+765,601-800,Suranaree University of Technology,18.1558060072
+766,601-800,University of Szeged,19.608694887
+767,601-800,Taipei Medical University,22.7821938401
+768,601-800,Taras Shevchenko National University of Kyiv,15.8254431602
+769,601-800,Technical University of Madrid,22.0492660912
+770,601-800,University of Tehran,18.8862549577
+771,601-800,University of Texas at El Paso,18.6708851481
+772,601-800,Texas Tech University,22.5463639744
+773,601-800,Tokai University,14.3230817814
+774,601-800,Tokushima University,20.4460229202
+775,601-800,Tokyo University of Marine Science and Technology,17.3974497052
+776,601-800,Tokyo University of Science,22.4753509713
+777,601-800,Tomsk State University,22.6441932412
+778,601-800,Tottori University,15.0637329963
+779,601-800,Toyohashi University of Technology,19.9367324183
+780,601-800,Universiti Kebangsaan Malaysia,18.2999939914
+781,601-800,Universiti Putra Malaysia,21.4334934354
+782,601-800,Universiti Sains Malaysia,20.8630743001
+783,601-800,Universiti Teknologi MARA,14.3007868025
+784,601-800,Ural Federal University,17.8206294468
+785,601-800,V.N. Karazin Kharkiv National University,14.0741640217
+786,601-800,University of Vigo,21.3541367784
+787,601-800,Vilnius University,21.6009452808
+788,601-800,Warsaw University of Technology,23.3041714181
+789,601-800,Waseda University,23.1456017595
+790,601-800,University of West Bohemia,19.2655488377
+791,601-800,University of the West of England,22.8533834845
+792,601-800,West University of Timi_oara,14.3798405433
+793,601-800,University of Westminster,21.4272201716
+794,601-800,Xidian University,14.5714806543
+795,601-800,Yeungnam University,19.3105075679
+796,601-800,Yıldız Technical University,14.5533780423
+797,601-800,Yokohama City University,23.2269068739
+798,601-800,Yokohama National University,17.4032092322
+799,601-800,Yuan Ze University,21.1757138641
