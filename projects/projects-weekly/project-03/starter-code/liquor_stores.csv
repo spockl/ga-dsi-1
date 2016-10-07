@@ -1,0 +1,1486 @@
+,Store,Name,Store Status,Address,City,State,Zip Code,Report Date,Latitude,Longitude
+0,3816,Swils,A,200 E Oak St,Red Oak,IA,51566,10/01/2016,41.016691,-95.230032
+1,5194,Shelby General Store,A,"406, East St",Shelby,IA,51570,10/01/2016,41.515195,-95.450459
+2,2106,Hillstreet News and Tobacco,A,2217 College,Cedar Falls,IA,50613,10/01/2016,42.517182,-92.455796
+3,2113,Jamboree Foods,A,1119 Market St. Box 71,Gowrie,IA,50543,10/01/2016,42.28057,-94.289457
+4,2130,Sycamore Convenience,A,617 Sycamore,Waterloo,IA,50703,10/01/2016,42.497804,-92.33528
+5,2152,Dugans Supermarket,I,202 4th North,Rockwell,IA,50469,10/01/2016,42.986351,-93.188172
+6,2178,"""Double """"D"""" Liquor Store""",A,618 Rossville Road,Waukon,IA,52172,10/01/2016,43.262069,-91.473622
+7,2190,"Central City Liquor, Inc.",A,1460 2ND AVE,Des Moines,IA,50314,10/01/2016,41.60566,-93.619787
+8,2191,Keokuk Spirits,A,1013 Main,Keokuk,IA,52632,10/01/2016,40.399961,-91.387717
+9,2200,Sac Liquor Store,A,619 E Main St,Sac City,IA,50583,10/01/2016,42.421341,-94.974011
+10,2205,Ding's Honk And Holler,I,900 E Washington,Clarinda,IA,51632,10/01/2016,40.739231,-95.027239
+11,2228,Rodgers Spirits and More,A,53 Green St,Winterset,IA,50273,10/01/2016,41.336407,-94.012459
+12,2233,Forbes Liquor Locker / remi,A,2508 Enterprise Ave,Spirit Lake,IA,51360,10/01/2016,43.416461,-95.126785
+13,2238,Adventureland Inn,A,3200 Adventureland Dr,Altoona,IA,50009,10/01/2016,41.658515,-93.499151
+14,2248,Ingersoll Liquor and Beverage,A,3500 Ingersoll Ave,Des Moines,IA,50312,10/01/2016,41.586319,-93.664182
+15,2285,John's Grocery,A,401 East Market St,Iowa City,IA,52240,10/01/2016,41.663541,-91.529854
+16,2290,Al's Liquors Unlimited,A,215 West Milwaukee,Storm Lake,IA,50588,10/01/2016,42.647492,-95.202405
+17,2327,West Side Spirits,A,801 Hull St,Corning,IA,50841,10/01/2016,40.989239,-94.742993
+18,2353,Cresco Liquor Store,I,708 2nd Ave SE,Cresco,IA,52136,10/01/2016,43.371131,-92.106529
+19,2367,Spencer's Grocery,I,101 South Burnett,Shenandoah,IA,51601,10/01/2016,40.765459,-95.381936
+20,2413,Beecher Beverage,A,1691 Asbury Road,Dubuque,IA,52001,10/01/2016,42.500817,-90.696908
+21,2422,Marriott Corp.,A,700 Grand Avenue,Des Moines,IA,50309,10/01/2016,41.587503,-93.626508
+22,2445,Ruback's Food Center,A,504 South Highway,Oakland,IA,51560,10/01/2016,41.301436,-95.402224
+23,2448,Bottle Boutique,A,705 E. SECOND,Indianola,IA,50125,10/01/2016,41.358176,-93.552614
+24,2459,Reinhart Foods,A,200 State Po Box 98,Guthrie Center,IA,50115,10/01/2016,41.680134,-94.505404
+25,2460,"Liquor Barn, Inc.",A,721 Central Avenue West,Hampton,IA,50441,10/01/2016,42.741728,-93.21693
+26,2465,Sid's Beverage Shop,A,2727 Dodge St,Dubuque,IA,52003,10/01/2016,42.4918,-90.704724
+27,2475,"Private Cellar, Inc.",A,206 2nd Ave NE,West Bend,IA,50597,10/01/2016,42.96298,-94.443
+28,2478,Prairie Meadows,A,One Prairie Meadows Drive,Altoona,IA,50009,10/01/2016,,
+29,2487,Anamosa Family Foods,I,402 East Main,Anamosa,IA,52205,10/01/2016,42.108275,-91.281344
+30,2498,Charley's Quik Shop,A,910 Main St,Arlington,IA,50606,10/01/2016,42.751114,-91.674871
+31,2500,Hy-Vee Food Store #1 / Ames,A,3800 W Lincoln Way,Ames,IA,50010,10/01/2016,42.022832,-93.669899
+32,2501,Hy-Vee  #2 / Ames,A,640 Lincolnway,Ames,IA,50010,10/01/2016,42.022848,-93.619455
+33,2502,Hy-Vee Wine and Spirits / Ankeny,A,410 North Ankeny Blvd,Ankeny,IA,50021,10/01/2016,41.734644,-93.600406
+34,2505,Hy-Vee Wine and Spirits / Boone,A,1111  8TH ST,Boone,IA,50036,10/01/2016,42.063831,-93.876107
+35,2506,Hy-Vee #1044 / Burlington,A,3140 Agency,Burlington,IA,52601,10/01/2016,40.814659,-91.136617
+36,2507,Hy-Vee Food Store #1 / Burlington,A,939 Angular,Burlington,IA,52601,10/01/2016,40.801908,-91.110637
+37,2508,Hy-Vee Food Store #1 / Cedar Rapids,A,"1843 Johnson Avenue, N.W.",Cedar Rapids,IA,52405,10/01/2016,41.97447,-91.697941
+38,2509,Hy-Vee / Drugtown #1 / Cedar Rapids,A,1520 6th St SW,Cedar Rapids,IA,52404,10/01/2016,41.96233,-91.677063
+39,2512,Hy-Vee Wine and Spirits / Iowa City,A,1720 Waterfront Dr,Iowa City,IA,52240,10/01/2016,41.64272,-91.530436
+40,2513,Hy-Vee Food Store #2 / Iowa City,A,812  S 1st Ave,Iowa City,IA,52240,10/01/2016,41.650954,-91.501984
+41,2514,Hy-Vee Drugstore / Marion,A,2790 7th Avenue,Marion,IA,50129,10/01/2016,42.033239,-91.582279
+42,2515,Hy-Vee Food Store #1 / Mason City,A,2400 4th St SW,Mason City,IA,50401,10/01/2016,43.148451,-93.235587
+43,2517,Hy-Vee Food Store #1 / Newton,A,1501 First Avenue East,Newton,IA,50208,10/01/2016,41.699157,-93.033284
+44,2518,Hy-Vee Wine and Spirits / Red Oak,A,1607 North Broadway,Red Oak,IA,51566,10/01/2016,41.019275,-95.232783
+45,2521,Hy-Vee Food and Drug / Grand / WDM,A,1990 Grand Avenue,West Des Moines,IA,50265,10/01/2016,41.571127,-93.73162
+46,2522,Hy-Vee Wine and Spirits / Spirit Lake,A,Hwy 9 & 71,Spirit Lake,IA,51360,10/01/2016,,
+47,2523,Hy-Vee Food Store / Centerville,A,414 N 18th St,Centerville,IA,52544,10/01/2016,40.735639,-92.86795
+48,2524,Hy-Vee Food Store / Dubuque,A,3500 Dodge St,Dubuque,IA,52001,10/01/2016,42.491944,-90.720589
+49,2527,Hy-Vee Food Store #5 / Des Moines,A,1107 SE Army Post Rd,Des Moines,IA,50315,10/01/2016,41.526289,-93.602371
+50,2528,Hy-Vee Food Store #3 / Des Moines,A,3221 SE 14th St,Des Moines,IA,50315,10/01/2016,41.554101,-93.596754
+51,2529,Hy-Vee Drugstore #4 / Cedar Rapids,A,4825 Johnson Ave NW,Cedar Rapids,IA,52405,10/01/2016,41.968394,-91.733235
+52,2532,Hy-Vee Food Store #2 / Des Moines,A,2540 E Euclid,Des Moines,IA,50317,10/01/2016,41.627838,-93.569452
+53,2535,Hy-Vee Food Store #1 / WDM,A,1700 Valley West Dr,West Des Moines,IA,50265,10/01/2016,41.597749,-93.751985
+54,2536,HY-VEE / PLEASANT HILL,A,4815 Maple Drive,Pleasant Hill,IA,50317,10/01/2016,41.598112,-93.51923
+55,2538,Hy-Vee Food Store #3 / Waterloo,A,1422 Flammang Dr,Waterloo,IA,50702,10/01/2016,42.459938,-92.327917
+56,2539,Hy-Vee Food Store / iowa Falls,A,Highway 65 South,Iowa Falls,IA,50126,10/01/2016,,
+57,2543,Hy-Vee Food Store #1 / Ottumwa,A,1025 North Quincy Ave,Ottuwma,IA,52501,10/01/2016,41.015624,-92.438466
+58,2544,Hy-Vee Food Store / Marshalltown,A,802 South Center,Marshalltown,IA,50158,10/01/2016,42.039049,-92.912859
+59,2545,Hy-Vee Drugstore / Iowa City,A,310 N 1st St,Iowa City,IA,52245,10/01/2016,41.665901,-91.502069
+60,2548,Hy-Vee Food Store / Altoona,A,100 8th Street SW,Altoona,IA,50009,10/01/2016,41.644041,-93.465301
+61,2549,Hy-Vee Food Store / Indianola,A,910 N Jefferson,Indianola,IA,50125,10/01/2016,41.368369,-93.558428
+62,2550,Hy-Vee Food Store / Osceola,A,510 West Mclane,Osceola,IA,50213,10/01/2016,41.030564,-93.773424
+63,2551,Hy-Vee Food Store / Chariton,A,2001 West Court,Chariton,IA,50049,10/01/2016,41.014572,-93.323511
+64,2552,Hy-Vee Food Store #3 / Cedar Rapids,A,20 Wilson Avenue West,Cedar Rapids,IA,52404,10/01/2016,41.955859,-91.658577
+65,2553,Hy-Vee Food Store / Creston,A,600 Sheldon,Creston,IA,50801,10/01/2016,41.051313,-94.372767
+66,2554,Hy-Vee Food Store / Davenport,A,3019 Rockingham Road,Davenport,IA,52802,10/01/2016,41.510613,-90.62056
+67,2555,Hy-Vee Food Store / Keokuk,A,3111 Main,Keokuk,IA,52632,10/01/2016,40.415171,-91.403539
+68,2556,Hy-Vee Wine and Spirits / Estherville,A,2608 E. Central Avenue,Estherville,IA,51334,10/01/2016,,
+69,2558,Hy-Vee Food Store / Mount Pleasant,A,1700 E Washington,Mount Pleasant,IA,52641,10/01/2016,40.962365,-91.528983
+70,2559,Hy-Vee Food Store / Albia,A,301 Hwy. 34 West,Albia,IA,52531,10/01/2016,41.015468,-92.810548
+71,2560,Hy-Vee Food Store / Marion,A,3600 Business Hwy 151 East,Marion,IA,52302,10/01/2016,,
+72,2561,Hy-Vee Food Store / Fleur / DSM,A,4605 Fleur Drive,Des Moines,IA,50321,10/01/2016,41.542748,-93.644943
+73,2562,Hy-Vee Food Store / Fort Dodge,A,115 South 29th St,Fort Dodge,IA,50501,10/01/2016,42.504742,-94.158247
+74,2564,Hy-Vee Food Store #4 / Waterloo,A,4000 University,Waterloo,IA,50701,10/01/2016,42.505197,-92.403843
+75,2565,Hy-Vee Food Store / Spencer,A,819 N Grand Ave,Spencer,IA,51301,10/01/2016,43.145897,-95.14506
+76,2566,Hy-Vee Food Store / Knoxville,A,813 N Lincoln Ste 1,Knoxville,IA,50138,10/01/2016,41.32788,-93.109519
+77,2567,Hy-Vee Drugstore / Davenport,A,2200 West Kimberly,Davenport,IA,52806,10/01/2016,41.560663,-90.608201
+78,2568,Hy-Vee Food Store #4 / Cedar Rapids,A,1556 First Avenue NE,Cedar Rapids,IA,52402,10/01/2016,41.98888,-91.650913
+79,2569,Hy-Vee Food Store #2 / Cedar Rapids,A,279 Collins Road NE,Cedar Rapids,IA,52402,10/01/2016,42.027806,-91.630739
+80,2571,Hy-Vee Food Store #2 / Waterloo,A,2181 Logan Ave,Waterloo,IA,50703,10/01/2016,42.530476,-92.337583
+81,2572,Hy-Vee Food Store / Cedar Falls,A,6301 University,Cedar Falls,IA,50613,10/01/2016,42.512773,-92.433485
+82,2573,Hy-Vee Food Store / Muscatine,A,2400 2nd Ave,Muscatine,IA,52761,10/01/2016,41.45135,-91.035137
+83,2575,Hy-Vee Food Store #1 / Waterloo,A,2834 Ansborough Ave,Waterloo,IA,50702,10/01/2016,42.471767,-92.376624
+84,2576,Hy-Vee Wine and Spirits / Storm Lake,A,1250 N Lake St,Storm Lake,IA,50588,10/01/2016,42.653184,-95.200758
+85,2578,Hy-Vee / Charles City,A,901 Kelly St,Charles City,IA,50616,10/01/2016,43.066932,-92.675436
+86,2579,Hy-Vee Food Store / Grinnell,A,320 West Street South,Grinnell,IA,50112,10/01/2016,41.7283,-92.727343
+87,2582,Hy-Vee #2 Food Store / Mason City,A,551 S Illinois Ave,Mason City,IA,50401,10/01/2016,43.146805,-93.17113
+88,2584,Hy-Vee Food Store / Fort Madison,A,2606 Avenue L,Fort Madison,IA,52627,10/01/2016,40.626988,-91.343544
+89,2585,Hy-Vee Wine and Spirits / Algona,A,1516 Highway 169 North,Algona,IA,50511,10/01/2016,43.081288,-94.236003
+90,2587,Hy-Vee Food Store / Johnston,A,5750 Merle Hay Road,Johnston,IA,50131,10/01/2016,41.664692,-93.697737
+91,2588,Hy-Vee Food and Drug #6 / Cedar Rapids,A,4035 Mt. Vernon Road S.E.,Cedar Rapids,IA,52403,10/01/2016,41.976835,-91.60978
+92,2590,Hy-Vee Food Store #5 / Cedar Rapids,A,3235 Oakland Road NE,Cedar Rapids,IA,52402,10/01/2016,42.01081,-91.658175
+93,2591,Hy-Vee Wine and Spirits / Atlantic,A,1602 E. 7th St.,Atlantic,IA,50022,10/01/2016,41.403856,-94.990183
+94,2592,Hy-Vee Drugstore / Marshalltown,A,1712 S Center  St,Marshalltown,IA,50158,10/01/2016,42.027531,-92.912505
+95,2593,Hy-Vee Food Store / Carroll,A,905 US Highway 30 West,Carroll,IA,51401,10/01/2016,42.064155,-94.853591
+96,2594,Hy-Vee Food Store / Sioux City,A,4500 Sergeant Road,Sioux City,IA,51106,10/01/2016,42.447471,-96.347261
+97,2595,Hy-Vee Wine and Spirits / Denison,A,"1620  4th Ave, South",Denison,IA,51442,10/01/2016,42.012395,-95.348601
+98,2596,Hy-Vee / Regal Liquors and Video,A,2453 North Court,Ottumwa,IA,52501,10/01/2016,41.049849,-92.408084
+99,2597,Hy-Vee Food Store / Cherokee,A,1300 N. Second,Cherokee,IA,51012,10/01/2016,42.765201,-95.55257
+100,2599,Hy-Vee Wine and Spirits / Coralville,I,1914 8th Street,Coralville,IA,52241,10/01/2016,41.682013,-91.590715
+101,2600,Hy-Vee Food Store / Oskaloosa,A,110  S  D  St,Oskaloosa,IA,52577,10/01/2016,41.294496,-92.649777
+102,2601,Hy-Vee Food Store / Fairfield,A,1300 West Burlington Ave,Fairfield,IA,52556,10/01/2016,41.006456,-91.978702
+103,2602,Hy-Vee Food Store / Webster City,A,823  2nd St,Webster City,IA,50595,10/01/2016,42.469466,-93.825486
+104,2603,Hy-Vee Wine and Spirits / Bettendorf,A,2890 Devils Glen Road,Bettendorf,IA,52722,10/01/2016,41.552338,-90.483701
+105,2604,Hy-Vee Wine and Spirits / Lemars,A,1201 12th Ave SW,Lemars,IA,51031,10/01/2016,42.778257,-96.18335
+106,2605,Hy-Vee Drugstore #5 / Cedar Rapids,A,2001 Blairs Ferry Road NE,Cedar Rapids,IA,52402,10/01/2016,42.034799,-91.668909
+107,2606,Hy-Vee Wine and Spirits / Humboldt,A,1011  13th St North,Humboldt,IA,50548,10/01/2016,42.733221,-94.227116
+108,2607,Hy-Vee Wine and Spirits / Shenandoah,A,520 So Fremont,Shenandoah,IA,51601,10/01/2016,40.760911,-95.385106
+109,2609,Hy-Vee Drugstore #2 / Ames,A,500 Main St,Ames,IA,50010,10/01/2016,42.025042,-93.618247
+110,2611,Hy-Vee Drugstore / Ottumwa,A,1140 North Jefferson St,Ottumwa,IA,52501,10/01/2016,41.026754,-92.401538
+111,2612,Hy-Vee Store / Perry,A,1215  141 St,Perry,IA,50220,10/01/2016,41.830299,-94.104404
+112,2613,Hy-Vee Food Store #1 / Council Bluffs,A,2323 W Broadway,Council Bluffs,IA,51501,10/01/2016,41.261925,-95.879662
+113,2614,Hy-Vee #3 Food and Drugstore,A,1823 E Kimberly Rd,Davenport,IA,52807,10/01/2016,41.556781,-90.548919
+114,2616,Hy-Vee Food and Drug / Clinton,A,901 South 4th St,Clinton,IA,52732,10/01/2016,41.83619,-90.193203
+115,2618,Hy-Vee Drugstore #6 / Cedar Rapids,A,505 Boyson Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.04671,-91.63913
+116,2619,Hy-Vee Wine and Spirits / WDM,A,1725  74th St,West Des Moines,IA,50266,10/01/2016,41.598515,-93.808855
+117,2620,Hy-Vee / Windsor Heights,A,7101 University Ave,Windsor Heights,IA,50311,10/01/2016,41.600375,-93.715116
+118,2621,Hy-Vee Food Store #3 / Sioux City,A,3301 Gordon Dr,Sioux City,IA,51105,10/01/2016,42.487752,-96.364108
+119,2622,Hy-Vee Food Store / Iowa City,A,1125 N Dodge St,Iowa City,IA,52240,10/01/2016,41.676203,-91.518536
+120,2623,Hy-Vee Food Store #4 / Sioux City,A,2827 Hamilton Blvd,Sioux City,IA,51104,10/01/2016,42.519886,-96.417783
+121,2624,Hy-Vee #2 / Dubuque,A,2395 NW Arterial Rd,Dubuque,IA,52002,10/01/2016,42.516633,-90.741064
+122,2625,Hy-Vee Wine and Spirits #2,A,3301 W Kimberly Rd,Davenport,IA,52804,10/01/2016,41.558023,-90.624411
+123,2626,Hy-Vee Drugstore / University / DSM,A,4100 University Ave,Des Moines,IA,50311,10/01/2016,41.600361,-93.673223
+124,2627,Hy-Vee Wine and Spirits #1,A,3424 Martin Luther King Jr Pkw,Des Moines,IA,50310,10/01/2016,41.626402,-93.651112
+125,2628,Hy-Vee Food Store / Eldora,A,1616 Edgington,Eldora,IA,50627,10/01/2016,42.360631,-93.103764
+126,2629,Hy-Vee Food Store #2 / Council Bluffs,A,1745 Madison Ave,Council Bluffs,IA,51503,10/01/2016,41.242732,-95.825137
+127,2630,Hy-Vee Drugstore #2 / WDM,A,1010  60th St,West Des Moines,IA,50266,10/01/2016,41.584979,-93.790534
+128,2633,Hy-Vee #3 / BDI / Des Moines,A,3221 SE 14th St,Des Moines,IA,50320,10/01/2016,41.554101,-93.596754
+129,2635,Hy-Vee #4 / Davenport,A,4064 E 53rd St,Davenport,IA,52807,10/01/2016,41.574973,-90.513769
+130,2636,Hy-Vee Wine and Spirits / Hubbell,A,2310 Hubbell Ave,Des Moines,IA,50317,10/01/2016,41.604245,-93.573912
+131,2637,Hy-Vee #5 / Davenport,A,2351 W Locust,Davenport,IA,52804,10/01/2016,41.538207,-90.611972
+132,2641,Hy-Vee Drugstore / Council Bluffs,A,757 W BROADWAY,Council Bluffs,IA,51501,10/01/2016,41.261673,-95.855054
+133,2642,Hy-Vee Wine and Spirits / Pella,A,512 E Oskaloosa,Pella,IA,50219,10/01/2016,41.396961,-92.899282
+134,2643,Hy-Vee Wine and Spirits / Waterloo,A,2126 Kimball Ave,Waterloo,IA,50701,10/01/2016,42.470369,-92.356943
+135,2644,Hy-Vee Fort Dodge Wine and Spirits,A,1511 2nd Ave North,Fort Dodge,IA,50501,10/01/2016,42.508352,-94.17692
+136,2647,Hy-Vee #7 / Cedar Rapids,A,5050 Edgewood Rd,Cedar Rapids,IA,52411,10/01/2016,42.030457,-91.701432
+137,2648,Hy-Vee #4 / Wdm,A,555 S 51st St,West Des Moines,IA,50265,10/01/2016,41.561219,-93.773583
+138,2649,Hy-Vee #3 / Dubuque,A,400 Locust St,Dubuque,IA,52001,10/01/2016,42.497219,-90.666497
+139,2650,Hy-Vee Wine and Spirits / Harlan,A,1808 23rd St,Harlan,IA,51537,10/01/2016,41.65063,-95.339879
+140,2651,Hy-Vee / Waverly,A,1311 4 Street SW,Waverly,IA,50677,10/01/2016,42.712263,-92.475403
+141,2652,Hy-Vee DrugStore / Mason City,A,875  4th St SW,Mason City,IA,50401,10/01/2016,43.148257,-93.213856
+142,2653,Hy-Vee Wine and Spirits / Washington,A,1004 W Madison St,Washington,IA,52353,10/01/2016,41.296576,-91.704551
+143,2655,Hy-Vee Food Store / Clarinda,A,1200 S 16TH ST,Clarinda,IA,51632,10/01/2016,40.726839,-95.037848
+144,2656,Hy-Vee Food Store / Corning,A,300  10th St,Corning,IA,51632,10/01/2016,40.991951,-94.743093
+145,2657,Hy-Vee Food Store / Bedford,A,1604 Bent,Bedford,IA,50833,10/01/2016,40.676171,-94.725578
+146,2658,Hy-Vee Food Store / Mount Ayr,A,402 S Hayes St,Mount Ayr,IA,50854,10/01/2016,40.711775,-94.233185
+147,2659,Hy-Vee Food Store / Corydon,I,303 E Jefferson St,Corydon,IA,50060,10/01/2016,40.757154,-93.315748
+148,2660,HY-VEE FOOD STORE / SIOUX CENTER,A,1951 S Main Ave,Sioux Center,IA,51250,10/01/2016,43.056471,-96.175695
+149,2661,Hy-Vee Food Store / Sheldon,A,1989 Park St,Sheldon,IA,51201,10/01/2016,43.186038,-95.831721
+150,2662,Hy-Vee Wine & Spirits / Muscatine,A,"522 Mulberry, Suite A",Muscatine,IA,52761,10/01/2016,41.426658,-91.044413
+151,2663,Hy-Vee / Urbandale,A,8701 Douglas,Urbandale,IA,50322,10/01/2016,41.629364,-93.739105
+152,2665,Hy-Vee / Waukee,A,1005 E Hickman Rd,Waukee,IA,50263,10/01/2016,41.615059,-93.854477
+153,2666,Hy-Vee #2 / Ankeny,A,2510 SW State St,Ankeny,IA,50023,10/01/2016,41.704094,-93.62159
+154,2667,Hy-Vee Mainstreet,A,2611 Pierce St,Sioux City,IA,51104,10/01/2016,42.517651,-96.405172
+155,2668,Hy-Vee Food Store / Leon,A,1004 W 1st St,Leon,IA,50144,10/01/2016,40.739645,-93.757827
+156,2669,Hy-Vee / Corydon,A,"103, E Jackson St",Corydon,IA,50060,10/01/2016,40.75842,-93.318046
+157,2670,Hy-Vee Food Store / Coralville,A,2004 8th  St,Coralville,IA,52241,10/01/2016,41.682337,-91.591868
+158,2671,Hy-Vee  /  Jefferson,A,"106, W Washington St",Jefferson,IA,50129,10/01/2016,42.017269,-94.374804
+159,2672,Hy-Vee / Winterset,A,923 N  1st St,Winterset,IA,50273,10/01/2016,41.342665,-94.013482
+160,2806,Osco #881 / Clinton,A,1307 N Second,Clinton,IA,52732,10/01/2016,41.858988,-90.184778
+161,2835,CVS Pharmacy #8538 / Cedar Falls,A,2302 West First St,Cedar Falls,IA,50613,10/01/2016,42.540002,-92.473049
+162,2836,CVS Pharmacy #8546 / Waterloo,A,205 Franklin St,Waterloo,IA,50703,10/01/2016,42.503373,-92.337304
+163,2837,CVS Pharmacy #8544 / Waterloo,A,1825 E San Marnan,Waterloo,IA,50702,10/01/2016,42.466956,-92.321632
+164,2838,CVS Pharmacy #8658 / Davenport,A,1655 W Kimberly Rd,Davenport,IA,52806,10/01/2016,41.559969,-90.600088
+165,2839,CVS Pharmacy #8659 / Davenport,A,1777 Division St,Davenport,IA,52804,10/01/2016,41.537792,-90.601105
+166,2840,CVS Pharmacy #8633 / Bettendorf,A,2002 Spruce Hills Dr,Bettendorf,IA,52722,10/01/2016,41.550062,-90.503701
+167,2841,CVS Pharmacy #8532 / Cedar Rapids,A,2711 Mt Vernon Rd,Cedar Rapids,IA,52403,10/01/2016,41.976883,-91.627468
+168,2843,CVS Pharmacy #8526 / Cedar Rapids,A,4116 Center Pointe Rd,Cedar Rapids,IA,52402,10/01/2016,42.020631,-91.665103
+169,2844,CVS Pharmacy #8547 / Iowa City,A,2425 Muscatine Ave,Iowa City,IA,52240,10/01/2016,41.649547,-91.500088
+170,2845,CVS Pharmacy #4816 / Council Bluffs,A,545 W Washington St,Council Bluffs,IA,51503,10/01/2016,41.263138,-95.850904
+171,2846,CVS Pharmacy #8443 / Cedar Rapids,A,3419 16th Ave SW,Cedar Rapids,IA,52404,10/01/2016,41.963516,-91.716615
+172,2847,CVS Pharmacy #10032 / Marion,A,"3499, 7th Ave",Marion,IA,52302,10/01/2016,42.035661,-91.575906
+173,2848,CVS Pharmacy #10114 / Ankeny,A,104 E First St,Ankeny,IA,50023,10/01/2016,41.7319,-93.59962
+174,2849,CVS Pharmacy #10162 / Des Moines,A,3151 SE 14th St,Des Moines,IA,50320,10/01/2016,41.557061,-93.59678
+175,2850,CVS / Pharmacy #10161 / Des Moines,A,215 E Euclid Ave,Des Moines,IA,50313,10/01/2016,41.627686,-93.615656
+176,2851,CVS / Pharmacy #10282 / Fort Dodge,A,2029 5th Ave South,Fort Dodge,IA,50501,10/01/2016,42.501169,-94.170324
+177,2852,CVS Pharmacy #10329 / Merle Hay,A,2303 Merle Hay Rd,Des Moines,IA,50310,10/01/2016,41.615221,-93.697742
+178,2853,CVS Pharmacy #10452  /  Ames,A,2420 Lincoln Way,Ames,IA,50014,10/01/2016,42.022745,-93.649579
+179,2854,CVS / Pharmacy #10480 / Urbandale,A,14201 Hickman Rd,Urbandale,IA,50323,10/01/2016,41.614877,-93.817332
+180,2954,Dahl's / Ingersoll,I,3425 Ingersoll,Des Moines,IA,50300,10/01/2016,41.586313,-93.663337
+181,3013,Keith's Foods,A,207 E Locust St,Bloomfield,IA,52537,10/01/2016,40.752691,-92.412847
+182,3041,Shugar's Super Valu / Colfax,A,28 E Howard,Colfax,IA,50054,10/01/2016,41.677922,-93.244486
+183,3045,Britt Food Center,A,8 2nd St NW,Britt,IA,50423,10/01/2016,43.098696,-93.801917
+184,3054,Mcnally's Super Valu,A,1026 Main,Grinnell,IA,50112,10/01/2016,41.745726,-92.725772
+185,3056,Clarion Super Valu Ii,A,325 Central Ave W,Clarion,IA,50525,10/01/2016,42.731643,-93.735875
+186,3065,Montezuma Super Valu,A,201 S Front St,Montezuma,IA,50171,10/01/2016,41.584179,-92.527248
+187,3162,Nash Finch / Wholesale Food,A,807 Grandview,Muscatine,IA,52761,10/01/2016,41.408348,-91.064221
+188,3354,Sam's Club 8238 / Davenport,A,3845 Elmore Ave.,Davenport,IA,52807,10/01/2016,41.559731,-90.527081
+189,3385,Sam's Club 8162 / Cedar Rapids,A,2605 Blairs Ferry Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.031819,-91.67969
+190,3390,Okoboji Avenue Liquor,A,1610 Okoboji Avenue,Milford,IA,51351,10/01/2016,43.331525,-95.149955
+191,3393,The Hangout Liquors,A,111 W Main St.,Riceville,IA,50466,10/01/2016,43.363838,-92.555178
+192,3400,Last Stop Beverage Shop,A,2839 E. UNIVERSITY,Des Moines,IA,50317,10/01/2016,41.600476,-93.561517
+193,3403,Econ-o-mart / Columbus Junction,A,103 Walnut St. E,Columbus Junction,IA,52738,10/01/2016,41.280089,-91.359569
+194,3417,Big G Food Store,A,Po Box 261  310 W Dillon,Marengo,IA,52301,10/01/2016,,
+195,3420,Sam's Club 6344 / Windsor Heights,A,1101  73RD STREET,Windsor Heights,IA,50311,10/01/2016,41.598673,-93.718139
+196,3437,Scott's Foods,I,1120 SUNSET DRIVE,Norwalk,IA,50211,10/01/2016,41.48003,-93.677957
+197,3440,Hawkeye Pantry,I,501 Locust St,Des Moines,IA,50309,10/01/2016,41.586991,-93.624104
+198,3443,Super Saver Iv,A,1141 N Broadway,Council Bluffs,IA,51503,10/01/2016,41.270882,-95.836507
+199,3447,Sam's Club 6432 / Sioux City,A,4201 S. York St.,Sioux City,IA,51106,10/01/2016,42.43407,-96.37082
+200,3451,Barnes Foodland,I,622 10th St,DeWitt,IA,52742,10/01/2016,41.82514,-90.540112
+201,3456,Quick Shop / Clear Lake,A,904 N 8th St,Clear Lake,IA,50428,10/01/2016,43.142868,-93.378772
+202,3461,Hometown Foods / Stuart,A,611 S Division St,Stuart,IA,50250,10/01/2016,41.503659,-94.318375
+203,3465,Hometown Foods / Panora,A,601 E Main,Panora,IA,50216,10/01/2016,41.69182,-94.357184
+204,3477,Sam's Club 6472 / Council Bluffs,A,3221 Manawa Centre Dr,Council Bluffs,IA,51501,10/01/2016,41.225208,-95.847163
+205,3484,Jeff's Foods,A,110 W Cedar St,Marcus,IA,51035,10/01/2016,42.825681,-95.808579
+206,3488,Bender's Foods,A,400 S Second,Bellevue,IA,52031,10/01/2016,42.255742,-90.423033
+207,3494,Sam's Club 6514 / Waterloo,A,210 East Tower Park Dr,Waterloo,IA,50702,10/01/2016,42.456374,-92.353103
+208,3495,Great Pastimes,A,228 N Main St,Monticello,IA,52310,10/01/2016,42.24019,-91.183397
+209,3514,Karen's Spirits and Wine,A,328  2nd Ave S,Fort Dodge,IA,50501,10/01/2016,42.502311,-94.192501
+210,3521,Ameristar Casino / Council Bluffs,A,2200 River Road,Council Bluffs,IA,51501,10/01/2016,41.242216,-95.909505
+211,3524,Sam's Club 6568 / Ames,A,305 Airport Rd,Ames,IA,50010,10/01/2016,42.001123,-93.61365
+212,3525,Wines and Spirits,A,106 W 2nd St,Washington,IA,52353,10/01/2016,41.300399,-91.692213
+213,3528,Super Target T-0804 Mason City,A,3450  4th St SW,Mason City,IA,50401,10/01/2016,43.148345,-93.255618
+214,3529,A To Z Liquor and Smoke Shop,I,114 S Second,Cherokee,IA,51012,10/01/2016,42.749013,-95.55132
+215,3540,Super Target T-0533 / Davenport,A,5225 Elmore Ave,Davenport,IA,52807,10/01/2016,41.572878,-90.528568
+216,3542,Chuck's Sportsmans Beverage,A,244 W 4TH ST,St Ansgar,IA,50472,10/01/2016,43.378499,-92.921298
+217,3549,Quicker Liquor Store,A,1414 48th St,Fort Madison,IA,52627,10/01/2016,40.624226,-91.373211
+218,3562,Wal-Mart 0797 / W Burlington,A,324 West Agency Rd,West Burlington,IA,52655,10/01/2016,40.813119,-91.158456
+219,3563,Wal-Mart 0559 / Muscatine,A,3003 North Hwy 61,Muscatine,IA,52761,10/01/2016,41.455288,-91.025917
+220,3565,Hartig Drug Store #10,A,701 Mormon Trek Blvd,Iowa City,IA,52246,10/01/2016,41.651959,-91.574026
+221,3573,Quik Shop Foods / Four M In,I,405 S MADISON,Ottumwa,IA,52501,10/01/2016,40.99908,-92.410446
+222,3576,Liquor Store / Hartley,A,10  3rd St NW,Hartley,IA,51346,10/01/2016,43.184821,-95.477367
+223,3582,Korthouse Liquor,A,107 1st St E,Leon,IA,50144,10/01/2016,40.739507,-93.746447
+224,3584,L and M Beverage,A,1011 S Frederick M/a Po Bx 572,Oelwein,IA,50662,10/01/2016,42.662974,-91.91357
+225,3587,Save A Lot  #482,A,2122 Main St,Keokuk,IA,52632,10/01/2016,40.409005,-91.397073
+226,3591,Ackley Super Foods,A,526 MAIN ST,Ackley,IA,50601,10/01/2016,42.554158,-93.055225
+227,3592,Wal-Mart 0886 / Fort Dodge,A,3036 1st Ave South,Fort Dodge,IA,50501,10/01/2016,42.505334,-94.153456
+228,3606,Scotty's Liquor Store,A,804 G Ave,Grundy Center,IA,50638,10/01/2016,42.361514,-92.774215
+229,3611,Logan Super Foods,A,403 E 6th,Logan,IA,51546,10/01/2016,41.644108,-95.786133
+230,3612,B and C Liquor / Maquoketa,A,509 E Platt,Maquoketa,IA,52060,10/01/2016,42.06922,-90.661056
+231,3618,Wal-Mart 2716 / Cedar Rapids,A,3601 29th Ave SW,Cedar Rapids,IA,52404,10/01/2016,41.949215,-91.718042
+232,3621,"Jensen Liquors, Ltd.",A,615  2nd Ave,Sheldon,IA,51201,10/01/2016,43.184614,-95.854743
+233,3622,Wal-Mart 1415 / Spirit Lake,A,2600 Hwy 71,Spirit Lake,IA,51360,10/01/2016,43.416609,-95.126532
+234,3624,Wal-Mart 0748 / Newton,A,300 Iowa Speedway Dr,Newton,IA,50208,10/01/2016,41.698396,-93.01446
+235,3625,Wal-Mart 0892 / Ankeny,A,1002 SE National Dr,Ankeny,IA,50021,10/01/2016,41.704864,-93.582151
+236,3626,Wal-Mart 2714 / Spencer,A,500  11th St,Spencer,IA,51301,10/01/2016,43.126816,-95.152474
+237,3628,Wal-Mart 1528 / Cedar Rapids,A,2645 Blairs Ferry Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.034748,-91.680734
+238,3629,Wal-Mart 1965 / Council Bluffs,A,3200 Manawa Dr,Council Bluffs,IA,51503,10/01/2016,,
+239,3632,Wal-Mart 2004 / Dubuque,A,4200 Dodge St,Dubuque,IA,52003,10/01/2016,42.489041,-90.736955
+240,3635,Clark's Food Mart / Ogden,A,302 West Walnut St,Ogden,IA,50212,10/01/2016,42.039076,-94.031178
+241,3644,Wal-Mart 2764 / Altoona,A,3501  8th St SW,Altoona,IA,50009,10/01/2016,41.644196,-93.505593
+242,3645,Wal-Mart 1764 / Windsor Heights,A,1001  73rd St,Windsor Heights,IA,50311,10/01/2016,41.594758,-93.716953
+243,3647,Wal-Mart 2889 / Clinton,A,2715 South 25th St,Clinton,IA,52732,10/01/2016,41.818693,-90.244743
+244,3648,Fairbank Food Center,A,102  4th St North Box 434,Fairbank,IA,50629,10/01/2016,42.639631,-92.047352
+245,3650,"Spirits, Stogies and Stuff",A,118 South Main St.,Holstein,IA,51025,10/01/2016,42.488703,-95.544794
+246,3651,Wal-Mart 1491 / Indianola,A,1500 North Jefferson,Indianola,IA,50125,10/01/2016,41.374094,-93.558423
+247,3652,Discount Liquors Of Ida Grove,A,604 W 2nd,Ida Grove,IA,51445,10/01/2016,42.339635,-95.463043
+248,3654,The Beverage Shop / Belmond,A,207 E Main St,Belmond,IA,50421,10/01/2016,42.845901,-93.615247
+249,3655,M and M Liquor Store,I,2763 FLOYD BLVD,Sioux City,IA,51104,10/01/2016,42.518725,-96.380931
+250,3656,Target Store T-1767 / Ankeny,A,2135 SE Delaware Ave,Ankeny,IA,50021,10/01/2016,41.708563,-93.581201
+251,3660,Wal-Mart 2935 / Knoxville,A,814 W Bell Ave,Knoxville,IA,50138,10/01/2016,41.306201,-93.107957
+252,3663,Wal-Mart 1496 / Waterloo,A,1334 Flammang Dr,Waterloo,IA,50702,10/01/2016,42.460238,-92.330801
+253,3664,Shade Tree Liquors,A,90 10th St S,Northwood,IA,50459,10/01/2016,43.443739,-93.218339
+254,3666,Target Store T-1771 / Cedar Rapids,A,3400 Edgewood Rd SW,Cedar Rapids,IA,52404,10/01/2016,41.943526,-91.716086
+255,3670,Wal-Mart 2827 / Coralville,A,2801 Commerce Dr,Coralville,IA,52241,10/01/2016,41.695806,-91.610774
+256,3676,T and M Foods,A,107 E Traer,Greene,IA,50636,10/01/2016,42.895871,-92.801913
+257,3677,Barb's Service,A,1290 Hwy 18,Everly,IA,51338,10/01/2016,43.183718,-95.329171
+258,3678,"Smoke Shop, The",A,1918 SE 14th St,Des Moines,IA,50320,10/01/2016,41.570844,-93.597011
+259,3679,FRANKLIN STREET FLORAL & GIFT,A,103 Franklin St,Monona,IA,52159,10/01/2016,43.055133,-91.390767
+260,3682,Jumbo's,A,110 E Main St,Wesley,IA,50483,10/01/2016,43.088185,-93.989798
+261,3688,Fredericksburg Food Center,A,100 W Main St,Fredericksburg,IA,50630,10/01/2016,42.965098,-92.199359
+262,3690,Target Store T-1792 / Waterloo,A,1501 E San Marnan,Waterloo,IA,50702,10/01/2016,42.464521,-92.325387
+263,3691,Target Store T-1791 / Urbandale,A,11148 Plum Dr,Urbandale,IA,50322,10/01/2016,41.64653,-93.769789
+264,3695,Mrs. B's Liquor,A,623 S Marion St,Remsen,IA,51050,10/01/2016,42.808951,-95.977022
+265,3696,Wal-Mart 1723 / Des Moines,A,5101 SE 14th St,Des Moines,IA,50315,10/01/2016,41.537606,-93.596758
+266,3698,Ingersoll Wine Merchants,A,1300  50th St,West Des Moines,IA,50266,10/01/2016,41.590889,-93.771159
+267,3700,Avoca Liquor,A,158 South Elm,Avoca,IA,51521,10/01/2016,41.476306,-95.339412
+268,3704,Celtics Beverage Company,A,1122 Broadway,Emmetsburg,IA,50536,10/01/2016,43.10937,-94.678807
+269,3705,Liquor Locker,A,507 1st Ave #100,Rock Rapids,IA,51246,10/01/2016,43.431837,-96.171905
+270,3707,Target Store T-1768 / Cedar Rapids,A,1030 Blairs Ferry Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.035157,-91.649625
+271,3710,New York Dollar Store,A,219 Main St,Columbus Junction,IA,52738,10/01/2016,41.279679,-91.360491
+272,3712,Monte Spirits,A,109 N 4th St,Montezuma,IA,50171,10/01/2016,41.585429,-92.523692
+273,3713,Wal-Mart 0810 / Mason City,A,4151  4th St SW,Mason City,IA,50401,10/01/2016,43.148239,-93.261648
+274,3715,Kimberly Mart / Davenport,A,1714 E Kimberly Rd,Davenport,IA,52807,10/01/2016,41.556966,-90.550657
+275,3717,The Liquor Stop / Sumner,A,201 W 1st St,Sumner,IA,50674,10/01/2016,42.847479,-92.099221
+276,3719,Wal-Mart 0581 / Marshalltown,A,2802 S Center St,Marshalltown,IA,50158,10/01/2016,42.011986,-92.912318
+277,3721,Wal-Mart 0913 / Decorah,A,1798 Old Stage Rd,Decorah,IA,52101,10/01/2016,43.290048,-91.753125
+278,3722,Wal-Mart 1361 / Sioux City,A,3400 Singing Hills Blvd,Sioux City,IA,51106,10/01/2016,42.43609,-96.36432
+279,3723,J D Spirits Liquor,A,1023  9th St,Onawa,IA,51040,10/01/2016,42.025841,-96.095845
+280,3726,Wal-Mart 1285 / Ottumwa,A,1940 Venture Dr,Ottumwa,IA,52501,10/01/2016,41.014653,-92.456546
+281,3728,Brewski's Beverage,A,726 Creek Top,Council Bluffs,IA,51503,10/01/2016,41.262315,-95.854804
+282,3731,Wal-Mart 1241 / Davenport,A,5811 Elmore Ave,Davenport,IA,52807,10/01/2016,41.580238,-90.528864
+283,3732,North Scott Foods,A,425 E Leclaire Rd,Eldridge,IA,52748,10/01/2016,41.654695,-90.577312
+284,3735,C B Liquor,A,1202 A Ave East,Oskaloosa,IA,52577,10/01/2016,41.296286,-92.631487
+285,3736,City Lounge,A,414 S 3rd Ave,Villisca,IA,50864,10/01/2016,40.928023,-94.977239
+286,3738,Hartig Drug Company #4 / Dubuque,A,2225 Central Ave,Dubuque,IA,52001,10/01/2016,42.513893,-90.671564
+287,3740,Hometown Foods / Waterloo,A,1010 E Mitchell Ave,Waterloo,IA,50702,10/01/2016,42.476639,-92.343118
+288,3742,Wal-Mart 1625 / Lemars,A,1111 Holton Dr,Lemars,IA,51031,10/01/2016,42.781431,-96.185002
+289,3744,Payless Foods / Dyersville,A,733 16th Ave SE,Dyersville,IA,52040,10/01/2016,42.470231,-91.115877
+290,3747,T-N-T Liquor,I,110 South Main,Sigourney,IA,52591,10/01/2016,41.333293,-92.205105
+291,3749,Wal-Mart 1526 / Storm Lake,A,1831 Lake Ave NW,Storm Lake,IA,50588,10/01/2016,42.663904,-95.200739
+292,3756,Main Street Liquors / Manning,A,316 Main St,Manning,IA,51455,10/01/2016,41.908573,-95.065122
+293,3757,Wal-Mart 3590 / Sioux City,A,3101 Floyd Blvd,Sioux City,IA,51108,10/01/2016,42.529334,-96.373595
+294,3762,Wine and Spirits Gallery,A,7690 Hickman Rd,Windsor Heights,IA,50322,10/01/2016,41.61467,-93.722451
+295,3763,Main Street Liquors / Hawarden,A,911 Central Ave,Hawarden,IA,51023,10/01/2016,42.9961,-96.485189
+296,3766,Kolby's Liquor Store,I,419 W MILWAUKEE,New Hampton,IA,50659,10/01/2016,43.066629,-92.319884
+297,3769,Wal-Mart 0753 / Cedar Fall,A,525 Brandilynn Blvd,Cedar Falls,IA,50613,10/01/2016,42.485042,-92.440394
+298,3772,Shop N Save #1 / Mlk Pkwy,A,2127 M L KING JR PKWY,Des Moines,IA,50314,10/01/2016,41.613829,-93.645919
+299,3773,Benz Distributing,A,501 7th Ave SE,Cedar Rapids,IA,52401,10/01/2016,41.975787,-91.659795
+300,3774,Eagle Country Market / Dubuque,A,1800 Elm St,Dubuque,IA,52001,10/01/2016,42.511015,-90.665715
+301,3776,Wal-Mart 5115 / Davenport,A,3101 West Kimberly Rd,Davenport,IA,52806,10/01/2016,41.559251,-90.62129
+302,3778,Family Pantry,A,4538 Lower Beaver Rd,Des Moines,IA,50310,10/01/2016,41.638673,-93.665871
+303,3779,"Station Wine and Spirits, T",I,2324 N 15TH ST,Fort Dodge,IA,50501,10/01/2016,42.529612,-94.177993
+304,3782,Bender Foods / Guttenberg,A,619 S Hwy 52,Guttenberg,IA,52052,10/01/2016,42.77964,-91.100489
+305,3783,Dyno's Wine and Spirits / Pocahontas,A,14 1/2 E Elm,Pocahontas,IA,50574,10/01/2016,42.732607,-94.667312
+306,3784,Hartig Drug #14 / Independence,A,200  1st St East,Independence,IA,50644,10/01/2016,42.468721,-91.893016
+307,3785,Southside Tobacco and Liquor,I,2424 SW 9th St,Des Moines,IA,50315,10/01/2016,41.56373,-93.624729
+308,3789,Wal-Mart 1393 / Oskaloosa,A,2203 A Avenue West,Oskaloosa,IA,52577,10/01/2016,41.298516,-92.669924
+309,3790,Wal-Mart 0784 / Mt Pleasan,A,1045 N Grand Ave,Mt Pleasant,IA,52641,10/01/2016,40.978416,-91.539034
+310,3803,Strawberry Foods and Deli,A,128 W Mission,Strawberry Point,IA,52076,10/01/2016,42.683739,-91.535782
+311,3805,Washington Street Mini Mart,A,1601 Washington St,Davenport,IA,52084,10/01/2016,41.535982,-90.596253
+312,3806,Target Store T-1901 / Wdm,A,5405 Mills Civic Pkwy,West Des Moines,IA,50266,10/01/2016,41.559272,-93.779823
+313,3808,Thriftway,A,300  4th St,La Porte City,IA,50651,10/01/2016,42.315788,-92.189842
+314,3811,Wal-Mart 1431 / Keokuk,A,300 North Park Dr,Keokuk,IA,52632,10/01/2016,40.418589,-91.407263
+315,3813,CGI Foods,A,104 North Fillmore,Mount Ayr,IA,50854,10/01/2016,40.714826,-94.238806
+316,3814,Costco Wholesale #788,A,7205 Mills Civic Pkwy,West Des Moines,IA,50266,10/01/2016,41.561375,-93.806147
+317,3818,Round Window Liquor,A,703 W Pleasant St,Knoxville,IA,50138,10/01/2016,41.320746,-93.105641
+318,3819,Quillins Decorah,A,915 Short St,Decorah,IA,52101,10/01/2016,43.291095,-91.797532
+319,3820,"Charlie's Wine and Spirits,",A,507 W 19th St,Sioux City,IA,51103,10/01/2016,42.510535,-96.420193
+320,3822,The Secret Cellar,A,1205 Curtis Br Rd NE,Swisher,IA,52338,10/01/2016,41.847398,-91.646067
+321,3825,Shop N Save #2 / E 14th,A,1372 E 14th St,Des Moines,IA,50316,10/01/2016,41.604893,-93.600499
+322,3826,Lakeside Hotel & Casino,A,777 Casino Dr,Osceola,IA,50213,10/01/2016,41.038156,-93.799151
+323,3829,Gary's Foods / Mt Vernon,A,715  1st Ave S,Mount Vernon,IA,52314,10/01/2016,41.91709,-91.429428
+324,3830,Wal-Mart 1435 / Creston,A,806 Laurel St,Creston,IA,50801,10/01/2016,41.047715,-94.372464
+325,3831,The Market Of Madrid,A,301 Annex Rd,Madrid,IA,50156,10/01/2016,41.87894,-93.815365
+326,3833,Wal-Mart 3394 / Atlantic,A,1905 East 7th St,Atlantic,IA,50022,10/01/2016,41.403856,-94.986741
+327,3838,Schnucks / Bettendorf,A,858 Middle Rd,Bettendorf,IA,52722,10/01/2016,41.539421,-90.520013
+328,3841,Hartig Drug Company #2 / Locust,A,157 Locust St,Dubuque,IA,52001,10/01/2016,42.49537,-90.665473
+329,3842,Bancroft Liquor Store,A,107 N Portland St Po Bx 222,Bancroft,IA,50517,10/01/2016,43.29355,-94.218
+330,3845,Otho Convenience and Food,A,210 North Hwy,Otho,IA,50569,10/01/2016,42.422303,-94.150427
+331,3849,Hartig Drug Co #6 / Dyersville,A,711  16th Ave SE,Dyersville,IA,52040,10/01/2016,42.4704,-91.117372
+332,3853,Ram Liquor Mart,A,3108 West Central Park Ave #2,Davenport,IA,52804,10/01/2016,41.545421,-90.620282
+333,3855,Dyno's Wine and Spirits / Storm Lake,A,1201 1/2 Lakeshore Dr,Storm Lake,IA,50588,10/01/2016,42.634858,-95.185743
+334,3857,Quillins Food Ranch / Waukon,A,9th St SW B,Waukon,IA,52172,10/01/2016,,
+335,3858,Harolds Jack N Jill / Davenport,A,6723 NW Blvd Unit 2,Davenport,IA,52806,10/01/2016,41.589369,-90.609747
+336,3859,Wal-Mart 0750 / Independence,A,302 Enterprise Dr SW,Independence,IA,50644,10/01/2016,42.450709,-91.892924
+337,3864,Hometown Foods / Schaller,I,201 S Main St Po Bx 40,Schaller,IA,51053,10/01/2016,42.499481,-95.29346
+338,3866,Target Store T-1170 / Ames,A,320 S Duff,Ames,IA,50010,10/01/2016,42.019875,-93.610363
+339,3868,Wal-Mart 3630 / Marion,A,5491 Business Hwy 151,Marion,IA,52302,10/01/2016,42.035664,-91.552543
+340,3869,Bootleggin' Barzini's Fin,A,412  1st Ave,Coralville,IA,52241,10/01/2016,41.672672,-91.565517
+341,3870,Target Store T-1939 / Altoona,A,3414 8th St SW,Altoona,IA,50009,10/01/2016,41.644036,-93.504184
+342,3871,Target Store T-0069 / Wdm,A,1800  35th St,West Des Moines,IA,50266,10/01/2016,41.598813,-93.751998
+343,3872,Target Store T-0086 / Dubuque,A,3500 Dodge St,Dubuque,IA,52003,10/01/2016,42.491944,-90.720589
+344,3873,Target Store T-1113 / Coralville,A,1441 Coral Ridge Ave,Coralville,IA,52241,10/01/2016,41.690672,-91.608414
+345,3876,Affiliated Foods Of Manson,A,1101 MAIN ST PO BOX 535,Manson,IA,50563,10/01/2016,42.530636,-94.534319
+346,3877,Target Store T-2041 / Des Moines,A,5901 Douglas Ave,Des Moines,IA,50322,10/01/2016,41.62953,-93.699282
+347,3879,Target Store T-1800 / Sioux City,A,5775 Sunnybrook Dr,Sioux City,IA,51106,10/01/2016,42.448013,-96.331662
+348,3880,Target Store T-2454 / Council Bluffs,A,3804 Metro Dr,Council Bluffs,IA,51503,10/01/2016,41.220324,-95.836926
+349,3881,7 Rayos Liquor Store,A,120 E Main St,Marshalltown,IA,50158,10/01/2016,42.049166,-92.9104
+350,3882,Kwik Shop #579 / Davenport,A,2805 Telegraph Rd,Davenport,IA,52802,10/01/2016,41.519024,-90.621672
+351,3886,Wal-Mart 0646 / Anamosa,A,101  115 St,Anamosa,IA,52205,10/01/2016,42.103091,-91.2856
+352,3888,Wal-Mart 0647 / Grinnell,A,415 Industrial Ave,Grinnell,IA,50112,10/01/2016,41.720919,-92.730259
+353,3889,Wal-Mart 1005 / Waverly,A,700  29 St SW,Waverly,IA,50677,10/01/2016,42.700321,-92.478899
+354,3890,Smokin' Joe's #7 Tobacco and Liquor Outlet,A,904  1st Ave NW,Cedar Rapids,IA,52405,10/01/2016,41.972738,-91.683753
+355,3891,"Wild Rose Emmetsburg, Llc",A,777 Main St,Emmetsburg,IA,50536,10/01/2016,43.111987,-94.663246
+356,3894,Smokin' Joe's #6 Tobacco and Liquor Outlet,I,1404  1ST AVE NE,Cedar Rapids,IA,52402,10/01/2016,41.987238,-91.653781
+357,3896,Smokin' Joe's #18 Tobacco and Liquor Outlet,A,1901 Broadway St,Iowa City,IA,52240,10/01/2016,41.641292,-91.520353
+358,3899,Wal-Mart 3762 / WDM,A,6365 Stagecoach Dr,West Des Moines,IA,50266,10/01/2016,41.559117,-93.79515
+359,3901,Target Store T-0878 / Fort Dodge,A,2910  1 Ave S,Fort Dodge,IA,50501,10/01/2016,42.505335,-94.157366
+360,3907,Smokin' Joe's #16 Tobacco and Liquor Outlet,A,1504 Park Ave,Muscatine,IA,52761,10/01/2016,41.442458,-91.030569
+361,3908,County Market #214 / Fort Madison,I,11802 Avenue H,Fort Madison,IA,52627,10/01/2016,,
+362,3909,D And S Grocery,A,104 SE  A St,Melcher-dallas,IA,50163,10/01/2016,41.222471,-93.241634
+363,3910,Riverside Casino And Resort,A,3184 Highway 22,Riverside,IA,52327,10/01/2016,41.496305,-91.525607
+364,3912,Smokin' Joe's #14 Tobacco and Liquor Outlet,A,225 Edgewood Rd,Cedar Rapids,IA,52405,10/01/2016,41.973736,-91.715944
+365,3916,Smokin' Joe's #5 Tobacco and Liquor Outlet,A,1115 Albia Rd,Ottumwa,IA,52501,10/01/2016,41.009334,-92.437188
+366,3917,Smokin' Joe's #2 Tobacco and Liquor Outlet,A,1606 W Locust St,Davenport,IA,52804,10/01/2016,41.538254,-90.599037
+367,3918,Smokin' Joe's #1 Tobacco and Liquor Outlet,A,3120 Rockingham Rd,Davenport,IA,52802,10/01/2016,41.510082,-90.621541
+368,3920,Smokin' Joe's #11 Tobacco and Liquor Outlet,A,1606 Camanche Ave,Clinton,IA,52732,10/01/2016,41.827768,-90.204863
+369,3926,Liquor Downtown / Iowa City,A,315 S Gilbert St,Iowa City,IA,52240,10/01/2016,41.657654,-91.530181
+370,3928,Smokin' Joe's #12 Tobacco and Liquor Outlet,A,465 Hwy 965 Unit G,North Liberty,IA,52317,10/01/2016,41.739524,-91.60759
+371,3930,Kuennen's Liquor Store,A,106 W Mains St Po Box 142,St Lucas,IA,52166,10/01/2016,41.029027,-93.457515
+372,3932,Main Street Spirits / Mapleton,A,311 Main St,Mapleton,IA,51034,10/01/2016,42.165915,-95.79375
+373,3934,Wal-Mart 1509 / Maquoketa,A,103 E Carlisle,Maquoketa,IA,52060,10/01/2016,42.04869,-90.66292
+374,3942,Twin Town Liquor,A,104 Highway 30 West,Toledo,IA,52342,10/01/2016,41.985883,-92.579235
+375,3943,Good and Quick Co,A,519 Lincolnway,Nevada,IA,50201,10/01/2016,,
+376,3944,Sam's Club 4973 / Dubuque,A,4400 Asbury Rd,Dubuque,IA,52002,10/01/2016,42.515282,-90.736175
+377,3947,Seaton's Flag Foods,I,122 A EAST FRONT ST,Brooklyn,IA,52211,10/01/2016,41.728699,-92.444377
+378,3949,Wal-Mart 0751 / Pella,A,1650 Washington St,Pella,IA,50219,10/01/2016,41.410379,-92.933676
+379,3950,Hometown Foods / State Center,A,120 E Main St,State Center,IA,50247,10/01/2016,42.016845,-93.162349
+380,3952,Lot-A-Spirits,A,3780 State St,Bettendorf,IA,52722,10/01/2016,41.529655,-90.48065
+381,3957,Karl's Grocery Store,A,101 West Madison,Edgewood,IA,52042,10/01/2016,42.64539,-91.401487
+382,3959,Hartig Drug Company #8 / University / Dubuque,A,1600 University Ave,Dubuque,IA,52001,10/01/2016,42.49833,-90.687636
+383,3963,Tobacco Hut #14 / Council Bluffs,A,1925 W Broadway,Council Bluffs,IA,51501,10/01/2016,41.261866,-95.873074
+384,3964,Sioux Food Center of Sioux Rapids,A,621 Hwy 71,Sioux Rapids,IA,50585,10/01/2016,42.88888,-95.152671
+385,3968,Monroe Liquor,A,105 W Sherman Po Bx 1023,Monroe,IA,50170,10/01/2016,41.517257,-93.103463
+386,3970,"The Liquor Cabinet, Inc.",I,"835 6 ST, STE 1",Nevada,IA,50201,10/01/2016,42.019292,-93.452277
+387,3972,Hometown Foods / Hubbard,A,210 Maple St Box 295,Hubbard,IA,50122,10/01/2016,,
+388,3973,Mmdg Spirits / Ames,A,126a Welch Ave,Ames,IA,50014,10/01/2016,42.021789,-93.650131
+389,3980,Wal-Mart 1721 / Iowa City,A,919 Hwy 1 West,Iowa City,IA,52246,10/01/2016,41.646447,-91.552665
+390,3981,Wal-Mart 1152 / Sioux Center,A,255 16th St SW,Sioux Center,IA,51250,10/01/2016,43.060881,-96.179835
+391,3986,Siouxland Beverage,A,1203 5 St,Sioux City,IA,51101,10/01/2016,42.495324,-96.394671
+392,3987,Wine and Spirits Shoppe Of,A,111 S Phillips St,Algona,IA,50511,10/01/2016,43.068032,-94.226874
+393,3989,Liquor On The Corner / Cherokee,A,300 E Main St,Cherokee,IA,51012,10/01/2016,42.749589,-95.547068
+394,3990,Cork and Bottle / Oskaloosa,A,309 A Ave West,Oskaloosa,IA,52577,10/01/2016,41.296228,-92.648153
+395,3993,New Star Liquor / W 4th S / Waterloo,A,1625 West 4th St,Waterloo,IA,50701,10/01/2016,42.484388,-92.356413
+396,3995,Barmuda Distribution,A,6027 University Ave Ste 100,Cedar Falls,IA,50613,10/01/2016,42.512768,-92.430423
+397,3997,Wal-Mart 4606 / Osceola,A,2400 College Dr,Osceola,IA,50213,10/01/2016,41.024657,-93.798363
+398,4000,Foodland Super Markets / Woodbine,A,5th And Lincoln Way,Woodbine,IA,51579,10/01/2016,41.737038,-95.70303
+399,4001,Wal-Mart 1787 / Carroll,A,2014 Kitty Hawk Ave,Carroll,IA,51401,10/01/2016,42.081312,-94.893501
+400,4004,Wal-Mart 4256 / Ames,A,534 S Duff Ave,Ames,IA,50010,10/01/2016,42.017115,-93.610343
+401,4006,Larchwood Offsale,A,913 Brown St Po Box 326,Larchwood,IA,51241,10/01/2016,43.453831,-96.434315
+402,4008,Sioux Valley Spirits,I,116 E MAIN ST,Anthon,IA,51004,10/01/2016,42.388268,-95.867335
+403,4010,Newman's Thriftway,A,900 S Locust St,Glenwood,IA,51534,10/01/2016,41.038071,-95.746213
+404,4011,Jim and Charlies Affiliated,A,121 North Clinton,Albia,IA,52531,10/01/2016,41.028644,-92.808389
+405,4013,Wal-Mart 0841 / Tipton,A,1126 Highway 38 North,Tipton,IA,52772,10/01/2016,41.789673,-91.127502
+406,4014,Wal-Mart 1732 / Denison,A,510 C Ave,Denison,IA,51442,10/01/2016,42.024768,-95.370676
+407,4015,Wal-Mart 0749 / Ames,A,3015 Grand Ave,Ames,IA,50010,10/01/2016,42.052321,-93.620682
+408,4016,Hometown Foods / Conrad,A,119 N Main St Po Box 296,Conrad,IA,50621,10/01/2016,42.225148,-92.874589
+409,4018,Hometown Foods / Gladbrook,A,310 Second St Po Box 249,Gladbrook,IA,50635,10/01/2016,42.187653,-92.716422
+410,4019,Wal-Mart 1506 / Manchester,A,1220 West Main,Manchester,IA,52057,10/01/2016,42.48383,-91.478778
+411,4021,Wal-Mart 0985 / Fairfield,A,2701 W Burlington Ave,Fairfield,IA,52556,10/01/2016,41.006375,-91.993721
+412,4023,Wal-Mart 1389 / Boone,A,1515 SE Marshall St,Boone,IA,50036,10/01/2016,42.035099,-93.87078
+413,4024,Wal-Mart 1546 / Iowa Falls,A,840 S Oak,Iowa Falls,IA,50126,10/01/2016,42.502975,-93.262437
+414,4025,Karam Kaur Khasriya Llc,A,702 13th St,Belle Plaine,IA,52208,10/01/2016,41.897052,-92.277759
+415,4027,Wal-Mart 1621 / Centerville,A,23148 Hwy 5,Centerville,IA,52544,10/01/2016,40.708684,-92.867851
+416,4034,Spice-n-ice,A,123 N Lawler St,Postville,IA,52162,10/01/2016,43.08605,-91.568372
+417,4042,Lake Ohana Market / Mineola,A,23226 Centre Dr,Glenwood,IA,51534,10/01/2016,41.130204,-95.742414
+418,4046,J and K Market,A,113 W Vanburen,Centerville,IA,52544,10/01/2016,40.734946,-92.874795
+419,4051,Fareway Stores #639 / Maquoketa,A,110 Westgate Dr,Maquoketa,IA,52060,10/01/2016,42.068772,-90.680631
+420,4056,Target Store T-0860 / West Burlington,A,525 S Gear Ave,West Burlington,IA,52655,10/01/2016,40.820399,-91.169993
+421,4057,Tequila's Liquor Store,A,1434 Des Moines St Ste 5,Des Moines,IA,50316,10/01/2016,41.594694,-93.59713
+422,4062,H and A Mini Mart Corp,A,145 University Ave,Des Moines,IA,50314,10/01/2016,41.600419,-93.61947
+423,4067,Freeman Foods,A,268 8th Ave,Wellman,IA,52356,10/01/2016,41.465008,-91.837922
+424,4068,Sa Petro Mart,A,136  1ST ST,West Des Moines,IA,50265,10/01/2016,41.570743,-93.703344
+425,4069,Fareway Stores #648 / Ottumwa,A,1325 Albia Rd,Ottumwa,IA,52501,10/01/2016,41.009334,-92.44027
+426,4070,Grieder Beverage Depot,A,708  13th St,Belle Plaine,IA,52208,10/01/2016,41.897054,-92.278
+427,4073,"Uptown Liquor, Llc",A,306 Hwy 69 South,Forest City,IA,50436,10/01/2016,43.261538,-93.633306
+428,4077,Xo Food And Liquor,A,428 Franklin St,Waterloo,IA,50703,10/01/2016,42.501665,-92.334739
+429,4081,Harlan's Food Mart,A,306 Washington,Story City,IA,50248,10/01/2016,42.185827,-93.599758
+430,4083,Fareway Stores #909 / Ankeny,A,109 SE Oralabor Rd,Ankeny,IA,50021,10/01/2016,41.702811,-93.599496
+431,4084,Fareway Stores #061 / Ankeny,A,3205 North Ankeny Blvd,Ankeny,IA,50023,10/01/2016,41.757429,-93.600267
+432,4085,Save More Foods / Waterloo,I,1975 Franklin St,Waterloo,IA,50703,10/01/2016,42.495394,-92.315218
+433,4090,Mcelroy's Food Market,I,135 MADISON ST,Winthrop,IA,50682,10/01/2016,42.473031,-91.732493
+434,4091,Fareway Stores #705 / Clear Lake,A,910 Hwy 18 W,Clear Lake,IA,50428,10/01/2016,43.143817,-93.376737
+435,4092,Fareway Stores #077 / Norwalk,A,1711 Sunset Dr,Norwalk,IA,50211,10/01/2016,41.483052,-93.675686
+436,4097,Schleswig Foods And Spirits,A,108  2nd St,Schleswig,IA,51461,10/01/2016,42.165983,-95.436648
+437,4098,Wal-Mart 1475 / Washington,A,2485 Hwy 92,Washington,IA,52353,10/01/2016,41.296878,-91.661434
+438,4102,Fareway Stores #386 / Ames,A,619 Burnett Ave,Ames,IA,50010,10/01/2016,42.027426,-93.615428
+439,4103,Fareway Stores #093 / Ames,A,3619 Stange Rd,Ames,IA,50010,10/01/2016,42.057241,-93.645047
+440,4104,Fareway Stores #491 / Mason City,A,400 North Delaware Ave,Mason City,IA,50401,10/01/2016,43.155972,-93.199495
+441,4105,Fareway Stores #426 / Nevada,A,1505 South B Ave,Nevada,IA,50201,10/01/2016,42.009797,-93.439899
+442,4106,Hartig Drug Co. / JFK Rd / Dubuque,A,2255 John F Kennedy Rd,Dubuque,IA,52002,10/01/2016,42.511454,-90.720519
+443,4107,Fareway Stores #384 / Boone,A,1711 Hawkeye Dr,Boone,IA,50036,10/01/2016,42.037347,-93.867439
+444,4110,"Brothers Market, Inc.",A,706 Highway 57,Parkersburg,IA,50665,10/01/2016,42.570347,-92.783533
+445,4112,Corridor Ventures,I,618 MEADE DR,North Liberty,IA,52317,10/01/2016,41.752451,-91.608725
+446,4114,After 5 Somewhere,A,704 W 7th St Po Box 372,Atlantic,IA,50022,10/01/2016,41.40407,-95.023583
+447,4116,Lake View Foods,A,223 Main St,Lake View,IA,51450,10/01/2016,42.305275,-95.051692
+448,4118,Lake View Redemption Center,A,502 5th Street,Lake View,IA,51450,10/01/2016,42.307764,-95.051539
+449,4119,Target Store T-2526 / Cedar Falls,A,214 VIKING PLAZA DR,Cedar Falls,IA,50613,10/01/2016,42.480862,-92.443134
+450,4125,Wapello Jack and Jill,A,503 Hwy 61 South,Wapello,IA,52653,10/01/2016,41.173227,-91.189027
+451,4126,Sam's Mainstreet Market / Solon,A,123 E Main St,Solon,IA,52333,10/01/2016,41.807199,-91.494611
+452,4129,Cyclone Liquors,A,626 Lincoln Way,Ames,IA,50010,10/01/2016,42.022854,-93.618911
+453,4130,"Boyd Grocery, Inc.",A,20611 Hwy 1 N,Keosauqua,IA,52565,10/01/2016,40.724513,-91.955223
+454,4131,Fareway Stores #933 / Urbandale,A,8450 Meredith Dr,Urbandale,IA,50322,10/01/2016,41.643829,-93.734308
+455,4132,Camanche Food Pride,A,908 7th Ave,Camanche,IA,52730,10/01/2016,41.78845,-90.257282
+456,4133,Mccoy's 1447,A,1447  2nd St,Webster City,IA,50595,10/01/2016,42.469614,-93.839969
+457,4134,Pleasantville Grocery,A,105 W Monroe St,Pleasantville,IA,50225,10/01/2016,,
+458,4135,Fareway Stores #925 / Altoona,A,620 SE 8th St,Altoona,IA,50009,10/01/2016,41.644082,-93.458606
+459,4136,Fareway Stores #983 / Grimes,A,351 Gateway Dr,Grimes,IA,50111,10/01/2016,41.685967,-93.779674
+460,4137,Fareway Stores #989 / Waukee,A,200 SE Laurel St,Waukee,IA,50263,10/01/2016,41.614033,-93.86786
+461,4138,Fareway Stores #657 / Indianola,A,1309 W 2nd,Indianola,IA,50125,10/01/2016,41.356621,-93.579189
+462,4140,Fareway Stores #900 / Euclid,A,100 Euclid Ave,Des Moines,IA,50313,10/01/2016,41.627684,-93.618724
+463,4141,Fareway Stores #975 / SE 22nd / DSM,A,3000 SE 22nd St,Des Moines,IA,50320,10/01/2016,41.556274,-93.57748
+464,4143,Bucky's,A,603  E HWY 24,Lawler,IA,52154,10/01/2016,43.06721,-92.14835
+465,4146,Fareway Stores #561 / Waverly,A,220 W Bremer Ave,Waverly,IA,50677,10/01/2016,42.725748,-92.473476
+466,4147,Fareway Stores #974 / Cedar Falls,A,214 N Magnolia Dr,Cedar Falls,IA,50613,10/01/2016,42.53898,-92.474703
+467,4148,Fareway Stores #479 / Independence,A,1400 3rd Ave SE,Independence,IA,50644,10/01/2016,42.455804,-91.890284
+468,4149,Fareway Stores #015 / Denison,A,609 Arrowhead Dr,Denison,IA,51442,10/01/2016,42.024358,-95.371931
+469,4150,Fareway Stores #951 / Waterloo,A,40  W San Marnan,Waterloo,IA,50701,10/01/2016,42.457636,-92.358191
+470,4151,King Star,A,127 Jefferson St,Waterloo,IA,50701,10/01/2016,42.497331,-92.345207
+471,4152,Food Land Super Markets / Missouri Valey,A,407 W HURON,Missouri Valley,IA,51555,10/01/2016,41.557404,-95.899346
+472,4153,Fareway Stores #067 / Evansdale,A,215 S Evans Rd,Evansdale,IA,50707,10/01/2016,42.475631,-92.287834
+473,4154,Fareway Stores #055 / Hiawatha,A,885 Miller Rd,Hiawatha,IA,52233,10/01/2016,42.046309,-91.702217
+474,4155,Fareway Stores #949 / Marion,A,3300 10th Ave,Marion,IA,52302,10/01/2016,42.036023,-91.57652
+475,4156,Fareway Stores #412 / Oelwein,A,102  2nd Ave SE,Oelwein,IA,50662,10/01/2016,42.6755,-91.910525
+476,4157,Fareway Stores #993 / North Liberty,A,615 Westwood Dr   P.o Box 96,North Liberty,IA,52317,10/01/2016,41.741097,-91.608385
+477,4158,Fareway Stores #409 / Carroll,A,709 Monterey Dr,Carroll,IA,51401,10/01/2016,42.065252,-94.850616
+478,4159,Fareway Stores #073 / Council Bluffs,A,310 Mckenzie Ave,Council Bluffs,IA,51503,10/01/2016,41.280133,-95.817997
+479,4160,Fareway Stores #034 / Iowa City,A,2765 Commerce Dr,Iowa City,IA,52240,10/01/2016,41.629591,-91.480431
+480,4161,Fareway Stores #950 / Iowa City,A,2530 Westwinds Dr,Iowa City,IA,52246,10/01/2016,41.650797,-91.575776
+481,4162,Fareway Stores #963 / Cedar Rapids,A,4220  16th Ave SW,Cedar Rapids,IA,52404,10/01/2016,41.963791,-91.726725
+482,4163,Fareway Stores #461 / Storm Lake,A,731 Seneca St,Storm Lake,IA,50588,10/01/2016,42.646379,-95.196856
+483,4164,Expo Mart / Bettendorf,A,1810 State St,Bettendorf,IA,52722,10/01/2016,41.525308,-90.506775
+484,4165,I-35 Spirits / Ankeny,A,113 SE Delaware Ave Ste 101,Ankeny,IA,50023,10/01/2016,41.731416,-93.581093
+485,4166,Jesup Food Center,A,1314  7th St,Jesup,IA,50648,10/01/2016,42.469327,-92.062259
+486,4167,"Iowa Street Market, Inc.",A,1256 Iowa St,Dubuque,IA,52001,10/01/2016,42.504959,-90.668138
+487,4169,Super Quick 2 / Hubbell,A,1824 Hubbell Ave,Des Moines,IA,50317,10/01/2016,41.595999,-93.586657
+488,4170,Dewey's Jack and Jill,A,115 E Main St  Po Box 359,West Branch,IA,52358,10/01/2016,41.671393,-91.345158
+489,4171,"Brothers Market, Inc. / Cascade",A,105 SE Nixon St,Cascade,IA,52033,10/01/2016,42.3036,-90.993859
+490,4172,Shamrock Spirits,A,1204 Water St Po Box 177,Alden,IA,50006,10/01/2016,42.520423,-93.376271
+491,4173,L and K Liquor,A,132 North Main St Po Box 306,Paullina,IA,51046,10/01/2016,42.981363,-95.687687
+492,4176,Todds On The Go,A,235 Edgewood Rd NE,Cedar Rapids,IA,52405,10/01/2016,,
+493,4177,"Good Luck, Inc.",A,806 W Main St,Le Grand,IA,50142,10/01/2016,42.006665,-92.784654
+494,4180,Smokin' Joe's #10 Tobacco and Liquor Outlet,A,480 7th Ave,Marion,IA,52302,10/01/2016,42.033308,-91.60546
+495,4182,Fareway Stores #008 / Dyersville,A,1207  12th Ave SE,Dyersville,IA,52040,10/01/2016,42.475277,-91.11191
+496,4183,Fareway Stores #589 / Decorah,A,103 E Main,Decorah,IA,52101,10/01/2016,43.303291,-91.785286
+497,4184,Fareway Stores #998 / Muscatine,A,2100 Cedar Plaza Dr,Muscatine,IA,52761,10/01/2016,41.435379,-91.081924
+498,4185,Fareway Stores #737 / Grinnell,A,727 West St,Grinnell,IA,50112,10/01/2016,41.741352,-92.727347
+499,4186,H and A Mini Mart /BP,A,5901 FLEUR DR,Des Moines,IA,50321,10/01/2016,41.531145,-93.644946
+500,4188,"Main St. Market, Inc.",I,882 Main St,Holy Cross,IA,52053,10/01/2016,42.600941,-90.995943
+501,4189,Fareway Stores #594 / Manchester,A,109 East Marion St,Manchester,IA,52057,10/01/2016,42.48217,-91.457229
+502,4190,Fareway Stores #888 / Jefferson,A,1207 N Elm St,Jefferson,IA,50129,10/01/2016,42.026833,-94.377667
+503,4191,Fareway Stores #995 / Pella,A,2010 Washington St,Pella,IA,50219,10/01/2016,41.412201,-92.941833
+504,4192,Fareway Stores #044 / Bettendorf,A,3800 Belmont Rd,Bettendorf,IA,52722,10/01/2016,41.556273,-90.480359
+505,4193,Hartley Wine And Spirits,A,361  3rd St NW,Hartley,IA,51346,10/01/2016,43.184879,-95.482214
+506,4194,Fareway Stores #848 / Newton,A,120 N 3rd Ave E,Newton,IA,50208,10/01/2016,41.701453,-93.052657
+507,4195,Fareway Stores #792 / Toledo,A,1005 S County Line Rd,Toledo,IA,52342,10/01/2016,41.983789,-92.581699
+508,4196,Fareway Stores #987 / Davenport,A,1635 West 53rd St,Davenport,IA,52806,10/01/2016,41.574438,-90.598191
+509,4197,Fareway Stores #014 / Sergeant Bluff,A,700  1st St,Sergeant Bluff,IA,51054,10/01/2016,42.400504,-96.353078
+510,4200,Fareway Stores #019 / Sioux City,A,4016 Indian Hills Dr,Sioux City,IA,51108,10/01/2016,42.538573,-96.37325
+511,4201,Fareway Stores #022 / Sioux City,A,4040 War Eagle Dr,Sioux City,IA,51109,10/01/2016,42.494946,-96.461938
+512,4202,Fareway Stores #829 / Sioux City,A,4267 Sergeant Rd,Sioux City,IA,51106,10/01/2016,42.449865,-96.354159
+513,4203,Liquor and Tobacco Outlet /,A,620 W Bremer Ave,Waverly,IA,50677,10/01/2016,42.725694,-92.47898
+514,4204,Fareway Stores #025 / Clinton,A,1350 11th St NW,Clinton,IA,52733,10/01/2016,41.860978,-90.211315
+515,4205,Fareway Stores #467 / Marshalltown,A,102 West Anson St,Marshalltown,IA,50158,10/01/2016,42.038157,-92.914433
+516,4209,Wal-Mart 5748 / Grimes,A,2150 East 1st St,Grimes,IA,50111,10/01/2016,41.688318,-93.771309
+517,4210,Sichanh Liquor Store,A,812 Flindt Dr,Storm Lake,IA,50588,10/01/2016,42.645782,-95.189151
+518,4214,New Star Liquor / Lafayet / Waterloo,I,1309 Lafayette St,Waterloo,IA,50703,10/01/2016,42.49408,-92.327154
+519,4222,STATION MART LIQUOR AND TOBACCO,A,3594 Lafayette St,Evansdale,IA,50707,10/01/2016,,
+520,4223,STATION MART LIQUOR AND TOBACCO,A,1119 River Forest Rd,Evansdale,IA,50707,10/01/2016,42.462807,-92.297765
+521,4228,Fareway Stores #462 / Vinton,A,501 A Ave,Vinton,IA,52349,10/01/2016,42.166166,-92.025603
+522,4229,Fareway Stores #790 / Harlan,A,1910  23rd St,Harlan,IA,51537,10/01/2016,41.650099,-95.339842
+523,4230,Fareway Stores #106 / Clive,A,10151 University Ave,Clive,IA,50325,10/01/2016,41.600511,-93.756489
+524,4231,Fareway Stores #719 / Le Mars,A,115 Plymouth St NE,Le Mars,IA,51031,10/01/2016,42.793062,-96.165002
+525,4232,"Elliott's General Store,",A,23828 Hwy J18,Moravia,IA,52571,10/01/2016,40.892417,-92.834054
+526,4233,Fareway Stores #815 / Cresco,A,112 S Elm St,Cresco,IA,52136,10/01/2016,43.370711,-92.116917
+527,4234,Fareway Stores #788 / Spencer,A,104 E Eighth St,Spencer,IA,51301,10/01/2016,43.145797,-95.143388
+528,4235,Fareway Stores #395 / Webster City,A,942  2nd St,Webster City,IA,50595,10/01/2016,42.469488,-93.827718
+529,4236,Fareway Stores #551 / Eagle Grove,A,205 NW  1st St,Eagle Grove,IA,50533,10/01/2016,42.665175,-93.903094
+530,4239,Fareway Stores #850 / Spirit Lake,A,1906 Keokuk,Spirit Lake,IA,51360,10/01/2016,43.42157,-95.106219
+531,4246,Fareway Stores #938 / Shenandoah,A,1007 S Fremont St,Shenandoah,IA,51601,10/01/2016,,
+532,4247,Fareway Stores #879 / Belmond,A,512 River Ave N,Belmond,IA,50421,10/01/2016,42.850357,-93.616788
+533,4248,Fareway Stores #021 / Sheldon,A,2603 Park St,Sheldon,IA,51201,10/01/2016,43.186033,-95.82585
+534,4249,Fareway Stores #048 / Clarinda,A,115 Essie Davison Dr,Clarinda,IA,51632,10/01/2016,40.722774,-95.038576
+535,4250,Fareway Stores #882 / Eldora,A,1232 14th St,Eldora,IA,50627,10/01/2016,42.361055,-93.10077
+536,4251,Aj's Liquor / Ames,A,4518 Mortenson Rd Ste 109,Ames,IA,50014,10/01/2016,,
+537,4252,Fareway Stores #840 / Monticello,A,433 N Farley St,Monticello,IA,52310,10/01/2016,42.242003,-91.191404
+538,4253,Fareway Stores #683 / Winterset,A,719 W Hwy 92,Winterset,IA,50273,10/01/2016,41.344865,-94.022115
+539,4254,Fareway Stores #849 / Emmetsburg,A,2008  12th St,Emmetsburg,IA,50536,10/01/2016,43.109244,-94.677307
+540,4255,FAREWAY STORES #058 / ORANGE CITY,A,512  8th SE,Orange City,IA,51041,10/01/2016,42.997486,-96.05236
+541,4256,Fareway Stores #912 / Sioux Center,A,115  1st Ave NW,Sioux Center,IA,51250,10/01/2016,43.077521,-96.176928
+542,4258,Fareway Stores #009 / Burlington,A,920 Lawrence Dr,Burlington,IA,52601,10/01/2016,40.799097,-91.140051
+543,4260,Fareway Stores #699 / Osceola,A,215 S Main St,Osceola,IA,50213,10/01/2016,41.032474,-93.765695
+544,4265,Kwik Stop 3 / Waterloo,A,1104 Washington St,Waterloo,IA,50702,10/01/2016,42.489168,-92.337057
+545,4266,Wal-Mart 1683 / Shenandoah,A,705 S Fremont,Shenandoah,IA,51601,10/01/2016,40.760525,-95.385111
+546,4267,Main Street Market Of Anita,A,735 Main St,Anita,IA,50020,10/01/2016,41.444849,-94.765437
+547,4268,Fareway Stores #531 / Algona,A,1905 Highway 18 E,Algona,IA,50511,10/01/2016,43.082782,-94.214064
+548,4269,Tipton Family Foods,A,610 Cedar St,Tipton,IA,52772,10/01/2016,41.771753,-91.128389
+549,4270,Kum & Go Liquors #37 / Ottumwa,I,2508 N Court St,Ottumwa,IA,52501,10/01/2016,41.051726,-92.409067
+550,4271,Fareway Stores #827 / Centerville,A,305 S 18th St,Centerville,IA,52544,10/01/2016,40.731946,-92.867944
+551,4272,Fareway Stores #407 / Esterville,A,1108 Central Ave,Estherville,IA,51334,10/01/2016,43.402096,-94.829963
+552,4273,Smokin' Joe's #4 Tobacco and Liquor Outlet,A,2800 E University Ave,Des Moines,IA,50317,10/01/2016,41.600564,-93.562106
+553,4274,Ruthven Meat Processing,A,1701 Railroad St,Ruthven,IA,51358,10/01/2016,43.130922,-94.897368
+554,4275,Fareway Stores #980 / Knoxville,A,1308 S Lincoln St,Knoxville,IA,50138,10/01/2016,41.308103,-93.109473
+555,4277,Cork It!,A,769 Prospect St SW,Le Mars,IA,51031,10/01/2016,42.776296,-96.178479
+556,4279,Keota Eagle Foods,A,217 E Broadway,Keota,IA,52248,10/01/2016,41.363958,-91.952725
+557,4283,Guppys On The Go,A,680 Lindale Dr,Marion,IA,52302,10/01/2016,42.033579,-91.62158
+558,4284,Fareway Stores #559 / Iowa Falls,A,500 Iowa St,Iowa Falls,IA,50126,10/01/2016,42.522324,-93.263746
+559,4285,Fareway Stores #922 / New Hampton,A,102 S Water Ave,New Hampton,IA,50659,10/01/2016,43.058019,-92.312904
+560,4289,Fareway Stores #062 / Waukon,A,777  11th Ave SW,Waukon,IA,52172,10/01/2016,43.256619,-91.48472
+561,4291,Fareway Stores #597 / Creston,A,105 E Adams St,Creston,IA,50801,10/01/2016,41.057362,-94.362339
+562,4293,Eddyville Market and Deli L,A,121 Walnut,Eddyville,IA,52553,10/01/2016,41.156468,-92.637653
+563,4295,Nat Food Mart #1 / Hubbell,I,3804 Hubbell,Des Moines,IA,50317,10/01/2016,41.630805,-93.541437
+564,4296,Circle B Market,A,111 Main St,Keosauqua,IA,52565,10/01/2016,40.729613,-91.962831
+565,4297,Discount Liquor / Cedar Rapids,I,2933  1st Ave SE,Cedar Rapids,IA,52402,10/01/2016,42.007104,-91.634871
+566,4298,Terry's Food Center,A,305 Crisman St,Dysart,IA,52224,10/01/2016,42.171406,-92.30769
+567,4299,Hometown Market / Central City,A,9 Waterhouse Ave,Central City,IA,52214,10/01/2016,42.199296,-91.530478
+568,4300,Fareway Stores #625 / Oskaloosa,A,311  3rd Ave W,Oskaloosa,IA,52577,10/01/2016,41.292614,-92.648062
+569,4301,Sahota Food Mart,A,1805 SE 14th St,Des Moines,IA,50320,10/01/2016,41.57222,-93.596849
+570,4302,Shop N Save / Des Moines,A,1829 6th Ave,Des Moines,IA,50314,10/01/2016,41.611018,-93.625814
+571,4303,Mepo Foods,A,111 N Wapello,Mediapolis,IA,52637,10/01/2016,41.008539,-91.170033
+572,4306,Northside One Stop / Hampton,A,1208  4th St NE,Hampton,IA,50441,10/01/2016,42.753045,-93.202452
+573,4307,Crossroads Wine and Liquor,A,117 IOWA AVE,Dunlap,IA,712-2,10/01/2016,41.854728,-95.602969
+574,4308,Keystone Liquor and Wine / Coralville,I,517  2nd St Ste 2,Coralville,IA,52241,10/01/2016,41.671398,-91.573591
+575,4310,Fareway Stores #502 / Cherokee,A,205 West Bluff St,Cherokee,IA,51012,10/01/2016,42.75508,-95.551866
+576,4311,Fareway Stores #508 / Fort Dodge,A,1231  1st Ave S,Fort Dodge,IA,50501,10/01/2016,42.505112,-94.181295
+577,4312,I-80 Liquor / Council Bluffs,A,2411 S 24TH ST #1,Council Bluffs,IA,51501,10/01/2016,41.238077,-95.879199
+578,4313,Fareway Stores #940 / Atlantic,A,301 Poplar St,Atlantic,IA,50022,10/01/2016,41.407927,-95.014379
+579,4315,Fareway Stores #554 / Washington,A,301 North Marion Ave,Washington,IA,52353,10/01/2016,41.301967,-91.692985
+580,4317,Fareway Stores #941 / Greenfield,A,212 SW Kent,Greenfield,IA,50849,10/01/2016,41.303167,-94.462719
+581,4318,Fareway Stores #841 / Red Oak,A,811 Broadway,Red Oak,IA,51566,10/01/2016,41.012239,-95.232712
+582,4319,Fareway Stores #703 / Humbolt,A,710 First Ave N,Humboldt,IA,50548,10/01/2016,42.722165,-94.218699
+583,4320,Fareway Stores #470 / Perry,A,1315 Willis Ave,Perry,IA,50220,10/01/2016,41.838522,-94.103123
+584,4321,Fareway Stores #501 / Charles City,A,210  11th St,Charles City,IA,50616,10/01/2016,43.052712,-92.674449
+585,4322,Hometown Foods / Baxter,I,103 N Main St,Baxter,IA,50028,10/01/2016,,
+586,4324,Dayton Community Grocery,A,22 North Main,Dayton,IA,50530,10/01/2016,42.26168,-94.068439
+587,4325,Villisca Foods Inc.,A,509 S 3rd Ave,Villisca,IA,50864,10/01/2016,40.927076,-94.977264
+588,4326,Stratford Food Center,A,829 Shakespeare Ave,Stratford,IA,50249,10/01/2016,42.271302,-93.92715
+589,4334,Fareway Stores #114 / Dubuque,A,2050 John F Kennedy Rd,Dubuque,IA,52001,10/01/2016,42.507604,-90.720434
+590,4336,Last Call 2,A,120 N Main St,George,IA,51237,10/01/2016,43.344294,-96.002297
+591,4337,Grand Falls Casino Resort,A,1415 Grand Falls Blvd,Larchwood,IA,51241,10/01/2016,43.456011,-96.409959
+592,4338,Randhawa's Travel Center,A,1659d Marshalltown Blvd,Melbourne,IA,50162,10/01/2016,41.953701,-93.10031
+593,4343,Best Food Mart / Des Moines,A,4028 NE 14th St,Des Moines,IA,50313,10/01/2016,41.633983,-93.600504
+594,4344,Spirits / Grimes,A,109 East 1st St Ste B,Grimes,IA,50111,10/01/2016,41.6884,-93.793812
+595,4345,Lucky Mart,A,1031 West St,Grinnell,IA,50112,10/01/2016,41.745903,-92.727379
+596,4346,Roy's Foodland,A,105 Pearl St,Shellsburg,IA,52332,10/01/2016,42.094155,-91.869285
+597,4351,Kum & Go #301 / Clear Lake,A,2325 7th Ave North N,Clear Lake,IA,50248,10/01/2016,43.145315,-93.359876
+598,4353,Kum & Go #302 / Clear Lake,A,2905 Fourth Ave,Clear Lake,IA,50248,10/01/2016,43.133722,-93.35318
+599,4355,Kum & Go #124 / Story City,A,1554 Broad St,Story City,IA,50248,10/01/2016,42.187733,-93.57573
+600,4356,Kum & Go #396 / Nevada,A,136 Lincoln Hwy,Nevada,IA,50201,10/01/2016,42.022725,-93.458003
+601,4357,Kum & Go #125 / Story City,I,527 PARK AVE,Story City,IA,50248,10/01/2016,42.186722,-93.597789
+602,4358,Kum & Go #553 / Clarion,I,300 CENTRAL AVE W,Clarion,IA,50525,10/01/2016,42.731643,-93.735925
+603,4359,Kum & Go #75 / Waukee,A,350 SE University Ave,Waukee,IA,50263,10/01/2016,41.600403,-93.865479
+604,4360,Kum & Go #333 / Newton,I,405 1ST AVE E,Newton,IA,50208,10/01/2016,41.699578,-93.049443
+605,4361,Quik Trip #538 / NW 2nd / DSM,A,4575 NW 2nd,Des Moines,IA,50313,10/01/2016,41.643664,-93.619906
+606,4362,Kum & Go #135 / Polk City,A,303 W Broadway St,Polk City,IA,50226,10/01/2016,41.772214,-93.714431
+607,4364,Kum & Go #22 / Grinnell,A,715 Lang Creek Ave,Grinnell,IA,50112,10/01/2016,41.699737,-92.726349
+608,4365,Kum & Go #222 / West St Grinnell,A,1002 West St,Grinnell,IA,50112,10/01/2016,41.745106,-92.727375
+609,4366,Kum & Go #137 / Tiffin,A,101 Village Dr,Tiffin,IA,52340,10/01/2016,41.697221,-91.6656
+610,4367,Kum & Go #109 / Mason City,I,1224 N FEDERAL AVE,Mason City,IA,50401,10/01/2016,43.163367,-93.201061
+611,4368,Kum & Go #570 / Johnston,A,5800 Northglen Dr,Johnston,IA,50131,10/01/2016,41.682764,-93.698314
+612,4369,Kum & Go #28 / Norwalk,A,2992 Sunset Dr,Norwalk,IA,50211,10/01/2016,41.494857,-93.674051
+613,4370,Kum & Go #240 / North Ave Norwalk,A,530 North Ave,Norwalk,IA,50211,10/01/2016,41.475381,-93.681862
+614,4371,Kum & Go #50 / West Des Moines,A,745 S 51st St,West Des Moines,IA,50265,10/01/2016,41.55871,-93.77275
+615,4372,Kum & Go #404 / Mason City,I,1303 4TH ST SW,Mason City,IA,50401,10/01/2016,43.148339,-93.221539
+616,4373,Kum & Go #74 / West Des Moines,A,141 S Jordan Creek Pkwy,West Des Moines,IA,50266,10/01/2016,41.567246,-93.809458
+617,4374,Kum & Go #141 / Grimes,A,1950 Princeton Dr,Grimes,IA,50111,10/01/2016,41.674214,-93.7729
+618,4375,Kum & Go #237 / Grimes,A,801 N 1st St,Grimes,IA,50111,10/01/2016,41.688389,-93.784145
+619,4376,Kum & Go #6 / Mason City,I,1920 S FEDERAL AVE,Mason City,IA,50401,10/01/2016,43.133204,-93.201072
+620,4377,Quik Trip #562 / NE 14th / DSM,A,4801 NE 14th St,Des Moines,IA,50313,10/01/2016,41.648601,-93.600266
+621,4378,Kum & Go #202 / 4th St Waukee,A,85  4th St,Waukee,IA,50263,10/01/2016,41.613918,-93.882532
+622,4379,Kum & Go #2091 / Ashworth / WDM,A,5969 Ashworth Rd,West Des Moines,IA,50266,10/01/2016,41.584385,-93.790022
+623,4380,Kum & Go #254 / West Branch,A,620 S Downey St,West Branch,IA,52358,10/01/2016,41.668271,-91.346676
+624,4382,Kum & Go #8 / 8th St / WDM,A,1293 8th Ave,West Des Moines,IA,50265,10/01/2016,41.590671,-93.713248
+625,4384,Kum & Go #2093 / Adel,A,409 Nile Kinnick Dr,Adel,IA,50003,10/01/2016,41.614114,-94.017511
+626,4385,Kum & Go #43 / New Virginia,A,1453 Co Hwy G76,New Virginia,IA,50210,10/01/2016,,
+627,4387,KUM & GO #117 / SPIRIT LAKE,A,300 18th St,Spirit Lake,IA,51360,10/01/2016,43.422645,-95.094324
+628,4388,QUIK TRIP #566 / CLIVE,A,11925 University Ave,Clive,IA,50325,10/01/2016,41.600513,-93.782182
+629,4392,KUM & GO #156 / CLIVE,A,15600 Hickman Rd,Clive,IA,50325,10/01/2016,41.614732,-93.834218
+630,4393,KUM & GO #206 / CLIVE,A,1725 NW 86th St,Clive,IA,50325,10/01/2016,41.607327,-93.736227
+631,4395,KUM & GO #133 / ELLSWORTH,A,1111 Ia Highway 175,Ellsworth,IA,50075,10/01/2016,42.310443,-93.573932
+632,4396,"Trunck's Country Foods, INC.",A,606 Grundy Ave,Reinbeck,IA,50669,10/01/2016,42.325703,-92.601293
+633,4397,Quik Trip #514 / Ankeny,A,802 E 1st St,Ankeny,IA,50021,10/01/2016,41.731862,-93.586368
+634,4398,KUM & GO #4786 / BELMOND,I,112 RIVER AVE S,Belmond,IA,50421,10/01/2016,42.84535,-93.616821
+635,4401,KUM & GO #503 / MARION,A,3215 7th Ave,Marion,IA,52302,10/01/2016,42.035094,-91.577188
+636,4402,KUM & GO #80 / RIVERSIDE,A,1178 Enterprise Dr,Riverside,IA,52327,10/01/2016,41.487632,-91.554577
+637,4404,KUM & GO #292 / ANKENY,A,1825 N Ankeny Blvd,Ankeny,IA,50021,10/01/2016,41.746789,-93.600244
+638,4405,KUM & GO #92 / ANKENY,A,1025 E  1st St,Ankeny,IA,50021,10/01/2016,41.731869,-93.58166
+639,4406,KUM & GO #4020 / ANKENY,A,1910 SW White Birch Circle,Ankeny,IA,50023,10/01/2016,41.701905,-93.626571
+640,4408,KUM & GO #2217 / BOONE,A,315 Story St,Boone,IA,50036,10/01/2016,42.058784,-93.879991
+641,4409,Kum & Go #90 / BOONE,A,1704 S Story St,Boone,IA,50036,10/01/2016,42.037102,-93.879597
+642,4410,Kum & Go #203 / Perry,A,1219 1st St,Perry,IA,50220,10/01/2016,,
+643,4411,KUM & GO #95 / DE SOTO,A,1203 Guthrie St,De Soto,IA,50069,10/01/2016,41.538177,-94.012641
+644,4412,Kum & Go #267 / Tipton,A,2050 Ia Highway 38,Tipton,IA,52772,10/01/2016,41.646987,-91.115773
+645,4413,KUM & GO #439 / WAPELLO,A,303 Us Hwy 61 N,Wapello,IA,52653,10/01/2016,41.181314,-91.195287
+646,4414,KUM & GO #23 / NEOLA,A,29356 298th St,Neola,IA,51559,10/01/2016,41.438795,-95.612045
+647,4415,KUM & GO #513 / ACKLEY,A,420 Sherman St,Ackley,IA,50601,10/01/2016,42.556727,-93.056656
+648,4416,KUM & GO #83 / CASEY,A,501 Antuque Country Dr,Casey,IA,50048,10/01/2016,41.505614,-94.51925
+649,4417,KUM & GO #76 / ADAIR,A,109 S 5th St,Adair,IA,50002,10/01/2016,41.495557,-94.64345
+650,4418,KUM & GO #46 / WALNUT,A,1709 Antique City Dr,Walnut,IA,51577,10/01/2016,41.494138,-95.222087
+651,4419,KUM & GO #4 / LAMONI,A,2091 E Main St,Lamoni,IA,50140,10/01/2016,40.623454,-93.896684
+652,4420,KUM & GO #38 / OTTUMWA,I,534 CHURCH ST,Ottumwa,IA,52501,10/01/2016,41.009459,-92.418522
+653,4421,KUM & GO #1 / HAMPTON,A,609 Central Ave W,Hampton,IA,50441,10/01/2016,42.741741,-93.21508
+654,4424,CIRCLE K #6601 / BURLINGTON,A,1012 Maple St,Burlington,IA,52601,10/01/2016,40.80456,-91.112268
+655,4425,Quik Trip #575 / Council Bluffs,I,1749 W Broadway St,Council Bluffs,IA,51501,10/01/2016,41.261858,-95.870133
+656,4426,LIQUOR AND GROCERY DEPOT,I,114 Central St N Suite 1,Marshalltown,IA,50158,10/01/2016,41.941137,-92.782406
+657,4427,Kum & Go #507 / North Liberty,A,610 N Kansas Ave,North Liberty,IA,52317,10/01/2016,41.752948,-91.636982
+658,4428,Kum & Go #200 / Ames,A,4510 Mortensen Rd,Ames,IA,50014,10/01/2016,42.01214,-93.679805
+659,4429,Kum & Go #32 / Colfax,A,1200 N Walnut St,Colfax,IA,50054,10/01/2016,41.686943,-93.247205
+660,4430,Kum & Go #87 / Fort Dodge,I,1601 FIFTH AVENUE S,Fort Dodge,IA,50501,10/01/2016,42.501112,-94.175805
+661,4431,Kum & Go #89 / Fort Dodge,I,115 N 22ND ST,Fort Dodge,IA,50501,10/01/2016,42.507886,-94.168007
+662,4432,Kum & Go #201 Coralville,I,822 1st Ave,Coralville,IA,52241,10/01/2016,41.681288,-91.565776
+663,4433,Kum & Go #24  Pleasant Hill,A,5970 Morning Star Ct,Pleasant Hill,IA,50317,10/01/2016,41.597596,-93.492204
+664,4434,Todd's,A,209 S Union St,Rock Rapids,IA,51246,10/01/2016,43.430056,-96.175502
+665,4435,Kum & Go #220  Council Bluffs,A,2024 5th Ave,Council Bluffs,IA,51501,10/01/2016,41.25712,-95.874965
+666,4436,Kum & Go #216  Ames,A,203 Welch Ave,Ames,IA,50010,10/01/2016,42.021236,-93.650125
+667,4437,Kum & Go #215  Ames,A,4506 Lincoln Way,Ames,IA,50010,10/01/2016,42.022898,-93.679448
+668,4438,Kum & Go #214  Ames,A,111 Duff Ave,Ames,IA,50010,10/01/2016,42.023592,-93.610396
+669,4439,CENTER POINT FOODS,A,800 Ford Lane,Center Point,IA,52213,10/01/2016,42.177736,-91.775734
+670,4440,Kum & Go #219  Council Bluffs,A,154 Bennett Ave,Council Bluffs,IA,51503,10/01/2016,41.252725,-95.820374
+671,4443,Palo Mini Mart,A,1204 1st St,Palo,IA,52324,10/01/2016,42.070316,-91.795808
+672,4444,Kum & Go #4127 / SLOAN,A,1864 Hwy 141,Sloan,IA,51055,10/01/2016,42.228584,-96.23614
+673,4445,Kum & Go #196 / WEBSTER CITY,I,1102 2nd St,Webster City,IA,50595,10/01/2016,42.469524,-93.831462
+674,4446,QUIK TRIP #513 / URBANDALE,A,4600 Merle Hay Rd,Urbandale,IA,50322,10/01/2016,41.644261,-93.698005
+675,4447,QUIK TRIP #567 / URBANDALE,A,"9915, Douglas Ave",Urbandale,IA,50322,10/01/2016,41.62945,-93.755433
+676,4448,Kum & Go #572 / URBANDALE,A,4860 NW Urbandale Dr,Urbandale,IA,50322,10/01/2016,41.646391,-93.769429
+677,4449,Kum & Go #121 / URBANDALE,A,12041 Douglas Pkwy,Urbandale,IA,50322,10/01/2016,41.62962,-93.782993
+678,4450,Kum & Go #157 / URBANDALE,A,4585 156th St,Urbandale,IA,50323,10/01/2016,41.643147,-93.833463
+679,4451,Kum & Go #96 / WEBSTER CITY,I,1803 Superior St,Webster City,IA,50595,10/01/2016,42.459531,-93.815845
+680,4452,Select Mart    Gordon Dr,A,2825 Gordon Dr,Sioux City,IA,51105,10/01/2016,42.489617,-96.371962
+681,4453,SID'S GAS and GROCERIES,A,"1116, Hwy 69 South",Forest City,IA,50436,10/01/2016,43.248977,-93.637202
+682,4454,Kum & Go #248 / Sioux City,A,2026 Riverside Blvd,Sioux City,IA,51109,10/01/2016,42.514909,-96.474591
+683,4455,Kum & Go #1959 / Eldora,A,2359 Edgington Ave,Eldora,IA,50627,10/01/2016,42.360612,-93.113653
+684,4456,Kum & Go #53 / Iowa City,A,955 Morman Trek Blvd,Iowa City,IA,52246,10/01/2016,41.649946,-91.574075
+685,4457,KUM & GO #422 / IOWA CITY,A,513 S Riverside Dr,Iowa City,IA,52240,10/01/2016,41.653325,-91.540405
+686,4458,QUIK TRIP #568 / JOHNSTON,A,5169 Merle Hay Rd,Johnston,IA,50131,10/01/2016,41.654161,-93.697533
+687,4459,Kum & Go #544 / Eagle Grove,A,1120 S Commercial,Eagle Grove,IA,50533,10/01/2016,42.653973,-93.9044
+688,4461,QUIK TRIP #503 / WINDSOR HEIGHTS,A,7220 Hickman Rd,Windsor Heights,IA,50324,10/01/2016,41.614647,-93.717442
+689,4462,SHELTON'S,A,113 1st St NW,Buffalo Center,IA,50424,10/01/2016,43.386755,-93.947595
+690,4463,Casey's General Store #3031 / Garner,A,145 Us Hwy 18 W,Garner,IA,50438,10/01/2016,43.105833,-93.603007
+691,4464,Perfect Value Liquor Mart,A,5b  Lincoln Ave,Eldridge,IA,52748,10/01/2016,41.695329,-90.547796
+692,4466,THE PUMPER,A,515 W Water St,Fayette,IA,52142,10/01/2016,42.844438,-91.80894
+693,4467,Kum & Go #438 / Muscatine,A,1010 PARK AVE,Muscatine,IA,52761,10/01/2016,41.435925,-91.030816
+694,4468,CIRCLE K #6600 / MUSCATINE,A,802 Cypress St,Muscatine,IA,52761,10/01/2016,41.431655,-91.041197
+695,4470,Kum & Go #211 / WATERLOO,I,1976 Franklin St,Waterloo,IA,50703,10/01/2016,42.495308,-92.314941
+696,4471,Kum & Go #212 / WATERLOO,I,117 E San Marnan Dr,Waterloo,IA,50702,10/01/2016,42.457847,-92.355754
+697,4472,Quick Shop Foods / Centerville,A,1023 South Main,Centerville,IA,52544,10/01/2016,40.724175,-92.874182
+698,4473,Casey's General Store #92 / Panora,A,"113, NE 3rd St",Panora,IA,50216,10/01/2016,41.692351,-94.361364
+699,4474,Bucky's Express #34 / Council Bluffs,A,3501 W Broadway St,Council Bluffs,IA,51501,10/01/2016,41.261916,-95.902733
+700,4475,Bucky's Express #27 / Council Bluffs,A,2713 S 24th St,Council Bluffs,IA,51501,10/01/2016,41.234234,-95.879148
+701,4476,Bucky's Express #16 / Council Bluffs,A,15 North 16th St,Council Bluffs,IA,51501,10/01/2016,41.262352,-95.867464
+702,4477,Bucky's Express #17 / Council Bluffs,A,1759 Madison Ave,Council Bluffs,IA,51503,10/01/2016,41.2426,-95.824807
+703,4478,U S Gas,A,"3000, SW 9th St",Des Moines,IA,50315,10/01/2016,41.557862,-93.625682
+704,4480,Circle K #6602 / Clinton,A,1530 North 2nd St,Clinton,IA,52732,10/01/2016,41.861823,-90.183748
+705,4481,THE LIQUOR HOUSE,I,425 Gilbert St,Iowa City,IA,52240,10/01/2016,41.656031,-91.530225
+706,4482,Indy 66 West #929 / Indianola,A,"2001, West 2nd Ave",Indianola,IA,50125,10/01/2016,41.356153,-93.587628
+707,4485,DYNO'S 51 / SANBORN,A,101 W 7th St,Sanborn,IA,51248,10/01/2016,43.186036,-95.6558
+708,4487,Casey's General Store #2787 / Cedar Rapids,A,1661 32nd St NE,Cedar Rapids,IA,52402,10/01/2016,42.010447,-91.662119
+709,4489,Casey's General Store #2763 / Cedar Rapids,A,641 Edgewood Rd NW,Cedar Rapids,IA,52405,10/01/2016,41.979772,-91.715925
+710,4490,Casey's General Store #2766 / Cedar Rapids,A,380 33rd Ave SW,Cedar Rapids,IA,52404,10/01/2016,41.944937,-91.672274
+711,4491,Casey's General Store #2772 / Cedar Rapids,A,3349 Mt Vernon Rd SE,Cedar Rapids,IA,52403,10/01/2016,41.976807,-91.619027
+712,4492,Casey's General Store #2773 / Cedar Rapids,A,3625 Edgewood Rd SW,Cedar Rapids,IA,52404,10/01/2016,41.942366,-91.715911
+713,4493,Casey's General Store #2850 / Cedar Rapids,A,5655 C St SW,Cedar Rapids,IA,52404,10/01/2016,41.922505,-91.637306
+714,4495,Casey's General Store #3055 / Grundy Center,A,"504, G Ave",Grundy Center,IA,50638,10/01/2016,42.361494,-92.770411
+715,4496,B P ON 1ST,A,"2824, 1st Ave NE",Cedar Rapids,IA,52402,10/01/2016,42.005867,-91.634838
+716,4497,Casey's General Store #20 / Alden,A,"1008, Grand",Alden,IA,50006,10/01/2016,42.514223,-93.380237
+717,4498,Speede Shop / Winthrop,A,644 220th St,Winthrop,IA,50682,10/01/2016,42.468412,-91.741297
+718,4499,Casey's General Store #1316 / Milford,A,510 Okoboji Ave,Milford,IA,51351,10/01/2016,43.320094,-95.149937
+719,4500,Casey's General Store #2788 / North Liberty,A,595 N Kansas Ave,North Liberty,IA,52317,10/01/2016,41.751949,-91.636953
+720,4501,Kum & Go #134 / Fairfield,A,1601 W Burlington Ave,Fairfield,IA,52556,10/01/2016,41.006447,-91.981752
+721,4502,Neighborhood Mart / Waterloo,A,"2100, Lafayette St",Waterloo,IA,50703,10/01/2016,42.489966,-92.31409
+722,4503,Casey's General Store #38 / Treynor,A,102 W Main St,Treynor,IA,51575,10/01/2016,41.232473,-95.617322
+723,4504,JIFFY EXPRESS #921 / INDIANOLA,A,311 North Jefferson,Indianola,IA,50125,10/01/2016,41.363061,-93.558375
+724,4505,Casey's General Store #2816 / Johnston,A,6417 Northglen Dr,Johnston,IA,50131,10/01/2016,41.687924,-93.706058
+725,4506,Casey's General Store #2667 / Tiffin,A,403 Stephens St,Tiffin,IA,52340,10/01/2016,41.707315,-91.660193
+726,4507,Casey's General Store #2902 / Spencer,A,411 W 18th,Spencer,IA,51301,10/01/2016,43.155628,-95.150967
+727,4508,Casey's General Store #2877 / Spencer,A,805 Grand Ave S,Spencer,IA,51301,10/01/2016,43.129793,-95.143868
+728,4509,A J'S LIQUOR II,A,2515 Chamberlain,Ames,IA,50010,10/01/2016,42.021461,-93.650838
+729,4510,Casey's General Store #1007 / Malvern,A,701 Main St,Malvern,IA,51551,10/01/2016,41.005672,-95.585127
+730,4511,Super Quick / SE 30 DM,A,303 SE 30th St,Des Moines,IA,50317,10/01/2016,41.585264,-93.558326
+731,4512,Metro Mart #4 / Waterloo,A,"2332, Falls Ave",Waterloo,IA,50701,10/01/2016,42.500142,-92.37641
+732,4513,Casey's General Store #1144 / Polk City,A,1100 S 3rd St,Polk City,IA,50226,10/01/2016,41.764009,-93.717068
+733,4514,Casey's General Store #2813 / Fort Dodge,A,1230 3rd Ave NW,Fort Dodge,IA,50501,10/01/2016,42.515441,-94.218425
+734,4515,Casey's General Store #1588 / Dows,A,2721 Dows Williams Rd,Dows,IA,50071,10/01/2016,42.655628,-93.508976
+735,4516,Casey's General Store #1569 / Oakland,A,205 Brown St,Oakland,IA,51560,10/01/2016,41.30495,-95.399804
+736,4517,Casey's General Store #2767 / Cedar Rapids,A,3434 1st Ave NE,Cedar Rapids,IA,52402,10/01/2016,42.013062,-91.635028
+737,4518,Casey's General Store #2824 / WDM,A,6630 Mills Civic Parkway,West Des Moines,IA,50266,10/01/2016,41.561793,-93.799255
+738,4519,Casey's General Store #2923 / WDM,A,1850 22nd St,West Des Moines,IA,50266,10/01/2016,41.59992,-93.736188
+739,4520,Casey's General Store #2842 / Huxley,A,902 N Hwy 69,Huxley,IA,50124,10/01/2016,41.901604,-93.607648
+740,4521,Casey's General Store #1002 / Grand Junction,A,504 16th St N,Grand Junction,IA,50107,10/01/2016,42.035781,-94.232024
+741,4522,Casey's General Store #2523 / Monroe,A,201 Ralph St,Monroe,IA,50170,10/01/2016,41.515056,-93.104359
+742,4523,Casey's General Store #2563 / Exira,A,312 W Washington St,Exira,IA,50076,10/01/2016,41.591142,-94.879847
+743,4524,Casey's General Store #1139 / Nora Springs,A,14 E Congress,Nora Springs,IA,50458,10/01/2016,43.142731,-93.005225
+744,4525,Casey's General Store #2425 / Akron,A,600 Highway 12 South,Akron,IA,51001,10/01/2016,42.82714,-96.561088
+745,4527,Casey's General Store #30 / Gilmore City,A,105 SE First St,Gilmore City,IA,50541,10/01/2016,42.732227,-94.44175
+746,4528,Casey's General Store #1303 / Marshalltown,A,111 N 3rd Ave,Marshalltown,IA,50158,10/01/2016,42.051236,-92.908032
+747,4529,Casey's General Store #3262 / Buffalo,A,101 1st St NE,Buffalo Center,IA,50424,10/01/2016,43.385845,-93.945401
+748,4530,Casey's General Store #2566 / Ely,A,1495 State St,Ely,IA,52227,10/01/2016,41.872754,-91.587258
+749,4531,Casey's General Store #2626 / Afton,A,501 N Douglas St,Afton,IA,50830,10/01/2016,41.031441,-94.197613
+750,4532,Casey's General Store #2274 / Sioux Rapids,A,720 Hwy 71,Sioux Rapids,IA,50585,10/01/2016,42.887382,-95.152955
+751,4533,Casey's General Store #1985 / St. Ansgar,A,110 N Hwy 218,St Ansgar,IA,50472,10/01/2016,43.378704,-92.917588
+752,4535,Casey's General Store #2421 / Dubuque,A,4003 Peru Rd,Dubuque,IA,52001,10/01/2016,42.539307,-90.676078
+753,4536,Casey's General Store #2420 / Dubuque,A,2699 Rockdale,Dubuque,IA,52003,10/01/2016,42.455291,-90.678229
+754,4537,Casey's General Store #1834 / Leon,A,401 NW Church St,Leon,IA,50144,10/01/2016,40.742125,-93.747901
+755,4538,K & S Grocery,A,402 North Main St,Clarksville,IA,50619,10/01/2016,42.787434,-92.667833
+756,4539,Casey's General Store #40 / Scranton,A,900 Locust St,Scranton,IA,51462,10/01/2016,42.022413,-94.551577
+757,4540,Casey's General Store #2915 / Bellevue,A,1104 N Riverview St,Bellevue,IA,52031,10/01/2016,42.268482,-90.427887
+758,4541,Casey's General Store #1045 / Delmar,A,502 Market,Delmar,IA,52037,10/01/2016,42.003648,-90.606669
+759,4542,Casey's General Store #2994 / Lauren,A,520 W Main St,Laurens,IA,50554,10/01/2016,42.846771,-94.855561
+760,4543,Casey's General Store #2924 / Marion,A,1100 Eagle View Dr,Marion,IA,52302,10/01/2016,42.037621,-91.553462
+761,4544,Casey's General Store #1898 / Osceola,A,114 N Main St,Osceola,IA,50213,10/01/2016,41.035778,-93.765678
+762,4545,FILL R UP,A,14151 Wabash Ave,Council Bluffs,IA,51503,10/01/2016,41.22035,-95.817825
+763,4546,Casey's General Store #2303 / Glidden,A,705 Idaho St,Glidden,IA,51443,10/01/2016,42.063817,-94.728981
+764,4547,Fareway Stores #902 / Hampton,A,309 Central Ave West,Hampton,IA,50441,10/01/2016,42.741748,-93.211676
+765,4548,Casey's General Store #2594 / Walker,A,401 Grant St,Walker,IA,52352,10/01/2016,42.283922,-91.781945
+766,4549,Casey's General Store #2913 / Colo,A,702 Us Hwy 65,Colo,IA,50056,10/01/2016,42.014866,-93.309393
+767,4551,Casey's General Store #2845 / Urbana,A,201 Sunset St,Urbana,IA,52345,10/01/2016,,
+768,4552,Casey's General Store #2493 / Buffalo,A,222 W Front St,Buffalo,IA,52728,10/01/2016,,
+769,4553,Casey's General Store #1892 / Sheffield,A,702 E Gilman St,Sheffield,IA,50475,10/01/2016,42.893235,-93.203207
+770,4554,Kum & Go #229 / Sioux City,A,1821 Hamilton Blvd,Sioux City,IA,51103,10/01/2016,42.510269,-96.416824
+771,4555,Casey's General Store #2614 / Donnellson,A,201 Madison Ave,Donnellson,IA,52625,10/01/2016,40.639013,-91.560169
+772,4556,Casey's General Store #2552 / Goldfield,A,319 E Hwy 3,Goldfield,IA,50542,10/01/2016,42.731594,-93.917008
+773,4557,Hometown Foods / Traer,A,420 Second St,Traer,IA,50675,10/01/2016,42.193386,-92.468086
+774,4558,Kum & Go #226 / Sioux City,A,1373 Pierce St,Sioux City,IA,51105,10/01/2016,42.504732,-96.405013
+775,4559,Osage Payless Foods,A,633 CHASE ST,Osage,IA,50461,10/01/2016,43.285134,-92.811539
+776,4560,Casey's General Store #2914 / Harlan,A,"1006, Chatburn Ave",Harlan,IA,51537,10/01/2016,41.645404,-95.322969
+777,4561,Kroegers Liquor Co LLC,A,3539 Lafayette Rd,Evansdale,IA,50707,10/01/2016,42.477712,-92.289505
+778,4562,Casey's General Store #2989 / Mechanicsville,A,206 Short St,Mechanicsville,IA,52306,10/01/2016,,
+779,4563,The Molehill,A,315 Main St,Ireton,IA,51027,10/01/2016,42.97511,-96.318279
+780,4565,KUM & GO #228 / Sioux city,A,1925 S Lakeport St,Sioux City,IA,51106,10/01/2016,42.469008,-96.346548
+781,4566,Kum & Go #508 / Cedar Rapids,A,30 Four Oaks Dr SW,Cedar Rapids,IA,52404,10/01/2016,41.923078,-91.657939
+782,4568,Select Mart   Floyd Blvd,A,4103 Floyd Blvd,Sioux City,IA,51108,10/01/2016,42.541969,-96.358493
+783,4569,Car-Go-Express / Sutherland,A,202 West Southern St,Sutherland,IA,51058,10/01/2016,42.968051,-95.499742
+784,4604,Pit Stop Liquors / Newton,A,"1324, 1st Ave E",Newton,IA,50208,10/01/2016,41.699173,-93.035654
+785,4571,Casey's General Store #2357 / Allison,A,"100, Cherry St",Allison,IA,50602,10/01/2016,42.745202,-92.790457
+786,4572,Grundy Center Family Foods,I,1400 G Ave,Grundy Center,IA,50638,10/01/2016,42.36157,-92.782283
+787,4573,Casey's General Store #1330 / Hamburg,A,1211 Washington St,Hamburg,IA,51640,10/01/2016,40.60514,-95.654632
+788,4575,Casey's General Store #2304 / Slater,A,200 6th Ave,Slater,IA,50244,10/01/2016,41.877859,-93.679808
+789,4576,THE BOONEDOCKS,I,228 N HWY 71,Arnolds Park,IA,51331,10/01/2016,43.371031,-95.125869
+790,4577,Casey's General Store #2551 / Woodward,A,"906, S Main St",Woodward,IA,50276,10/01/2016,41.848949,-93.9222
+791,4578,Casey's General Store #2592 / Farmington,A,201 S 4th St,Farmington,IA,52626,10/01/2016,40.639743,-91.740069
+792,4580,Smokin' Joe's #9 Tobacco and Liquor Outlet,A,304 W. Madison,Washington,IA,52353,10/01/2016,41.296493,-91.694639
+793,4582,Pronto / Spirit Lake,A,"2402, 17th St",Spirit Lake,IA,51360,10/01/2016,43.42282,-95.126585
+794,4584,J & C Grocery / Dumont,A,611 Main St,Dumont,IA,50602,10/01/2016,42.750551,-92.973022
+795,4585,Casey's General Store #2561 / Farley,A,"306, 1st St SW",Farley,IA,52046,10/01/2016,42.439554,-91.006139
+796,4588,Sam's Mini Mart / Sioux City,A,923 W 7TH ST,Sioux City,IA,51103,10/01/2016,42.503495,-96.419074
+797,4589,Dyno's #53 / Sibley,A,1026 2nd Ave,Sibley,IA,51249,10/01/2016,43.397454,-95.752116
+798,4590,Casey's General Store #3045 / Cedar Falls,A,"601, Main St",Cedar Falls,IA,50613,10/01/2016,42.532963,-92.445512
+799,4591,Casey's General Store #3052 / Clarion,A,"222, Central Ave",Clarion,IA,50525,10/01/2016,42.731649,-93.735023
+800,4592,Dyno's #29 / Emmetsburg,A,"2401, Main",Emmetsburg,IA,50536,10/01/2016,43.111913,-94.681939
+801,4594,Quik Trip #554 / SW 63rd DM,A,901 SW 63rd St,Des Moines,IA,50312,10/01/2016,41.569715,-93.703165
+802,4595,Quik Trip #559 / Fleur Dr DM,A,4024 Fleur Dr,Des Moines,IA,50321,10/01/2016,41.547105,-93.645068
+803,4596,Quik Trip #534 / E University DM,A,2945 E University,Des Moines,IA,50317,10/01/2016,41.600468,-93.558972
+804,4597,Quik Trip #523 / Army Post DM,A,850 Army Post Rd,Des Moines,IA,50315,10/01/2016,41.526428,-93.625093
+805,4598,Quik Trip #501 / E Euclid DM,A,2221 E Euclid Ave,Des Moines,IA,50317,10/01/2016,41.627702,-93.577655
+806,4599,Quik Trip #500 / Hubbell DM,A,3700 Hubbell Ave,Des Moines,IA,50317,10/01/2016,41.628988,-93.544983
+807,4600,Kum & Go #207 / Hubbell DM,A,4200 E Hubbell Ave,Des Moines,IA,50317,10/01/2016,41.63597,-93.531633
+808,4601,Kum & Go #4110 / Guthrie DM,A,2110 Guthrie Ave,Des Moines,IA,50317,10/01/2016,41.61508,-93.578778
+809,4602,Cheap Smokes / Beer City,A,58231 190th St,Pacific Junction,IA,51561,10/01/2016,41.041672,-95.822968
+810,4603,Kum & Go #208 / SE 14th DM,A,3200 SE 14th St,Des Moines,IA,50320,10/01/2016,41.555041,-93.596916
+811,4605,Kum & Go #509 / Marion,A,1203 Blairs Ferry Rd,Marion,IA,52302,10/01/2016,42.032441,-91.62496
+812,4607,Casey's General Store #1024 / Gutten,A,"1131, S Hwy 52",Guttenberg,IA,52052,10/01/2016,42.772826,-91.100516
+813,4608,Casey's General Store #3050 / Council Bluffs,A,"510, 23rd Ave",Council Bluffs,IA,51503,10/01/2016,41.23931,-95.85248
+814,4609,Kum & Go #579 / Ankeny,A,165 SW Magazine Rd,Ankeny,IA,50023,10/01/2016,41.717284,-93.601653
+815,4610,Casey's General Store #2992 / Fonda,A,101 Hwy 7,Fonda,IA,50540,10/01/2016,42.588969,-94.846456
+816,4612,ATC Liquor,I,214 Myrtle St,Davenport,IA,52802,10/01/2016,41.521586,-90.589149
+817,4613,Sparky's One Stop / Carroll,A,402 E 6th St,Carroll,IA,51401,10/01/2016,42.06444,-94.862578
+818,4615,North Side Liquor & Grocery,I,1303 North Federal Ave,Mason City,IA,50401,10/01/2016,43.163663,-93.201061
+819,4617,Lickety Liquor,A,2501 HUBBELL AVE,Des Moines,IA,50317,10/01/2016,41.607867,-93.570458
+820,4619,Smokin' Joe's #3 Tobacco and Liquor Outlet,A,1737 Ave H,Fort Madison,IA,52627,10/01/2016,40.63021,-91.329824
+821,4620,Nodaway Valley Market,A,304 4th St,Fontanelle,IA,50846,10/01/2016,41.289877,-94.562737
+822,4621,Casey's General Store #23 / Maxwell,A,"100, Main St",Maxwell,IA,50161,10/01/2016,41.888013,-93.39968
+823,4622,Quik Trip #544 / SE 14th DM,A,"3941, SE 14th St",Des Moines,IA,50320,10/01/2016,41.548497,-93.596748
+824,4623,Casey's General Store #1493 / Van Meter,A,"700, Debra Dr",Van Meter,IA,50261,10/01/2016,41.533177,-93.951253
+825,4624,Kwik Shop #568 / Hiawatha,A,300 E Blairs Ferry Rd,Hiawatha,IA,52233,10/01/2016,42.034818,-91.673808
+826,4625,Kwik Shop #532 / Council Bluffs,I,1602 Avenue G,Council Bluffs,IA,51501,10/01/2016,41.267987,-95.867877
+827,4626,Kwik Shop #527 / Council Bluffs,A,"3632, Avenue G",Council Bluffs,IA,51501,10/01/2016,41.268064,-95.906095
+828,4627,Casey's General Store #1388 / Sully,A,"807, 1st St",Sully,IA,50251,10/01/2016,41.581097,-92.844307
+829,4628,Oelwein Bottle and Can Inc.,A,137 2nd Ave SE,Oelwein,IA,50662,10/01/2016,42.67564,-91.910523
+830,4629,Kwik Shop #541 / Glenwood,A,309 N Locust St,Glenwood,IA,51534,10/01/2016,41.050184,-95.744909
+831,4630,EZ Stop / Davenport,A,2923 Brady St,Davenport,IA,52803,10/01/2016,41.54994,-90.570581
+832,4631,Thunder Ridge Ampride,A,"2425, Whitetail Dr",Cedar Falls,IA,50613,10/01/2016,42.539967,-92.475139
+833,4632,Nat Food Mart / 2nd Ave DM,I,1443 2nd Ave,Des Moines,IA,50314,10/01/2016,41.605229,-93.619783
+834,4633,Kwik Shop #520 / Carter Lake,A,1202 East Locust St,Carter Lake,IA,51510,10/01/2016,,
+835,4634,Kwik Shop #565 / Cedar Rapids,A,"4201, Center Point Rd NE",Cedar Rapids,IA,52402,10/01/2016,42.022,-91.665691
+836,4635,Kwik Shop #563 / Cedar Rapids,A,1001 1st Ave SW,Cedar Rapids,IA,52405,10/01/2016,41.972397,-91.684707
+837,4636,Kwik Shop #561 / Cedar Rapids,A,2904 Center Point Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.007193,-91.662822
+838,4637,Kwik Shop #560 / Cedar Rapids,A,3301 J St,Cedar Rapids,IA,52404,10/01/2016,41.944676,-91.666812
+839,4638,GD Xpress / Davenport,A,4607 N Pine St,Davenport,IA,52804,10/01/2016,41.567504,-90.610249
+840,4640,Mart Stop #1 / Davenport,A,"3527, Spring St",Davenport,IA,52807,10/01/2016,41.5563,-90.547751
+841,4641,Kum & Go #573 / SE 14th DM,A,5830 SE 14th St,Des Moines,IA,50315,10/01/2016,41.533403,-93.59687
+842,4642,Liquor and Tobacco Outlet / Univ Ave Waterloo,A,2844 University Ave,Waterloo,IA,50701,10/01/2016,42.498321,-92.382928
+843,4643,Cubby's Red Oak,A,"2405, N Broadway St",Red Oak,IA,51566,10/01/2016,41.027387,-95.232924
+844,4644,Kwik Shop #588 / Davenport,A,"1136, E Locust St",Davenport,IA,52803,10/01/2016,41.538288,-90.558658
+845,4645,Kwik Shop #589 / Eldridge,A,"1, Grove Rd",Eldridge,IA,52748,10/01/2016,41.694958,-90.548678
+846,4647,B and B EAST / Waterloo,A,1615 Bishop Ave,Waterloo,IA,50707,10/01/2016,42.49807,-92.293057
+847,4648,Prime Mart / Broadway Waterloo,A,508 Broadway St,Waterloo,IA,50703,10/01/2016,42.510573,-92.345104
+848,4650,Loofts on 9 Liquor Here or Liquor There,A,"202, W 4th Ave",Swea City,IA,50590,10/01/2016,43.38496,-94.308749
+849,4651,Casey's General Store #2300 / Jewell,A,301 MAIN ST,Jewell,IA,50130,10/01/2016,42.302654,-93.640039
+850,4652,Brady Mart Food & Liquor,A,"3107, Brady St",Davenport,IA,52803,10/01/2016,41.552205,-90.569702
+851,4653,Casey's General Store #1617 / Jefferson,A,"508, N Elm",Jefferson,IA,50129,10/01/2016,42.02014,-94.377422
+852,4654,KUM & GO #510 / STUART,A,629 S Division St,Stuart,IA,50250,10/01/2016,41.503669,-94.318375
+853,4655,Casey's General Store #2237 / Prairie City,A,1002 W 2nd St,Prairie City,IA,50228,10/01/2016,41.596719,-93.247551
+854,4656,Casey's General Store #2301 / Ames,A,17005 Hwy 69,Ames,IA,50010,10/01/2016,42.106452,-93.620453
+855,4657,Casey's General Store #2526 / Wellsburg,A,308 N Washington,Wellsburg,IA,50680,10/01/2016,,
+856,4658,Casey's General Store #3027 / Iowa Falls,A,904 Washington Ave,Iowa Falls,IA,50126,10/01/2016,42.519634,-93.268365
+857,4659,Casey's General Store #2802 / Conrad,A,409 E Center,Conrad,IA,50621,10/01/2016,42.224536,-92.868874
+858,4660,Hill Brothers Jiffy Mart / Cedar Rapids,A,"1904, Mt Vernon Rd SE",Cedar Rapids,IA,52403,10/01/2016,41.977226,-91.642558
+859,4661,Quik Trip #531 / Grimes,A,"1900, SE 37th St",Grimes,IA,50111,10/01/2016,41.658525,-93.773467
+860,4662,Guppy's On The Go / Cedar Rapids,A,"1532, Ellis Blvd NW",Cedar Rapids,IA,52405,10/01/2016,41.988646,-91.682151
+861,4663,Casey's General Store #3077 / Peosta,A,236 Peosta St,Peosta,IA,52068,10/01/2016,42.443956,-90.850389
+862,4664,Casey's General Store #24 / Boone,A,1127 Story,Boone,IA,50036,10/01/2016,42.067645,-93.880068
+863,4665,Casey's General Store #2896 / Ankeny,A,2601 SE Creekview Dr,Ankeny,IA,50021,10/01/2016,41.703903,-93.571441
+864,4667,Kum & Go #56 / Bevington,I,101 E Ia Highway 92,Bevington,IA,50033,10/01/2016,41.360431,-93.790419
+865,4668,Clear Lake Payless Foods,A,20 South 4th St,Clear Lake,IA,50428,10/01/2016,43.135827,-93.380243
+866,4669,Vom Fass / Des Moines,A,"833, 42nd St",Des Moines,IA,50312,10/01/2016,41.593431,-93.674384
+867,4670,Guppy's On The Go / Tripoli,A,600 7TH AVE SW,Tripoli,IA,50676,10/01/2016,42.802374,-92.264268
+868,4672,The Pit Stop / River City Liquor,I,402 S Hwy 52,Guttenberg,IA,52052,10/01/2016,42.782424,-91.100471
+869,4673,Sonny's Super Market / West Point,A,327 5th St,West Point,IA,52656,10/01/2016,40.717867,-91.452491
+870,4674,Kum & Go #227 / Ames,A,2108 ISAAC NEWTON DR,Ames,IA,50010,10/01/2016,42.009586,-93.585884
+871,4675,Kum & Go #113 / Ames,A,2801 E 13th St,Ames,IA,50010,10/01/2016,42.034562,-93.575702
+872,4676,Sam's Mini Mart / Sioux City,A,711 Gordon Dr,Sioux City,IA,51101,10/01/2016,42.489817,-96.401114
+873,4677,Costco Wholesale #1111 / Coralville,A,2900 Heartland Dr,Coralville,IA,52241,10/01/2016,41.698028,-91.614941
+874,4678,Fareway Stores #124 / Adel,A,804 Nile Kinnick Dr,Adel,IA,50003,10/01/2016,41.610394,-94.016889
+875,4679,Walgreens #12393 / Cedar Rapids,A,5750 C Ave NE,Cedar Rapids,IA,52402,10/01/2016,42.035993,-91.638516
+876,4681,Spirits & Such,I,100 E Elm St,West Union,IA,52175,10/01/2016,42.961269,-91.807891
+877,4683,New Star 3 / Waterloo,I,1459 Ansborough Ave,Waterloo,IA,50701,10/01/2016,42.493091,-92.376863
+878,4684,Indy 66 #928 / Indianola,A,1201 N Jefferson,Indianola,IA,50125,10/01/2016,41.371668,-93.558423
+879,4685,Kwik Stop Food Mart,A,2360 Central,Dubuque,IA,52001,10/01/2016,42.515688,-90.67267
+880,4686,Sunny's Mart / Clinton,I,630 N 3rd ST,Clinton,IA,52732,10/01/2016,41.850694,-90.189909
+881,4687,Kum & Go #517 / Cedar Rapids,A,3132 1st Ave NE,Cedar Rapids,IA,52402,10/01/2016,42.009649,-91.634941
+882,4688,Walgreens #10770 / Carroll,A,105 E 6th St,Carroll,IA,51401,10/01/2016,42.065505,-94.866671
+883,4689,Walgreens #11759 / Fort Madison,A,2639 Avenue L,Fort Madison,IA,52627,10/01/2016,40.626968,-91.344306
+884,4690,Super Stop and Shop / Baldwin,A,5358 Hwy 64,Baldwin,IA,52207,10/01/2016,42.073361,-90.834314
+885,4691,Railroad Street Tobacco and Spirits,I,701 Railroad St,Iowa Falls,IA,50126,10/01/2016,42.51871,-93.265716
+886,4692,Walgreens #05886 / Keokuk,A,1215 Main St,Keokuk,IA,52632,10/01/2016,40.401562,-91.389382
+887,4694,Rina Mart LLC / Davenport,A,"3815, West Kimberly Rd",Davenport,IA,52806,10/01/2016,41.561756,-90.63145
+888,4695,Walgreens #09791 / Altoona,A,101 8th St SE,Altoona,IA,50009,10/01/2016,41.644039,-93.464184
+889,4696,Quik Trip #517 / West Des Moines,A,1451 22nd St,West Des Moines,IA,50266,10/01/2016,41.59527,-93.735967
+890,4697,Southside Liquor & Tobacco / Iowa City,A,601 Hollywood Blvd,Iowa City,IA,52240,10/01/2016,41.643824,-91.527472
+891,4698,Quality Quick Stop,A,201 W Burlington Ave,Fairfield,IA,52556,10/01/2016,41.006639,-91.965379
+892,4699,Walgreens #06553 / Bettendorf,A,830 Middle Rd,Bettendorf,IA,52722,10/01/2016,41.538451,-90.521768
+893,4700,J & C Grocery / Allison,A,"306, N Main",Allison,IA,50602,10/01/2016,42.753203,-92.795137
+894,4701,Walgreens #11193 / Boone,A,310 Story St,Boone,IA,50036,10/01/2016,42.059115,-93.879992
+895,4702,Walgreens #05361 / Fort Dodge,A,2503 5th Ave S,Fort Dodge,IA,50501,10/01/2016,42.501197,-94.162484
+896,4703,Walgreens #00910 / Sioux City,A,100 Pierce St,Sioux City,IA,51101,10/01/2016,42.490838,-96.404911
+897,4704,The Filling Station / Council Bluffs,A,1531 2nd Ave,Council Bluffs,IA,51501,10/01/2016,41.259698,-95.867208
+898,4705,Walgreens #05977 / Coralville,A,102 Second St,Coralville,IA,52241,10/01/2016,41.669304,-91.566458
+899,4706,Walgreens #05144 / Clinton,A,1905 N  2nd St,Clinton,IA,52732,10/01/2016,41.866829,-90.181935
+900,4707,Walgreens #05119 / Clinton,A,806 S  4th St,Clinton,IA,52732,10/01/2016,41.837297,-90.193208
+901,4708,No Frills Supermarkets #803 / Glenwood,A,423 SHARP ST,Glenwood,IA,51534,10/01/2016,41.04635,-95.742987
+902,4709,Walgreens #12108 / Ames,A,2719 Grand Ave,Ames,IA,50010,10/01/2016,42.048976,-93.620635
+903,4710,Walgreens #09708 / Dubuque,A,55 John F Kennedy Rd,Dubuque,IA,52002,10/01/2016,42.493379,-90.715703
+904,4711,Walgreens #06154 / Dubuque,A,2260 John F Kennedy Rd,Dubuque,IA,52002,10/01/2016,42.511552,-90.720519
+905,4712,Walgreens #11942 / Dubuque,A,345 E 20th St,Dubuque,IA,52001,10/01/2016,42.512068,-90.667018
+906,4713,Walgreens #10985 / Coralville,A,2751 Heartland Dr,Coralville,IA,52241,10/01/2016,41.70051,-91.60946
+907,4714,Walgreens #05943 / Indianola,A,1000 N Jefferson St,Indianola,IA,50125,10/01/2016,,
+908,4715,Walgreens #06678 / West Des Moines,A,1999 Grand Ave,West Des Moines,IA,50265,10/01/2016,41.57132,-93.731512
+909,4716,Walgreens #11153 / Spencer,A,800 Grand Ave,Spencer,IA,51301,10/01/2016,43.146081,-95.144927
+910,4717,Walgreens #05512 / Bettendorf,A,3425 Middle Rd,Bettendorf,IA,52722,10/01/2016,41.550775,-90.485277
+911,4718,Walgreens #06623 / West Des Moines,A,1660 22nd St,West Des Moines,IA,50266,10/01/2016,41.597473,-93.736117
+912,4719,Walgreens #06677 / West Des Moines,A,4900 Mills Civic Pkwy,West Des Moines,IA,50265,10/01/2016,41.559128,-93.770018
+913,4720,Chariton BP,A,"107, East Grace",Chariton,IA,50049,10/01/2016,41.005258,-93.293312
+914,4721,Walgreens #05044 / Burlington,A,3245 Agency St,Burlington,IA,52601,10/01/2016,40.814794,-91.14054
+915,4722,Walgreens #09476 / Burlington,A,201 S Central Ave,Burlington,IA,56201,10/01/2016,40.80712,-91.112856
+916,4723,Walgreens #10557 / Cedar Falls,A,2509 Whitetail Dr,Cedar Falls,IA,50613,10/01/2016,42.540369,-92.476109
+917,4724,Walgreens #05942 / Newton,A,1204 1st Ave East,Newton,IA,50208,10/01/2016,41.699223,-93.038091
+918,4725,Casey's General Store #1548 / Ankeny,A,2905 W  1st St,Ankeny,IA,50023,10/01/2016,41.731708,-93.638498
+919,4726,Walgreens #07454 / Ankeny,A,901 N Ankeny Blvd,Ankeny,IA,50021,10/01/2016,41.738925,-93.600264
+920,4727,Walgreens #07996 / Ankeny,A,2702 SE Delaware Ave,Ankeny,IA,50021,10/01/2016,41.702859,-93.581216
+921,4728,Walgreens #05077 / Iowa City,A,2214 Muscatine Ave,Iowa City,IA,52240,10/01/2016,41.649538,-91.502717
+922,4730,Walgreens #05944 / Johnston,A,6200 Merle Hay Rd,Johnston,IA,50131,10/01/2016,41.673355,-93.697684
+923,4731,Walgreens #05060 / Clive,A,12753 University Ave,Clive,IA,50325,10/01/2016,41.600487,-93.793613
+924,4732,Walgreens #07967 / Clive,A,15601 Hickman Rd,Clive,IA,50325,10/01/2016,,
+925,4733,Walgreens #03773 / Urbandale,A,4600 86th St,Urbandale,IA,50322,10/01/2016,41.643913,-93.736536
+926,4734,Walgreens #04973 / Urbandale,A,7000 Douglas Ave,Urbandale,IA,50322,10/01/2016,41.629407,-93.712816
+927,4735,Walgreens #01301 / Ottumwa,A,327 W 4th St,Ottumwa,IA,52501,10/01/2016,41.021716,-92.41359
+928,4736,Walgreens #03876 / Marion,A,1225 7th Ave,Marion,IA,52302,10/01/2016,42.033295,-91.596312
+929,4737,Walgreens #11330 / Storm Lake,A,800 Lake Ave,Storm Lake,IA,50588,10/01/2016,42.647103,-95.200778
+930,4738,Casey's General Store #2284 / Council Bluffs,A,"1030, Veteran Memorial Hwy",Council Bluffs,IA,51501,10/01/2016,41.219703,-95.860337
+931,4739,Walgreens #05306 / Council Bluffs,A,301 W Bennett Ave,Council Bluffs,IA,51503,10/01/2016,41.24476,-95.82819
+932,4740,Walgreens #04405 / Council Bluffs,A,2508 W Broadway,Council Bluffs,IA,51501,10/01/2016,41.26194,-95.882665
+933,4741,Walgreens #03700 / Council Bluffs,A,535 E Broadway,Council Bluffs,IA,51503,10/01/2016,41.2661,-95.839661
+934,4742,No Frills Supermarkets #786 / Council Bluffs,I,"1817, W Broadway",Council Bluffs,IA,51501,10/01/2016,41.261863,-95.870993
+935,4743,No Frills Supermarkets #791 / Council Bluffs,A,1801 Valley View Dr,Council Bluffs,IA,51503,10/01/2016,41.243851,-95.818773
+936,4744,Walgreens #03875 / Cedar Rapids,A,2821 1st Ave SE,Cedar Rapids,IA,52402,10/01/2016,42.005508,-91.634824
+937,4745,Walgreens #05042 / Cedar Rapids,A,3325 16th Ave SW,Cedar Rapids,IA,52404,10/01/2016,41.963477,-91.715363
+938,4746,Walgreens #05885 / Muscatine,A,1703 Park Ave,Muscatine,IA,52761,10/01/2016,41.44464,-91.030382
+939,4747,Walgreens #11709 / Davenport,A,1805 Brady St,Davenport,IA,52803,10/01/2016,41.537795,-90.57401
+940,4748,Walgreens #06186 / Davenport,A,4011 E 53rd St,Davenport,IA,52807,10/01/2016,41.574851,-90.514255
+941,4749,Walgreens #05239 / Davenport,A,1660 W Locust St,Davenport,IA,52804,10/01/2016,41.538253,-90.600599
+942,4750,Walgreens #04041 / Davenport,A,1525 E Kimberly,Davenport,IA,52807,10/01/2016,41.556786,-90.552365
+943,4751,Walgreens #03595 / Davenport,A,1720 W Kimberly Rd,Davenport,IA,52806,10/01/2016,41.560071,-90.60138
+944,4752,Gasland / Burlington,A,1003 Summer St,Burlington,IA,52655,10/01/2016,40.797088,-91.114795
+945,4753,Casey's General Store #2521 / Adair,A,110 S 5th St,Adair,IA,50002,10/01/2016,41.4954,-94.64345
+946,4754,Walgreens #12148 / Waverly,A,320 W Bremer Ave,Waverly,IA,50677,10/01/2016,42.725721,-92.475049
+947,4755,Walgreens #05941 / Mason City,A,1251 4th St SW,Mason City,IA,50401,10/01/2016,43.148333,-93.220422
+948,4756,Walgreens #03196 / Marshalltown,A,5 E Anson,Marshalltown,IA,50158,10/01/2016,42.038119,-92.911565
+949,4757,EZ Mart / Bondurant,A,1111 SE Lincoln St,Bondurant,IA,50035,10/01/2016,41.692601,-93.457157
+950,4759,Walgreens #10855 / Waterloo,A,1850 Logan Ave,Waterloo,IA,50703,10/01/2016,42.527126,-92.337563
+951,4760,Walgreens #07455 / Waterloo,A,111 W Ridgeway Ave,Waterloo,IA,50701,10/01/2016,42.469401,-92.357476
+952,4761,Walgreens #03590 / Waterloo,A,3910 University Ave,Waterloo,IA,50701,10/01/2016,42.504991,-92.402855
+953,4762,Huber's Store Inc.,A,101 Main St,Fort Atkinson,IA,52144,10/01/2016,43.14339,-91.932112
+954,4764,New Star / Fort Dodge,I,1923 5th Ave S,Fort Dodge,IA,50501,10/01/2016,42.501169,-94.170859
+955,4765,Kwik Stop C-Stores / Dubuque,A,2335 University Ave,Dubuque,IA,52001,10/01/2016,42.499474,-90.696964
+956,4766,Keywest Conoco / Dubuque,A,2150 Twin Valley Dr,Dubuque,IA,52003,10/01/2016,42.45985,-90.674424
+957,4767,Casey's General Store #3075 / Ankeny,A,6981 NE 14th St,Ankeny,IA,50023,10/01/2016,41.687793,-93.600659
+958,4768,Kum & Go #777 / Urbandale,I,8228 Douglas Ave,Urbandale,IA,50322,10/01/2016,41.629152,-93.731344
+959,4769,Elma Locker and Grocery,A,100 Grant St,Elma,IA,50628,10/01/2016,43.244311,-92.435443
+960,4770,Casey's General Store #3080 / Hudson,A,"354, E Eldora Rd",Hudson,IA,50643,10/01/2016,42.409517,-92.449476
+961,4771,Cenex Gas Station,A,"502, E Ave NW",Cedar Rapids,IA,52402,10/01/2016,41.977958,-91.680323
+962,4773,"Fast Mart 2, LLC",A,2704 Vine St,West Des Moines,IA,50265,10/01/2016,41.580248,-93.741609
+963,4774,Casey's General Store #3034 / Estherville,A,"1615, Central Ave",Estherville,IA,51334,10/01/2016,43.402229,-94.822033
+964,4775,Casey's General Store #37 / Dakota City,A,"502, Main",Dakota City,IA,50529,10/01/2016,42.721419,-94.200785
+965,4777,Casey's General Store #1365 / Paullina,A,"315, E Grand Ave",Paullina,IA,51046,10/01/2016,42.982804,-95.684749
+966,4778,Casey's General Store #3030 / Storm Lake,A,825 Fundt Dr,Storm Lake,IA,50588,10/01/2016,42.646493,-95.190494
+967,4779,Casey's General Store #25 / Mount Ayr,A,"300, W South St",Mount Ayr,IA,50854,10/01/2016,40.710908,-94.240402
+968,4780,Casey's General Store #3043 / Britt,A,"576, N Main Ave",Britt,IA,50423,10/01/2016,43.102653,-93.802043
+969,4781,Casey's General Store #3079 / Early,A,"2245, Us Hwy 71",Early,IA,50535,10/01/2016,42.467201,-95.14799
+970,4782,Casey's General Store #2529 / Lamoni,A,406 E Main St,Lamoni,IA,50140,10/01/2016,40.62366,-93.92909
+971,4783,Casey's General Store #1684 / Emmetsburg,A,"2406, Main St",Emmetsburg,IA,50536,10/01/2016,43.111911,-94.68211
+972,4785,Casey's General Store #2835 / Avoca,A,1019 N Chestnut St,Avoca,IA,51521,10/01/2016,41.485575,-95.336353
+973,4786,Casey's General Store #1706 / Winterset,A,1021 N 1st St,Winterset,IA,50273,10/01/2016,41.343626,-94.013479
+974,4787,Guppy's On The Go Swisher,A,2722 NE 120th St,Swisher,IA,52338,10/01/2016,41.847894,-91.664592
+975,4788,Walgreens #12580 / Cedar Rapids,A,324 Edgewood Rd NW,Cedar Rapids,IA,52405,10/01/2016,41.975039,-91.715942
+976,4789,Katy Did's General Store,A,419 Merrill St,Bussey,IA,50044,10/01/2016,41.204759,-92.886643
+977,4790,Mediapolis Fast Break,A,"109, Wapello St",Mediapolis,IA,52405,10/01/2016,41.007416,-91.170025
+978,4791,Walgreens #05470 / Sioux City,A,4650 Morningside Ave,Sioux City,IA,51106,10/01/2016,42.470416,-96.347085
+979,4792,Casey's General Store #2899 / De Soto,A,1100 Greene St,De Soto,IA,50069,10/01/2016,41.614398,-94.020643
+980,4793,Fort Madison Fast Break,A,5002 Avenue O,Fort Madison,IA,52627,10/01/2016,40.624074,-91.377416
+981,4794,Smokin' Joe's #17 Tobacco and Liquor Outlet,A,110 S Roosevelt Hwy 61,Burlington,IA,52601,10/01/2016,40.809397,-91.141203
+982,4795,Walgreens #00359 / Des Moines,A,2545 E Euclid Ave,Des Moines,IA,50317,10/01/2016,41.627702,-93.568668
+983,4796,Walgreens #04714 / Des Moines,A,4555 Fleur Dr,Des Moines,IA,50321,10/01/2016,41.542957,-93.644941
+984,4797,Walgreens #05362 / Des Moines,A,1330 E University Ave,Des Moines,IA,50316,10/01/2016,41.600612,-93.601336
+985,4798,Walgreens #05721 / Des Moines,A,3140 SE 14th St,Des Moines,IA,50320,10/01/2016,41.555952,-93.596914
+986,4799,Walgreens #05777 / Des Moines,A,2930 E University Ave,Des Moines,IA,50317,10/01/2016,41.600575,-93.559285
+987,4800,Walgreens #07968 / Des Moines,A,6200 SE 14th St,Des Moines,IA,50320,10/01/2016,41.5282,-93.596871
+988,4801,Walgreens #05852 / Des Moines,A,3030 University Ave,Des Moines,IA,50311,10/01/2016,41.60037,-93.658747
+989,4802,Walgreens #07452 / Des Moines,A,4415 Douglas Ave,Des Moines,IA,50310,10/01/2016,41.62949,-93.678747
+990,4803,Walgreens #07453 / Des Moines,A,104 E Euclid Ave,Des Moines,IA,50313,10/01/2016,41.627683,-93.617219
+991,4804,Walgreens #07833 / Des Moines,A,3501 Ingersoll Ave,Des Moines,IA,50312,10/01/2016,41.586323,-93.664571
+992,4805,Liquor Tobacco & Grocery / Fort Dodge,A,902 1st Ave N,Fort Dodge,IA,50501,10/01/2016,42.506332,-94.186138
+993,4806,Giri's Liquor Store / West Liberty,A,"1006, N Columbus St",West Liberty,IA,52776,10/01/2016,41.578585,-91.260581
+994,4807,Williamsburg Foods,A,"103, W Walnut St",Williamsburg,IA,52361,10/01/2016,41.662819,-92.007391
+995,4808,CB Quick Stop / Council Bluffs,A,"3500, Ave A",Council Bluffs,IA,51501,10/01/2016,41.262812,-95.902474
+996,4810,Kum & Go #518 / Ankeny,A,3603 NE Otterview Circle,Ankeny,IA,50021,10/01/2016,41.761834,-93.572089
+997,4811,Casey's General Store #1327 / Lovilia,A,"1807, Hwy 5 S",Lovilia,IA,50150,10/01/2016,41.135611,-92.906673
+998,4813,USA Food and Gas / Grand Mound,A,"2293, Hwy 30",Grand Mound,IA,52751,10/01/2016,41.828106,-90.646441
+999,4817,Casey's General Store #3217 / Knoxville,A,"1201, E Main St",Knoxville,IA,50138,10/01/2016,41.318981,-93.086254
+1000,4818,Decorah Mart,A,"303, College Dr",Decorah,IA,52101,10/01/2016,43.307728,-91.797038
+1001,4819,Super Stop 2 / Altoona,A,2635 Adventureland Dr,Altoona,IA,50009,10/01/2016,41.65854,-93.494642
+1002,4820,Lil' Chubs Corner Stop,A,712 S Oak St,Inwood,IA,51240,10/01/2016,43.30226,-96.430827
+1003,4821,Casey's General Store #3215 / Oskaloosa,A,901 S Market St,Oskaloosa,IA,52577,10/01/2016,41.287608,-92.645078
+1004,4823,Casey's General Store #3223 / Creston,A,903 N Sumner Ave,Creston,IA,50801,10/01/2016,41.066824,-94.372568
+1005,4824,Casey's General Store #3224 / Creston,A,301 W Taylor St,Creston,IA,50801,10/01/2016,41.049199,-94.364142
+1006,4825,Casey's General Store #3212 / Osceola,A,100 W McLANE ST,Osceola,IA,50213,10/01/2016,41.030592,-93.766642
+1007,4827,Sauce,I,108 E COLLEGE ST,Iowa City,IA,52240,10/01/2016,41.658979,-91.533522
+1008,4828,Casey's General Store #3228 / Marshalltown,A,916 E Main St,Marshalltown,IA,50158,10/01/2016,42.049238,-92.896472
+1009,4829,Central City 2,A,1501 Michigan Ave,Des Moines,IA,50314,10/01/2016,41.60572,-93.613739
+1010,4831,L & M Gas & Grocery / Boone,A,"320, W Mamie Eisenhower Ave",Boone,IA,50036,10/01/2016,42.05934,-93.896855
+1011,4834,Muscatine Fast Break,I,2603 Second Ave,Muscatine,IA,52761,10/01/2016,41.451954,-91.034888
+1012,4836,Kum & Go #52 / Iowa City,A,25 W Burlington St,Iowa City,IA,52240,10/01/2016,41.657904,-91.537252
+1013,4837,Kum & Go #51 / Iowa City,A,323 E Burlington St,Iowa City,IA,52240,10/01/2016,41.657837,-91.530633
+1014,4838,Casey's General Store #2448 / Ogden,A,"102, W Veterans Dr",Ogden,IA,50212,10/01/2016,42.03201,-94.028392
+1015,4839,DS Services LLC,A,87 8th St N,Northwood,IA,50459,10/01/2016,43.444481,-93.220898
+1016,4840,Independence Ave Liquor & Food / Waterloo,A,1761 Independence Ave,Waterloo,IA,50707,10/01/2016,42.498404,-92.302514
+1017,4841,Cozy Mart,A,2920 W Locust St,Davenport,IA,52804,10/01/2016,41.538161,-90.619947
+1018,4843,Stewart Road Fast Break,A,"2418, Stewart Rd",Muscatine,IA,52761,10/01/2016,41.390874,-91.072687
+1019,4844,Iowa City Fast Break,A,"2580, Naples Ave",Iowa City,IA,52240,10/01/2016,41.632777,-91.571067
+1020,4845,3rd St Convenience,A,"216, 3rd St SE",Cedar Rapids,IA,52401,10/01/2016,41.977833,-91.666014
+1021,4846,Casey's General Store #2697 / Onawa,A,"706, 10th St",Onawa,IA,51040,10/01/2016,42.030357,-96.097205
+1022,4847,Slagle Foods LeClaire,A,1301 Eagle Ridge Rd,Leclaire,IA,52753,10/01/2016,41.587346,-90.359846
+1023,4848,Kum & Go #246 / Winterset,A,111 E Jefferson St,Winterset,IA,50273,10/01/2016,41.335457,-94.012692
+1024,4849,C Fresh Market,A,"801, University Ave",Des Moines,IA,50314,10/01/2016,41.600826,-93.627851
+1025,4852,Kum & Go #520 / Cedar Rapids,A,2604 16th Ave,Cedar Rapids,IA,52404,10/01/2016,41.963064,-91.707035
+1026,4853,Kum & Go #62 / Johnston,A,6130 NW 86th St,Johnston,IA,50131,10/01/2016,41.67184,-93.736534
+1027,4854,Casey's General Store #3029 / Armstrong,A,"307, S 4th Ave",Armstrong,IA,50514,10/01/2016,43.39274,-94.483108
+1028,4855,Casey's General Store #3200 / Strawberry Point,A,"308, W Mission",Strawberry Point,IA,52076,10/01/2016,42.684509,-91.539904
+1029,4856,Brothers Market / Lisbon,A,930 Commercial St,Lisbon,IA,52253,10/01/2016,41.918751,-91.402516
+1030,4857,Westland Fast Break,A,1108 W Agency Rd,West Burlington,IA,52655,10/01/2016,40.811812,-91.169561
+1031,4858,Hwy 34 Truckstop,A,4305 W Mt Pleasant,West Burlington,IA,52655,10/01/2016,40.82658,-91.208325
+1032,4859,Circle K #6604 / Burlington,A,421 N Main St,Burlington,IA,52601,10/01/2016,40.81107,-91.101108
+1033,4861,The Station / Cedar Rapids,A,3645 Stone Creek Circle SW,Cedar Rapids,IA,52404,10/01/2016,41.943615,-91.747601
+1034,4862,Pronto Market / Kingsley,I,101 MAIN ST,Kingsley,IA,51028,10/01/2016,42.587074,-95.967322
+1035,4863,White Cross Cellars,A,755 48th AVE,Amana,IA,52203,10/01/2016,41.798346,-91.865602
+1036,4864,CLINTON LIQUOR & CONVENIENCE STORE,A,1641 S Bluff Blvd,Clinton,IA,52733,10/01/2016,41.833079,-90.225779
+1037,4866,Tobacco Hut #18 / Council Bluffs,A,429 Veterans Memorial,Council Bluffs,IA,51501,10/01/2016,41.219624,-95.851844
+1038,4867,Speedy Gas N Shop,A,430 S 35th St,Council Bluffs,IA,51501,10/01/2016,41.257663,-95.902023
+1039,4868,Kum & Go #59 / Waukee,A,400 Prairie Bluff Dr,Waukee,IA,50263,10/01/2016,41.565557,-93.880694
+1040,4869,Lindsanator's,A,7 Goethe Street  Suite B,Guttenberg,IA,52052,10/01/2016,42.782907,-91.095813
+1041,4870,Tobacco 4 Less / Bettendorf,I,1032 State St,Bettendorf,IA,52722,10/01/2016,41.525027,-90.51861
+1042,4872,Casey's General Store #2644 / Earlham,A,975 N Chestnut Ave,Earlham,IA,50072,10/01/2016,41.50019,-94.123159
+1043,4873,Casey's General Store #2559 / Granger,A,"1802, Sycamore St",Granger,IA,50109,10/01/2016,41.758781,-93.824366
+1044,4874,Z's Quickbreak,A,"201, E Washington St",Mount Pleasant,IA,52641,10/01/2016,40.965272,-91.551598
+1045,4876,Quick Mart / Hiawatha,A,"655, Robbins Rd",Hiawatha,IA,52233,10/01/2016,42.044452,-91.672961
+1046,4877,World Liquor & Tobacco,A,1775 NW 86th St,Clive,IA,50325,10/01/2016,41.607853,-93.736232
+1047,4878,Shortee's Pit Stop,A,"215, S Rerick Ave",Primghar,IA,51245,10/01/2016,43.085223,-95.624301
+1048,4879,Sam's Mini Mart / Morningside Ave Sioux City,A,4218 MORNINGSIDE AVE,Sioux City,IA,51106,10/01/2016,42.47063,-96.352852
+1049,4880,Casey's General Store #1567 / Anita,A,"912, Main St",Anita,IA,50020,10/01/2016,41.443571,-94.767871
+1050,4881,Sperry One Stop Shop LLC,I,516 Hwy 141,Coon Rapids,IA,50058,10/01/2016,41.865892,-94.678289
+1051,4882,Casey's General Store #3026 / St Charles,A,209 E Main St,St Charles,IA,50240,10/01/2016,41.288487,-93.803773
+1052,4883,K & L Foods,I,"118, S Main St",Sigourney,IA,52591,10/01/2016,41.332944,-92.205098
+1053,4884,Tobacco Hut #11 / Sioux City,A,"4523, Morningside Ave",Sioux City,IA,51106,10/01/2016,42.470479,-96.348659
+1054,4885,SNK Gas & Food LLC,A,"18820, Bellevue Cascade Rd",Zwingle,IA,52079,10/01/2016,42.240381,-90.676817
+1055,4887,Kum & Go #66 / West Des Moines,A,5308 University Ave,West Des Moines,IA,50266,10/01/2016,41.60046,-93.778685
+1056,4888,Circle S Bluff Stop,A,302 1st St,Sergeant Bluff,IA,51054,10/01/2016,42.400333,-96.361378
+1057,4889,Fast Trip / Des Moines,I,1516 SE  1st St,Des Moines,IA,50315,10/01/2016,41.575862,-93.613501
+1058,4890,Casey's General Store #3210 / Urbandale,A,4400 128th St,Urbandale,IA,50323,10/01/2016,41.640368,-93.7945
+1059,4891,Schottsy's Liquor,A,109 5th St,Sibley,IA,51249,10/01/2016,43.403948,-95.758274
+1060,4892,Sara Mini Mart,A,1026 W River Dr,Davenport,IA,52802,10/01/2016,41.520157,-90.588378
+1061,4893,Casey's General Store #3098 / WDM,A,105 Grand Ave,West Des Moines,IA,50265,10/01/2016,41.582697,-93.70379
+1062,4895,Big Discount Liquor,A,5427 Center Point Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.033124,-91.668065
+1063,4896,Barrys Mini Mart,A,"403, Chestnut St",Harpers Ferry,IA,52146,10/01/2016,43.200483,-91.152856
+1064,4897,Gasland #102 / Burlington,A,1703 Mt Pleasant St,Burlington,IA,52601,10/01/2016,40.819892,-91.121962
+1065,4898,Burlington Shell,A,"130, S Roosevelt Ave",Burlington,IA,52601,10/01/2016,40.808236,-91.140975
+1066,4899,Graettinger Market,A,"124, W Robins St",Graettinger,IA,51342,10/01/2016,43.237678,-94.750949
+1067,4900,Kwik Stop 4 / Waterloo,A,515 Broadway St,Waterloo,IA,50703,10/01/2016,42.510792,-92.345106
+1068,4901,Fareway Stores #137 / Polk City,A,1101 S 5th St,Polk City,IA,50226,10/01/2016,41.763876,-93.719323
+1069,4902,Broadway Liquor,A,821 Broadway St,Waterloo,IA,50703,10/01/2016,42.513772,-92.345144
+1070,4903,Honey Creek Resort State Park,I,12633 RESORT DR,Moravia,IA,52571,10/01/2016,40.87046,-92.918723
+1071,4904,Larchwood Quick Stop,A,832 Broadway St,Larchwood,IA,51241,10/01/2016,43.45255,-96.43415
+1072,4905,South Side Grocery,A,"319, Court St",Rockwell City,IA,50579,10/01/2016,42.394636,-94.632453
+1073,4907,Prime Mart,A,2323 Main St,Cedar Falls,IA,50613,10/01/2016,42.516198,-92.44586
+1074,4908,Zapf's Pronto Market,A,107 1st St SW,Elkader,IA,52043,10/01/2016,42.85389,-91.405293
+1075,4909,Pump N Pak Rock Valley,A,1004 Main St,Rock Valley,IA,51247,10/01/2016,43.200164,-96.294824
+1076,4910,Prime Mart #3 / Waterloo,A,1008 Laporte Rd,Waterloo,IA,50702,10/01/2016,42.47658,-92.322988
+1077,4911,Casey's General Store #1061 / Princeton,A,"500, Hwy 67 N",Princeton,IA,52768,10/01/2016,41.677287,-90.340914
+1078,4912,Casey's General Store #2531 / Eldridge,A,"840, E Le Claire Rd",Eldridge,IA,52748,10/01/2016,41.654692,-90.572547
+1079,4914,Prime Mart / Center St,A,2728 Center St,Cedar Falls,IA,50613,10/01/2016,42.561054,-92.455972
+1080,4915,Casey's General Store #2429 / Bettendorf,A,"3902, State St",Bettendorf,IA,52722,10/01/2016,41.530574,-90.478727
+1081,4917,Kum & Go #115 / Perry,A,1115 Ia Hwy 141,Perry,IA,50220,10/01/2016,41.830334,-94.10386
+1082,4919,Kum & Go #4084 / Altoona,A,101 8th St SW,Altoona,IA,50009,10/01/2016,41.64404,-93.464905
+1083,4920,Kum & Go #129 / Johnston,I,5225 NW 86th St,Johnston,IA,50131,10/01/2016,41.655804,-93.736395
+1084,4921,Market Express,A,5340 16th Ave SW,Cedar Rapids,IA,52404,10/01/2016,41.963888,-91.739906
+1085,4923,Casey's General Store #2270 / Aurelia,A,"100, Pearl St",Aurelia,IA,51005,10/01/2016,42.71252,-95.437653
+1086,4924,Abby Lea's,A,2757 Charles City Rd,Nashua,IA,50658,10/01/2016,42.959485,-92.548902
+1087,4925,Kum & Go #574 / Urbandale,A,8600 Meredith Dr,Urbandale,IA,50266,10/01/2016,41.643799,-93.736973
+1088,4926,GS Super Stop,A,4923 Merle Hay Rd,Des Moines,IA,50322,10/01/2016,41.649339,-93.697356
+1089,4927,Kum & Go #576 / West Des Moines,A,3501 Ep True Pkwy,West Des Moines,IA,50265,10/01/2016,41.570151,-93.752572
+1090,4928,Shop n Save / 6th Ave,A,1829 6th Ave,Des Moines,IA,50314,10/01/2016,41.611018,-93.625814
+1091,4929,Casey's General Store #1680 / Adel,A,"816, Greene St",Adel,IA,50003,10/01/2016,41.614408,-94.018348
+1092,4930,Casey's General Store #3251 / Boone,A,1303 SE MARSHALL ST,Boone,IA,50036,10/01/2016,42.035107,-93.872188
+1093,4932,B and B West,A,3105 Hudson Rd,Cedar Falls,IA,50613,10/01/2016,42.509279,-92.465845
+1094,4933,River Mart,A,2107 Agency St,Burlington,IA,52601,10/01/2016,40.814541,-91.129659
+1095,4934,Casey's General Store #2811 / Springville,A,"605, 6th St S",Springville,IA,52336,10/01/2016,42.051087,-91.443831
+1096,4935,Ali's Liquor,A,1117 E 4th St,Waterloo,IA,50703,10/01/2016,42.507683,-92.332774
+1097,4937,ROCSTOP,A,1310 W Sheridan Ave,Shenandoah,IA,51601,10/01/2016,40.765869,-95.38464
+1098,4938,Pronto Market,A,201 S Main St,Hazleton,IA,50641,10/01/2016,42.615512,-91.905521
+1099,4940,Cambridge Country Store,A,301 WATER ST,Cambridge,IA,50046,10/01/2016,41.899525,-93.529245
+1100,4941,Kum & Go #170 / Urbandale,A,6990 Douglas Ave,Urbandale,IA,50322,10/01/2016,41.629415,-93.711902
+1101,4942,East Village Pantry,A,333 E GRAND AVE,Des Moines,IA,50309,10/01/2016,41.590266,-93.613431
+1102,4943,Eldon Kwik Shop,A,"205, 4th St",Eldon,IA,52554,10/01/2016,40.917808,-92.222593
+1103,4944,Jiffy Express / Martensdale,A,"290, Hwy 28",Martensdale,IA,50160,10/01/2016,41.373327,-93.737485
+1104,4945,Osage Liquors,A,"508, Main St",Osage,IA,50461,10/01/2016,43.284116,-92.814028
+1105,4947,The Music Station,A,1420 W First St,Cedar Falls,IA,50647,10/01/2016,42.537839,-92.462826
+1106,4948,Wheatland Day Break,A,102 W Hwy 30,Wheatland,IA,52777,10/01/2016,41.829023,-90.841447
+1107,4949,River Drive Smoke Shop,A,"828, W River Dr",Davenport,IA,52802,10/01/2016,41.520238,-90.585656
+1108,4950,Kum & Go #514 / Cedar Rapids,A,1420 Mt Vernon Rd,Cedar Rapids,IA,52403,10/01/2016,41.977678,-91.651375
+1109,4952,Sub Express & Gas,A,4307 W Locust St,Davenport,IA,52804,10/01/2016,41.538148,-90.637353
+1110,4953,Tri Stop,A,302 Hwy 136,Lost Nation,IA,52254,10/01/2016,41.967498,-90.817528
+1111,4956,The Cooler,A,"4920, Johnson Ave NW",Cedar Rapids,IA,52405,10/01/2016,41.967973,-91.734378
+1112,4957,Kimmes Wall Lake Country Store,A,129 Center St,Wall Lake,IA,51466,10/01/2016,42.271309,-95.090639
+1113,4958,Five Corners Liquor & Wine,A,809 E 18th St,Cedar Falls,IA,50613,10/01/2016,42.5214,-92.436845
+1114,4959,Bani's,A,2128 College St,Cedar Falls,IA,50613,10/01/2016,42.518018,-92.455801
+1115,4960,AJ's Liquor III,A,2401 A Chamberlain St,Ames,IA,50010,10/01/2016,42.021456,-93.648959
+1116,4961,Kwik Stop / Cedar Cross,A,1200 Cedar Cross Rd,Dubuque,IA,52003,10/01/2016,42.475422,-90.704989
+1117,4962,Hilltop Grocery,A,1312 Harrison St,Davenport,IA,52803,10/01/2016,41.533266,-90.577225
+1118,4967,Jeff's Market / Blue Grass,A,"102, W Mayne St",Blue Grass,IA,52726,10/01/2016,41.509119,-90.766126
+1119,4968,Casey's General Store #3042 / Brooklyn,A,"106, W 2nd St",Brooklyn,IA,52211,10/01/2016,41.730092,-92.445819
+1120,4969,Lake Liquors Wine and Spirits,A,910 N 8th St W,Clear Lake,IA,50428,10/01/2016,43.142775,-93.396651
+1121,4970,Jeff's Market / West Liberty,A,"200, E 3rd St",West Liberty,IA,52776,10/01/2016,41.569916,-91.261587
+1122,4971,Fareway Stores #138 / Pleasant Hill,A,"5500, E University Ave",Pleasant Hill,IA,50327,10/01/2016,41.599231,-93.505046
+1123,4972,Quillins Quality Foods Monona,A,808 S Main St,Monona,IA,52159,10/01/2016,43.045152,-91.38981
+1124,4973,Quillins Quality Foods West Union,A,"303, Hwy 150 N",West Union,IA,52175,10/01/2016,42.965065,-91.814402
+1125,4974,Super Stop  SE 14th,A,"727, SE  14th St",Des Moines,IA,50317,10/01/2016,41.581689,-93.596783
+1126,4975,Walgreens #15647 / Sioux City,A,1900 Hamilton Blvd,Sioux City,IA,51104,10/01/2016,42.511534,-96.41671
+1127,4978,Prime Mart / Waterloo,A,3535 Marigold Dr,Waterloo,IA,50702,10/01/2016,42.435363,-92.291456
+1128,4979,Sam Liquor,I,1500 1st Ave NE,Cedar Rapids,IA,52402,10/01/2016,41.98817,-91.652188
+1129,4980,Pronto BP,A,7305 Laporte Rd,Washburn,IA,50702,10/01/2016,42.408987,-92.264562
+1130,4981,Sinclair Food Mart,A,206 N Main St,Traer,IA,50675,10/01/2016,42.196408,-92.465474
+1131,4982,Kimmes Country Store Alta 05,A,101 E  Hwy 7,Alta,IA,51002,10/01/2016,42.675619,-95.303731
+1132,4983,River Mart,A,"14562, Washington Rd",West Burlington,IA,52655,10/01/2016,40.839421,-91.209197
+1133,4984,Fast Ave One Stop,A,2111 Park Ave,Muscatine,IA,52761,10/01/2016,41.447149,-91.030306
+1134,4985,Casey's General Store #2519 / Merrill,A,101 First St,Merrill,IA,51038,10/01/2016,42.717431,-96.247729
+1135,4986,218 Fuel Express & Chubby's Liquor,A,68 Monroe St,Floyd,IA,50435,10/01/2016,43.121613,-92.737905
+1136,4987,Almost Always Open,I,419 LINCOLN WAY,Ames,IA,50010,10/01/2016,42.022916,-93.616517
+1137,4988,Happy's Wine & Spirits,A,5925 University Ave,Cedar Falls,IA,50613,10/01/2016,42.512766,-92.429331
+1138,4989,Casey's General Store #3322 / Iowa City,A,1904 Broadway St,Iowa City,IA,52240,10/01/2016,41.641454,-91.520272
+1139,4990,Main Lil' Market,I,524 MAIN ST,Griswold,IA,51535,10/01/2016,41.234743,-95.14161
+1140,4991,Fasttrak,A,24687 Hwy 13 N,Elkader,IA,52043,10/01/2016,42.864223,-91.387571
+1141,4992,Old 34 Gas & Grill,A,305 Us 34 Business,Danville,IA,52623,10/01/2016,,
+1142,4993,Site Food Mart,A,"1301, Main St",Keokuk,IA,52632,10/01/2016,40.402171,-91.390008
+1143,4995,Durant Street C-Store,A,618 Durant St,Harlan,IA,51537,10/01/2016,41.656803,-95.318597
+1144,4996,Kwik Stop 16th St #300,A,1215 E 16th St,Dubuque,IA,52001,10/01/2016,42.511657,-90.656121
+1145,4997,Downtown Pantry,A,"218, 6th Ave #101",Des Moines,IA,50309,10/01/2016,41.585684,-93.624533
+1146,4998,Lake City Food Center,A,820 E Main St,Lake City,IA,51449,10/01/2016,42.267363,-94.724867
+1147,4999,Casey's General Store #2680 / Clarks,A,213 S Main St,Clarksville,IA,50619,10/01/2016,42.783193,-92.667759
+1148,5000,Casey's General Store #3319 / Nevada,A,1800 South B Ave,Nevada,IA,50201,10/01/2016,42.009808,-93.435912
+1149,5001,The Music Station / Independence,A,709 First St W,Independence,IA,50644,10/01/2016,42.468633,-91.901687
+1150,5003,Famous Liquors,A,2604 W Locust St,Davenport,IA,52804,10/01/2016,41.538186,-90.615542
+1151,5004,Ida Grove Food Pride,A,200 Susan Lawrence Dr,Ida Grove,IA,51445,10/01/2016,42.348577,-95.464733
+1152,5005,Laurens Food Pride,A,410 W Main St,Laurens,IA,50554,10/01/2016,42.846725,-94.853219
+1153,5006,Kwik Stop 16th Street #325,A,1210 E 16th St,Dubuque,IA,52001,10/01/2016,42.511655,-90.65613
+1154,5007,Brother's Market / Denver,A,1022 Skylar St,Denver,IA,50622,10/01/2016,42.661676,-92.336861
+1155,5009,New Pioneer Food Co-op,A,1101 2ND ST,Coralville,IA,52241,10/01/2016,41.673924,-91.580584
+1156,5010,Sac City Food Pride,A,106 S 16th St,Sac City,IA,50583,10/01/2016,42.422404,-95.002637
+1157,5011,Kum & Go #443 / Williamsburg,A,2177 M Ave,Williamsburg,IA,52361,10/01/2016,41.690893,-92.066146
+1158,5012,Bluejay Market,A,"2810, Willis Ave",Perry,IA,50220,10/01/2016,41.838488,-94.081127
+1159,5013,State Food Mart,A,3715 State St,Bettendorf,IA,52722,10/01/2016,41.529025,-90.481912
+1160,5014,New Pioneer Food Co-op / Iowa City,A,22 S Van Buren St,Iowa City,IA,52240,10/01/2016,41.660495,-91.528718
+1161,5015,W. E.  Wholesale Outlet,I,2040 KERPER BLVD,Dubuque,IA,52001,10/01/2016,42.515911,-90.655127
+1162,5016,Sierra Foods,I,3326 Center Point Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.011741,-91.663829
+1163,5017,Lansing IGA,A,417 Main St,Lansing,IA,52151,10/01/2016,43.36182,-91.219222
+1164,5018,Super Saver Liquor LLC,A,1610 ROCKINGHAM RD,Davenport,IA,52802,10/01/2016,41.520201,-90.599395
+1165,5019,Riverside Quick Shop,A,"802, S Riverview",Bellevue,IA,52031,10/01/2016,42.252736,-90.420579
+1166,5020,Petromart Stanwood,A,"1118, Highway 30",Stanwood,IA,52337,10/01/2016,41.888461,-91.148607
+1167,5021,Kum & Go #608 / Okoboji,A,1001 Sanborn Ave,Okoboji,IA,51355,10/01/2016,43.382148,-95.129128
+1168,5022,Kum & Go #97 / West Des Moines,A,196 S 50th St,West Des Moines,IA,50265,10/01/2016,41.570542,-93.770921
+1169,5023,Hawkeye Convenience Stores / 16th Av,A,250 16th Ave SW,Cedar Rapids,IA,52404,10/01/2016,41.961645,-91.667665
+1170,5024,Hawkeye Convenience Stores / Wiley,A,2330 Wiley Blvd SW,Cedar Rapids,IA,52404,10/01/2016,41.956135,-91.725833
+1171,5025,Hawkeye Convenience Stores / 1st Ave,A,1581 1st Ave SE,Cedar Rapids,IA,52403,10/01/2016,41.98957,-91.649699
+1172,5027,Hard Rock Hotel & Casino Sioux City,A,111 3rd St,Sioux City,IA,51101,10/01/2016,42.493001,-96.410513
+1173,5028,Midtown Liquor,A,"1100, E 5th St",Storm Lake,IA,50588,10/01/2016,42.644563,-95.186938
+1174,5029,The Liquor Stop LLC,A,"211, W 53rd St",Davenport,IA,52806,10/01/2016,41.574536,-90.576113
+1175,5031,New Star Raymond,A,101 Commercial St,Raymond,IA,50667,10/01/2016,42.466286,-92.219401
+1176,5034,Liquor Tobacco & Groceries,A,18 N Monroe Ave,Mason City,IA,50401,10/01/2016,43.152301,-93.208614
+1177,5035,Casey's General Store #3205 / Counci,A,19900 Virginia Hills Rd,Council Bluffs,IA,51503,10/01/2016,41.232109,-95.805659
+1178,5037,Uncorked Wine & Spirits,I,111 E HARRISON ST,Jefferson,IA,50129,10/01/2016,42.014308,-94.374156
+1179,5039,Casey's General Store #3384 / Solon,A,1200 S Market St,Solon,IA,52333,10/01/2016,41.79788,-91.490751
+1180,5040,Wilton Express,A,1300 Nicolaus St,Wilton,IA,52778,10/01/2016,41.589961,-91.034799
+1181,5041,Casey's General Store #3309 / Montez,A,106 N Front St,Montezuma,IA,50171,10/01/2016,41.585453,-92.52723
+1182,5042,Super Stop III / Dubuque,A,1101 Rhomberg Ave,Dubuque,IA,52001,10/01/2016,42.519454,-90.660309
+1183,5043,West Side Liquor / Waterloo,A,919 W 5th St,Waterloo,IA,50702,10/01/2016,42.488619,-92.346266
+1184,5044,Casey's General Store #3202 / Cresce,A,"111, Mormon Bridge Rd",Crescent,IA,51526,10/01/2016,41.362302,-95.858942
+1185,5045,Central Mart / Hamilton Blvd,A,800 Hamilton Blvd,Sioux City,IA,51103,10/01/2016,42.50443,-96.417337
+1186,5046,West K Mart,A,"707, Palean St",Keokuk,IA,52632,10/01/2016,40.393679,-91.391293
+1187,5047,The Fresh Market,I,180 COLLINS RD NE,Cedar Rapids,IA,52402,10/01/2016,42.028274,-91.628026
+1188,5048,Rolfe Area Market,A,"412, Garfield St",Rolfe,IA,50581,10/01/2016,42.814369,-94.527889
+1189,5050,Fareway Stores #147 / Carlisle,A,"1115, Bluestem Dr",Carlisle,IA,50047,10/01/2016,41.497922,-93.499483
+1190,5051,Oasis,A,630 SW  9TH ST,Des Moines,IA,50309,10/01/2016,41.575733,-93.624763
+1191,5052,Casey's General Store #3220 / Greenf,A,"302, SE 6th St",Greenfield,IA,50849,10/01/2016,41.302742,-94.453263
+1192,5053,Cork & Bottle / Iowa City,I,"610, Eastbury Dr",Iowa City,IA,52245,10/01/2016,41.668601,-91.481111
+1193,5054,Cork 'N Bottle / Manchester,A,900 E Main St,Manchester,IA,52087,10/01/2016,42.484073,-91.445037
+1194,5055,Latimer Community Grocery,A,"110, S  Akir  St",Latimer,IA,50452,10/01/2016,42.763179,-93.368268
+1195,5056,Council Bluffs Sinclair,A,"1305, N 25th St",Council Bluffs,IA,51501,10/01/2016,41.273813,-95.881702
+1196,5057,Kum & Go #535 / Des Moines,A,4960 E Broadway Ave,Des Moines,IA,50317,10/01/2016,,
+1197,5058,Kum & Go # 542 / Urbandale,A,11989 Hickman Rd,Urbandale,IA,50323,10/01/2016,41.614964,-93.783409
+1198,5059,Casey's General Store #1125 / Humest,A,"207, Front St",Humeston,IA,50123,10/01/2016,40.860195,-93.499471
+1199,5060,L&M Mighty Shop,A,"504, E Burlington St",Iowa City,IA,52240,10/01/2016,41.657818,-91.52843
+1200,5061,Casey's General Store #3382 / Cedar,A,"560, 33rd Ave SW",Cedar Rapids,IA,52404,10/01/2016,41.943129,-91.675611
+1201,5062,Casey's General Store #2318 / Montro,A,"111, Main St",Montrose,IA,52639,10/01/2016,40.532149,-91.415097
+1202,5063,Logan Convenience Store,A,"735, Logan Ave",Waterloo,IA,50703,10/01/2016,42.510453,-92.337744
+1203,5064,Casey's General Store #2777 / Fairfa,A,"65, Williams Blvd",Fairfax,IA,52228,10/01/2016,41.929211,-91.778917
+1204,5065,Circle S Gordon Drive,A,2520 Gordon Dr,Sioux City,IA,51106,10/01/2016,42.489845,-96.376341
+1205,5066,Bears Burgers & Buns,A,"14628, Mile Hill Lane",Dubuque,IA,52003,10/01/2016,42.457708,-90.774515
+1206,5067,One Stop Liquor,A,"1101, N  Lake Ave",Storm Lake,IA,50588,10/01/2016,42.651369,-95.200761
+1207,5068,Tobacco Shop / Arnolds Park,A,612 S Highway 71,Arnolds Park,IA,51331,10/01/2016,43.361805,-95.140049
+1208,5069,Casey's General Store #1705 / Lake M,A,101 N Lake St,Lake Mills,IA,50450,10/01/2016,43.419608,-93.532484
+1209,5070,Jeff's Market / Wilton,A,"101, E 4th St",Wilton,IA,52778,10/01/2016,41.58873,-91.016579
+1210,5071,Jeff's Market / Durant,A,408 6th Ave,Durant,IA,52747,10/01/2016,41.600565,-90.911753
+1211,5072,Pep Stop,A,"901, E Washington St",Mount Pleasant,IA,52641,10/01/2016,40.964227,-91.541141
+1212,5073,"Williams Boulevard Service, Inc.",A,"2601, Williams Blvd SW",Cedar Rapids,IA,52404,10/01/2016,41.964601,-91.706786
+1213,5074,New Pioneer Food Co-op  / Center Poi,A,3338 Center Point Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.012583,-91.664112
+1214,5075,Pronto Market  / New Sharon,A,"202, S Main St",New Sharon,IA,50207,10/01/2016,41.468516,-92.651525
+1215,5076,Cubby's Sioux City,A,4200 S York St,Sioux City,IA,51106,10/01/2016,42.434196,-96.371935
+1216,5077,Wal-Mart 3150 / Council Bluffs,A,1800 N 16th St,Council Bluffs,IA,51501,10/01/2016,41.280314,-95.867436
+1217,5078,Casey's General Store #2096 / Counci,A,2301 S 24th St,Council Bluffs,IA,51501,10/01/2016,41.238825,-95.879363
+1218,5079,Casey's General Store #2489 / Deniso,A,1608 4th Ave S,Denison,IA,51442,10/01/2016,42.012395,-95.349198
+1219,5080,C's Liquor Store,A,719 2nd Ave W,Spencer,IA,51301,10/01/2016,43.145215,-95.147741
+1220,5081,Casey's General Store #3035 / Atlant,A,701 Poplar St,Atlantic,IA,50022,10/01/2016,41.403737,-95.014425
+1221,5082,Casey's General Store #2365 / Atlant,A,911 SW 7th St,Atlantic,IA,50022,10/01/2016,41.401295,-95.028465
+1222,5083,Central Mart,A,"1203, Tri View Ave",Sioux City,IA,51104,10/01/2016,42.494214,-96.422878
+1223,5086,"Central Mart I, LLC.",A,"2501, Floyd Blvd",Sioux City,IA,51106,10/01/2016,42.515929,-96.385147
+1224,5087,Quik-Pik  /  Logan,A,"107, W  7th St",Logan,IA,51546,10/01/2016,41.643053,-95.790911
+1225,5088,Kum & Go #768 / Hospers,A,"107, Ia Highway 60",Hospers,IA,51238,10/01/2016,,
+1226,5089,Mos Mini Mart,A,"614, E Erie St",Missouri Valley,IA,51555,10/01/2016,41.556439,-95.88687
+1227,5090,Kum & Go #437 / Muscatine,A,709 Grandview Ave,Muscatine,IA,52761,10/01/2016,41.408879,-91.063575
+1228,5091,Kum & Go #436 / Muscatine,A,501 Cedar St,Muscatine,IA,52761,10/01/2016,41.425042,-91.046094
+1229,5092,Kum & Go #2035 / West Des Moines,A,7265 Vista Dr,West Des Moines,IA,50265,10/01/2016,41.589057,-93.807839
+1230,5093,Cody Mart,I,1220 N Cody Rd,Le Claire,IA,52753,10/01/2016,41.610504,-90.344168
+1231,5094,Casey's General Store #2778 / Cedar,A,"201, 8th Ave SE",Cedar Rapids,IA,52401,10/01/2016,41.97305,-91.662268
+1232,5095,Carterlake Mini Mart,A,1001 Locust St,Carter Lake,IA,51510,10/01/2016,41.284951,-95.915947
+1233,5096,Walgreens #11710 / North Liberty,A,625 Pacha Parkway,North Liberty,IA,52317,10/01/2016,41.752792,-91.606273
+1234,5097,Fareway Stores #151 / Cedar Rapids,A,3717 1st Ave SE,Cedar Rapids,IA,52402,10/01/2016,42.016901,-91.634507
+1235,5098,Best Food Mart 3  LLC,A,1621 University Ave,Des Moines,IA,50311,10/01/2016,41.600477,-93.63996
+1236,5099,Casey's General Store #2164 / Ankeny,A,3505 N  Ankeny Blvd,Ankeny,IA,50023,10/01/2016,41.76025,-93.600261
+1237,5100,Sam's Food,A,648 N  Marquette St,Davenport,IA,52802,10/01/2016,41.526469,-90.590879
+1238,5101,New Star  /  Fletcher Ave,A,315 Fletcher Ave,Waterloo,IA,50701,10/01/2016,42.489119,-92.367142
+1239,5102,Wilkie Liquors,A,724 1st  St  SE,Mount Vernon,IA,52314,10/01/2016,41.918452,-91.410465
+1240,5103,Curry's Express Mart,A,"4804, Hwy  61 South",Muscatine,IA,52761,10/01/2016,,
+1241,5104,Rustic Lure Wine and Spirits,A,"72, N Okoboji Grove Rd",Arnold's Park,IA,51331,10/01/2016,,
+1242,5105,Three Brothers Liquors,A,585 HIGHWAY 965,North Liberty,IA,52317,10/01/2016,41.738152,-91.60761
+1243,5106,Barnes Food Land,A,622 10th  St,DeWitt,IA,52742,10/01/2016,41.82514,-90.540112
+1244,5107,Kum & Go #4098 / Windsor Heights,A,"7229, University Ave",Windsor Heights,IA,50311,10/01/2016,41.600365,-93.717676
+1245,5108,Tobacco 4 Less / State St,A,1032 State St,Bettendorf,IA,52722,10/01/2016,41.525027,-90.51861
+1246,5109,Casey's General Store #3404 / Carlis,A,1020 Gateway Dr,Carlisle,IA,50047,10/01/2016,41.510651,-93.515395
+1247,5110,Ramsey's Market Liquor,A,"200, N Walnut St",Lenox,IA,50851,10/01/2016,40.882645,-94.560455
+1248,5111,Creekside Market,A,2601 Hwy 6 East,Iowa City,IA,52240,10/01/2016,41.633009,-91.493643
+1249,5112,The Bottle Shop,A,"315, S Main St",Inwood,IA,51240,10/01/2016,43.306451,-96.431983
+1250,5113,"Ray's Supermarket, Inc.",A,1975 Franklin St,Waterloo,IA,50703,10/01/2016,42.495394,-92.315218
+1251,5114,Casey's General Store #2612 / Missou,A,"106, E  Erie St",Missouri Valley,IA,51555,10/01/2016,41.556431,-95.894321
+1252,5115,Pronto Market / Manly,A,"204, E South St",Manly,IA,50456,10/01/2016,43.284017,-93.200966
+1253,5116,New Star Mart  /  Newton,A,"702, 1st Ave E",Newton,IA,50702,10/01/2016,41.69943,-93.045515
+1254,5117,Food & Gas Mart  /  Marshalltown,A,"613, N 3rd Ave",Marshalltown,IA,50158,10/01/2016,42.057471,-92.9081
+1255,5118,Kwik Stop #82  /  Peosta,A,"185, Peosta St",Peosta,IA,52068,10/01/2016,42.442892,-90.850388
+1256,5119,Corwith Farm Service,A,205 NW Elm St,Corwith,IA,50430,10/01/2016,42.99274,-93.957384
+1257,5120,Casey's General Store #3442 / Maplet,A,"401, S  4th  St",Mapleton,IA,51034,10/01/2016,42.161847,-95.793241
+1258,5121,Liquor Beer & Tobacco Outlet  / Char,A,"1908, Clark St",Charles City,IA,50616,10/01/2016,43.059171,-92.661957
+1259,5123,Cash Saver  /  Clive,I,15500 W  HICKMAN RD,Clive,IA,50325,10/01/2016,41.614713,-93.831913
+1260,5124,Price Chopper  /  Johnston,A,5440 NW  86th St,Johnston,IA,50131,10/01/2016,41.659057,-93.736517
+1261,5125,Cash Saver  /  E Euclid Ave,A,1320 E  Euclid Ave,Des Moines,IA,50316,10/01/2016,41.627778,-93.602858
+1262,5126,Price Chopper  /  Merle Hay,A,4343 Merle Hay Rd,Des Moines,IA,50310,10/01/2016,41.637408,-93.697647
+1263,5127,Price Chopper  /  Ingersoll,A,3425 Ingersoll Ave,Des Moines,IA,50312,10/01/2016,41.586313,-93.663337
+1264,5128,Price Chopper  /  Beaver,A,1819 Beaver Ave,Des Moines,IA,50310,10/01/2016,41.610498,-93.672656
+1265,5129,Cash Saver  /  Fleur,A,4121 Fleur Dr,Des Moines,IA,50321,10/01/2016,41.546838,-93.64492
+1266,5130,Great River Brewery,A,"332, E  2nd St",Davenport,IA,52801,10/01/2016,41.521304,-90.569973
+1267,5131,Oasis,A,"1401, Buchanan St",Des Moines,IA,50316,10/01/2016,41.598791,-93.599306
+1268,5132,Phillips 66,I,1516 SE  1st  St,Des Moines,IA,50315,10/01/2016,41.575862,-93.613501
+1269,5133,Don's Food Center,A,"102, Albany Ave NE",Orange City,IA,51041,10/01/2016,43.00638,-96.056723
+1270,5134,Prime Mart #6  /  Charles City,A,"609, S Main St",Charles City,IA,50616,10/01/2016,43.061014,-92.682538
+1271,5135,Fareway Stores #155 / Huxley,A,911 Hwy 69,Huxley,IA,50124,10/01/2016,41.902066,-93.608282
+1272,5136,Urban Liquor,I,6401 Douglas Ave,Des Moines,IA,50322,10/01/2016,41.629411,-93.705732
+1273,5137,Shop N Save  /  NW 2nd  DSM,A,"4685, NW  2nd St",Des Moines,IA,50313,10/01/2016,41.645864,-93.619903
+1274,5138,Kellogg Country Store,A,"103, Blair St",Kellogg,IA,50135,10/01/2016,41.7144,-92.903113
+1275,5139,Ali's Corner #2,I,200 BROADWAY ST,Waterloo,IA,50703,10/01/2016,42.507682,-92.344719
+1276,5140,A to Z Liquor,A,"114, S  2nd  St",Cherokee,IA,51012,10/01/2016,42.749013,-95.55132
+1277,5141,Casey's General Store #3418 / Gowrie,A,"1131, Market St",Gowrie,IA,50543,10/01/2016,42.28056,-94.290484
+1278,5142,Smokin' Joe's #13 Tobacco & Liquor O,A,"2315, Mt Vernon Rd SE",Cedar Rapids,IA,52303,10/01/2016,41.976967,-91.633592
+1279,5144,Sam's Club 6979 / Ankeny,A,4625 SE Delaware Ave,Ankeny,IA,50021,10/01/2016,41.693276,-93.581264
+1280,5145,South Side Food Mart,A,1101 Army Post Rd,Des Moines,IA,50315,10/01/2016,41.526509,-93.628356
+1281,5146,Fareway Stores #153  /  W Des Moines,A,329 Grand Ave,West Des Moines,IA,50265,10/01/2016,41.58269,-93.70689
+1282,5147,Victor's Market,A,1001 3rd  St,Victor,IA,52347,10/01/2016,41.730666,-92.301206
+1283,5148,Main St Market  /  Holy Cross,A,"882, Main St",Holy Cross,IA,52053,10/01/2016,42.600941,-90.995943
+1284,5149,B S Mini Mart Inc,A,"1900, Summer St",Burlington,IA,52601,10/01/2016,40.789013,-91.116076
+1285,5150,Casey's General Store #2815  /  Vict,A,"901, 3rd  St",Victor,IA,52347,10/01/2016,41.73067,-92.30035
+1286,5151,IDA Liquor,A,"500, Hwy 175",Ida Grove,IA,51445,10/01/2016,42.350165,-95.467481
+1287,5152,Texas Street Market,I,4335 TEXAS ST,Waterloo,IA,50702,10/01/2016,42.453093,-92.307001
+1288,5153,Oak Street Station LLC,A,2403 Us Hwy 18,Inwood,IA,51240,10/01/2016,43.30099,-96.430852
+1289,5154,Lake Park Foods,A,"201, Market St",Lake Park,IA,51347,10/01/2016,43.454741,-95.321385
+1290,5155,New Star  /  Ansborough Ave,A,"1459, Ansborough Ave",Waterloo,IA,50701,10/01/2016,42.493091,-92.376863
+1291,5156,Casey's General Store #1020  / Le Cl,A,"210, Jones St",Le Claire,IA,52753,10/01/2016,41.59863,-90.358124
+1292,5157,Kimmes Manson Country Store #10,A,208 Main St,Manson,IA,50563,10/01/2016,42.517855,-94.534532
+1293,5158,Bucky's Express #19 / Council Bluffs,A,"1839, Madison Ave",Council Bluffs,IA,51501,10/01/2016,41.241482,-95.821641
+1294,5159,Kimmes Rockwell City Country Store #,A,"730, High St",Rockwell City,IA,50579,10/01/2016,42.39872,-94.638843
+1295,5160,Kum & Go #37  /  Ottumwa,I,2508 N COURT ST,Ottumwa,IA,52501,10/01/2016,41.051726,-92.409067
+1296,5161,Ameristar Casino Council Bluffs Gift,A,"2200, River Road, Gift Shop",Council Bluffs,IA,51501,10/01/2016,41.242216,-95.909505
+1297,5162,Urbandale Liquor,A,"6401, Douglas Ave",Urbandale,IA,50322,10/01/2016,41.629411,-93.705732
+1298,5163,Gasland Express  /  Mt Pleasant,A,"309, W  Washington St",Mount Pleasant,IA,52641,10/01/2016,40.965832,-91.557125
+1299,5164,Bucky's Express #22 / Council Bluffs,A,"3434, Nebraska Ave",Council Bluffs,IA,51501,10/01/2016,41.244572,-95.900555
+1300,5165,Kari Out Wine & Spirits LLC,A,"107, N  Mill St",Lake Mills,IA,50450,10/01/2016,43.419668,-93.535032
+1301,5166,East Side Liquor and Groceries,A,1116 E Nevada St,Marshalltown,IA,50158,10/01/2016,42.044345,-92.893113
+1302,5167,New Star Liquor & Tobacco  / Ft Dodg,A,"1724, 5th  Ave S",Fort Dodge,IA,50501,10/01/2016,42.501131,-94.173816
+1303,5168,Point Liquor and Tobacco,I,4107 Center Point Rd NE,Cedar Rapids,IA,52402,10/01/2016,42.02088,-91.665196
+1304,5169,AV Superstop,A,"5120, NE 14th Street",Des Moines,IA,50313,10/01/2016,41.653137,-93.60054
+1305,5170,Casey's General Store #1414  / State,A,911 3rd  Ave SW,State Center,IA,50247,10/01/2016,42.009066,-93.165186
+1306,5171,Gary's Liquor & Wine LTD,A,"110, E Jefferson St",Delaware,IA,52036,10/01/2016,42.473764,-91.344117
+1307,5172,Uptown Liquor & Tobacco,A,2000 Willey Blvd SW,Cedar Rapids,IA,52404,10/01/2016,41.959585,-91.725778
+1308,5173,Audubon Food Land,A,104 Market St,Audubon,IA,50025,10/01/2016,41.723057,-94.93625
+1309,5174,Jim's Food   /  Sullivan Ave,A,"437, Sullivan Ave",Waterloo,IA,50701,10/01/2016,42.487326,-92.355915
+1310,5175,Kwik Stop Delhi,A,"502, 3rd  St",Delhi,IA,52223,10/01/2016,42.430058,-91.330807
+1311,5176,Smokin' Joe's #15 Tobacco & Liquor O,A,"455, Edgewood Rd NW",Cedar Rapids,IA,52405,10/01/2016,41.97805,-91.715903
+1312,5177,Casey's General Store #3204 / Minden,A,33280 335th St,Minden,IA,51553,10/01/2016,41.496153,-95.546176
+1313,5178,New York Dollar Stores,A,"320, N Calhoun St",West Liberty,IA,52776,10/01/2016,41.570709,-91.263404
+1314,5179,Baxter Family Market,A,"103, N  Main St",Baxter,IA,50028,10/01/2016,,
+1315,5180,Oelwein Mart,A,"801, E  Charles  St",Oelwein,IA,50662,10/01/2016,42.678786,-91.902413
+1316,5181,Casey's General Store #3434  /  Denv,A,"1101, Jefferson St",Denver,IA,50622,10/01/2016,,
+1317,5182,Kwik Shop #595  /  W Broadway,A,1749 W Broadway,Council Bluffs,IA,51501,10/01/2016,41.261858,-95.870133
+1318,5183,Casey's General Store #77  /  Cascad,A,717 1st  Ave,Cascade,IA,52033,10/01/2016,42.301787,-91.005327
+1319,5184,Casey's General Store #3440 / Camanc,A,"614, S  Washington Blvd",Camanche,IA,52730,10/01/2016,41.788187,-90.255345
+1320,5185,Kum & Go #521  /  Coralville,A,"205, 2nd St",Coralville,IA,52241,10/01/2016,41.669765,-91.567907
+1321,5186,Casey's General Store #3452 / West U,A,"102, E  Bradford St",West Union,IA,52175,10/01/2016,42.964212,-91.80721
+1322,5187,Kwik Stop Liquor & Groceries Ames,A,125 6th ST,Ames,IA,50010,10/01/2016,42.026938,-93.611772
+1323,5188,Kum & Go #251 / Sioux City,A,1005 Gordon Dr,Sioux City,IA,51101,10/01/2016,42.489854,-96.397384
+1324,5189,The Fresh Market  / W Des Moines,I,5901 MILLS CIVIC PKWY,West Des Moines,IA,50266,10/01/2016,41.55915,-93.791206
+1325,5190,Guppy's On The Go / Walford,A,200 Hwy 151 E,Walford,IA,52351,10/01/2016,41.881819,-91.828573
+1326,5191,Casey's General Store #1534 / Guthri,A,"100, N  5th St",Guthrie Center,IA,50115,10/01/2016,41.67748,-94.502323
+1327,5192,Guppy's On the Go  /  Robins,A,"990, Robins Square Dr",Robins,IA,52328,10/01/2016,42.068304,-91.653929
+1328,5193,Casey's General Store #2518 / Lohrvi,A,"404, Locust St",Lohrville,IA,51453,10/01/2016,42.267449,-94.553651
+1329,5195,Casey's General Store #3203 / Counci,A,"1928, Sherwood Dr",Council Bluffs,IA,51530,10/01/2016,41.278563,-95.811568
+1330,5196,The Depot Coralville,A,100 E  OAKDALE BLVD,Coralville,IA,52241,10/01/2016,41.701503,-91.561958
+1331,5197,Kum & Go #201 / Coralville,A,"822, 1st  Ave",Coralville,IA,52241,10/01/2016,41.681288,-91.565776
+1332,5198,Riverside Liquor,A,826 E River Dr,Davenport,IA,52803,10/01/2016,41.524891,-90.561794
+1333,5199,Super Mart / Oelwein,A,"701, S  Frederick  Ave",Oelwein,IA,50662,10/01/2016,42.669128,-91.913481
+1334,5200,Otter Creek Country Store,A,"3445, County Home Rd",Robins,IA,52328,10/01/2016,42.093121,-91.698552
+1335,5201,Kwik Stop  #858  /  Dubuque,A,"3340, Jfk  Rd",Dubuque,IA,52001,10/01/2016,42.506232,-90.720514
+1336,5202,Casey's General Store #2900 / Gilber,A,"115, 25th  Ave",Gilbertville,IA,50634,10/01/2016,42.424125,-92.218712
+1337,5203,Kimmes Coon Rapids Country Store #12,A,"516, Highway 141",Coon Rapids,IA,50058,10/01/2016,41.865892,-94.678289
+1338,5204,Quik Stop  /  Burlington,A,1812 Osborn St,Burlington,IA,52601,10/01/2016,40.826163,-91.112658
+1339,5205,Glidden Grocery,A,201 Idaho St,Glidden,IA,51443,10/01/2016,42.056889,-94.728844
+1340,5206,Brothers Market  /  Grundy Center,A,1400 G  Ave,Grundy Center,IA,50638,10/01/2016,42.36157,-92.782283
+1341,5207,Jim's Foods  /  Cedar Rapids,A,"812, Sixth  St SW",Cedar Rapids,IA,52404,10/01/2016,41.968294,-91.677076
+1342,5208,Olsen's BP,A,"110, Locust St",Atlantic,IA,50022,10/01/2016,41.409214,-95.015685
+1343,5209,Kwik Stop #848 / Dubuque,A,"3201, Central Ave",Dubuque,IA,52001,10/01/2016,42.527726,-90.683052
+1344,5210,Ding's Honk'n Holler,A,"900, E  Washington  St",Clarinda,IA,51632,10/01/2016,40.739231,-95.027239
+1345,5211,Kum & Go #129  /  Johnston,A,5225 NW  86th  St,Johnston,IA,50131,10/01/2016,41.655804,-93.736395
+1346,5212,Don Liquor & Tobacco,A,"719, N Federal Ave",Mason City,IA,50401,10/01/2016,43.158803,-93.201081
+1347,5213,Garner One Stop,A,"2506, 280th  St",Montrose,IA,52639,10/01/2016,40.552204,-91.429681
+1348,5214,Road Ranger #5148 / Cedar Rapids,A,550 Wilson Ave SW,Cedar Rapids,IA,52404,10/01/2016,41.956073,-91.676432
+1349,5215,Cody Mart,A,"1220, N Cody Rd",Le Claire,IA,52753,10/01/2016,41.610504,-90.344168
+1350,5216,Casey's General Store #2683  /  Runn,A,"6301, SE 116th St",Runnells,IA,50237,10/01/2016,41.522454,-93.357883
+1351,5217,Casey's General Store #1511 / Seymou,A,500 W Main St,Seymour,IA,52590,10/01/2016,40.681485,-93.121487
+1352,5218,Gasland Express / Chariton,A,"2130, Court Ave",Chariton,IA,50049,10/01/2016,41.014576,-93.327017
+1353,5219,Kirkwood Liquor & Tobacco,A,"300, Kirkwood Ave",Iowa City,IA,52240,10/01/2016,41.649432,-91.531628
+1354,5220,Liquor Tobacco & Grocery / Mason Cit,A,"2771, 4th St SW",Mason City,IA,50401,10/01/2016,43.148281,-93.241626
+1355,5221,Gasland Express / Corydon,A,"214, W Jefferson St",Corydon,IA,50060,10/01/2016,40.757173,-93.320052
+1356,5222,Leo1  /  Cedar Rapids,A,"1500, 1st  Ave NE",Cedar Rapids,IA,52402,10/01/2016,41.98817,-91.652188
+1357,5223,Casey's General Store #1503 / Tabor,A,"721, Main St",Tabor,IA,51653,10/01/2016,40.899269,-95.671321
+1358,5224,Keystone Liquor & Wine / Coralville,A,517 2nd St,Coralville,IA,52241,10/01/2016,41.671398,-91.573591
+1359,5225,The Station II / North Liberty,A,"620, Meade Dr",North Liberty,IA,52317,10/01/2016,41.752666,-91.608704
+1360,5226,KC Brothers,A,214 MYRTLE ST,Davenport,IA,52802,10/01/2016,41.521586,-90.589149
+1361,5227,Flaming Hot Fish and Chicken LLC,A,"320, N  4th St",Clinton,IA,52732,10/01/2016,41.848124,-90.193275
+1362,5228,Anthon Mini Mart,A,"101, W Main St",Anthon,IA,51004,10/01/2016,42.388265,-95.868594
+1363,5229,Casey's General Store #3422 / Norwal,A,"500, North Ave",Norwalk,IA,50211,10/01/2016,41.47539,-93.682581
+1364,5230,Point Liquor & Tobacco,A,"4107, Center Point Rd NE",Cedar Rapids,IA,52402,10/01/2016,42.02088,-91.665196
+1365,5258,Oky Doky # 8 Foods,A,"535, Hill Street",Dubuque,IA,52001,10/01/2016,42.496714,-90.67404
+1366,5232,Casey's General Store #27  /  Audubo,A,400 Market St,Audubon,IA,50025,10/01/2016,41.720076,-94.934089
+1367,5233,Casey's General Store #2640 / Pleasa,A,1006 W Pleasant St,Pleasantville,IA,50225,10/01/2016,41.392695,-93.279175
+1368,5234,Casey's General Store #3473 / Dubuqu,A,"1072, Cedar Cross Rd",Dubuque,IA,52003,10/01/2016,42.477806,-90.707394
+1369,5235,Kum & Go #540 / Waukee,A,"3105, Grand Prairie Pkwy",Waukee,IA,50263,10/01/2016,,
+1370,5236,"Giggle Juice Liquor Station, LLC",A,600 W Main St,Anamosa,IA,52205,10/01/2016,42.108203,-91.290836
+1371,5237,World Liquor & Tobacco + Vape,A,"606, N 15th St",Fort Dodge,IA,50501,10/01/2016,42.512182,-94.17795
+1372,5238,New Star / Fort Dodge,A,"1923, 5th  Ave  S",Fort Dodge,IA,50501,10/01/2016,42.501169,-94.170859
+1373,5239,Lefty's Convenience Store Inc.,A,4649 Hwy 13,Central City,IA,52214,10/01/2016,42.19892,-91.532662
+1374,5240,Casey's General Store #3463 / West B,A,"615, S  Downey St",West Branch,IA,52358,10/01/2016,41.670876,-91.346618
+1375,5241,BP  /  Dubuque,A,"1450, Loras Blvd",Dubuque,IA,52001,10/01/2016,42.500735,-90.687211
+1376,5242,Kum & Go #502 / Iowa City,A,"2303, Muscatine Ave",Iowa City,IA,52240,10/01/2016,41.649545,-91.50163
+1377,5243,New Star / Lafayette / Waterloo,A,"1309, Lafayette St",Waterloo,IA,50703,10/01/2016,42.49408,-92.327154
+1378,5244,The Ox & Wren Spirits and Gifts,A,708 2nd  AVE  SE,Cresco,IA,52136,10/01/2016,43.371131,-92.106529
+1379,5245,Phillips 66,A,"1516, SE  1st St",Des Moines,IA,50315,10/01/2016,41.575862,-93.613501
+1380,5246,Casey's General Store #3476 / Forest,A,1132 HWY  69 SOUTH,Forest City,IA,50436,10/01/2016,43.24869,-93.637192
+1381,5247,Rockwell Area Market,A,202 4th  ST  N,Rockwell,IA,50469,10/01/2016,42.986351,-93.188172
+1382,5248,Liquor and Grocery Depot,A,"114, N  Center  St",Marshalltown,IA,50158,10/01/2016,42.051619,-92.912975
+1383,5249,W-Mart,A,"1205/1207, Locust St.",Davenport,IA,52803,10/01/2016,,
+1384,5250,East Side Liquor and Tobacco,A,3804 Hubbell Ave,Des Moines,IA,50317,10/01/2016,41.630805,-93.541437
+1385,5251,Northside Liquor,A,"1303, North Federal",Mason City,IA,50401,10/01/2016,43.163663,-93.201061
+1386,5252,Freeman Foods of North English,A,"119, Main St",North English,IA,52316,10/01/2016,41.51484,-92.076446
+1387,5253,The Corner Store,A,"4200, Lewis Access Rd",Center Point,IA,52213,10/01/2016,42.181812,-91.774711
+1388,5254,Discount Liquor,A,2933 1st Ave SE,Cedar Rapids,IA,52402,10/01/2016,42.007104,-91.634871
+1389,5255,Whole Foods Market,A,4100 University Ave,West Des Moines,IA,50266,10/01/2016,41.600394,-93.759747
+1390,5256,Casey's General Store # 1331/ Sac City,A,1304 Main St W,Sac City,IA,50583,10/01/2016,42.422724,-94.999958
+1391,5257,MAD Ave Quik Shop,A,"405, Madison Ave",Ottumwa,IA,52501,10/01/2016,40.99908,-92.410446
+1392,5259,Gameday Liquor,A,"924, Locust St",Glenwood,IA,51534,10/01/2016,41.056114,-95.747629
+1393,5260,GM Food Mart,A,"2881, Highway 61",Muscatine,IA,52761,10/01/2016,41.386117,-91.100171
+1394,5261,GM Mini Mart,A,"2307, Lucas Street",Muscatine,IA,52761,10/01/2016,41.422913,-91.071546
+1395,5262,7-Eleven # 34464Z,A,3232 Utica Ridge Rd.,Bettendorf,IA,52722,10/01/2016,41.555181,-90.517654
+1396,5263,Bernie's Booze LLC,A,"950, West View Dr",Rock Valley,IA,51247,10/01/2016,43.199628,-96.308808
+1397,5264,Casey's General Store # 2177/Mitchel,A,"309, Center Ave",Mitchellville,IA,50169,10/01/2016,41.663434,-93.358095
+1398,5265,Honey Creek Resort State Park/ Gift,A,12633 Resort Drive,Moravia,IA,52571,10/01/2016,40.87046,-92.918723
+1399,5266,Crossroads of Albert City,A,"5101, 230th Street",Albert City,IA,50510,10/01/2016,42.777448,-94.953239
+1400,5308,Crossroads of Hampton,A,4 4th Street SE,Hampton,IA,50441,10/01/2016,42.741445,-93.202491
+1401,5310,Crossroads of Algona,A,107 Hwy 18 W,Algona,IA,50511,10/01/2016,43.082796,-94.238911
+1402,5311,The Liquor Store,A,132 N. Main,Paullina,IA,51046,10/01/2016,42.981363,-95.687687
+1403,5312,"B & K One Stop LLC, Washta",A,103 Hwy 31,Washta,IA,51061,10/01/2016,42.58255,-95.712289
+1404,5313,Southside Tobacco & Liquor,A,2424 SW 9th St # 1,Des Moines,IA,50315,10/01/2016,41.56373,-93.624729
+1405,5314,Tobacco Hut & Liquor,A,3134 Manawa Center Dr. # 9,Council Bluffs,IA,51501,10/01/2016,41.228712,-95.847514
+1406,5315,Brother's Market Wine and Spirits,A,110 South Main Street,Sigourney,IA,52591,10/01/2016,41.333293,-92.205105
+1407,5316,Brother's Market/ Sigourney,A,118 South Main Street,Sigourney,IA,52591,10/01/2016,41.332944,-92.205098
+1408,5317,Casey's General Store/ Toledo,A,113 Hwy 30 West,Toledo,IA,52342,10/01/2016,41.986404,-92.580386
+1409,5318,First Stop Beverage Shop,A,2839 East University Ave,Des Moines,IA,50317,10/01/2016,41.600476,-93.561517
+1410,5267,The Station,A,"2320, 15th Street",Fort Dodge,IA,50501,10/01/2016,42.52931,-94.177989
+1411,5268,The Depot Atkins,A,"188, Parkridge Rd",Atkins,IA,52206,10/01/2016,41.992623,-91.862705
+1412,5269,Lefty's Convenience Store Inc,A,"105, Main St",Alburnett,IA,52202,10/01/2016,42.148,-91.618537
+1413,5270,Casey's General Store # 2783/ Urband,A,"4901, 86th St",Urbandale,IA,50322,10/01/2016,41.649717,-93.736378
+1414,5271,McElroy's Food Market,A,"135, Madison Street",Winthrop,IA,50682,10/01/2016,42.473031,-91.732493
+1415,5272,Dyersville Liquor Mart,A,"1021, 2nd Avenue",Dyersville,IA,52040,10/01/2016,42.482418,-91.112285
+1416,5273,Casey's General Store # 2598/ Pella,A,"414, Clark Street",Pella,IA,50219,10/01/2016,41.392186,-92.912522
+1417,5274,FCA Kingsley C-Store,A,101 Main St,Kingsley,IA,51028,10/01/2016,42.587074,-95.967322
+1418,5275,Casey's General Store # 2417/ Newton,A,"1200, W 18th St S",Newton,IA,50208,10/01/2016,41.688376,-93.076066
+1419,5276,Casey's General Store # 3502/ Stanto,A,616 Halland Ave,Stanton,IA,51573,10/01/2016,40.986507,-95.099535
+1420,5277,Cubby's Onawa,A,"2715, Iowa Ave",Onawa,IA,51040,10/01/2016,42.026608,-96.126534
+1421,5278,Crossroads fo Spencer,A,"1001, Grand Ave",Spencer,IA,51301,10/01/2016,43.147815,-95.145207
+1422,5279,Casey's General Store # 2560,A,"3020, Duff Ave",Ames,IA,50010,10/01/2016,42.05119,-93.618587
+1423,5280,Yesway Store # 10011/ Mason City,A,1920 Federal Ave S,Mason City,IA,50401,10/01/2016,43.133204,-93.201072
+1424,5281,Yesway Store # 10017/ Fort Dodge,A,115 22nd St N,Fort Dodge,IA,50501,10/01/2016,42.507886,-94.168007
+1425,5282,Yesway Store # 10019/ Mason City,A,1224 Federal Ave N,Mason City,IA,50401,10/01/2016,43.163367,-93.201061
+1426,5283,Yesway Store # 10026/ Mason City,A,1303 4th St SW,Mason City,IA,50401,10/01/2016,43.148339,-93.221539
+1427,5284,Brooklyn Grocery,A,"122, Front St.",Brooklyn,IA,52211,10/01/2016,41.728699,-92.444377
+1428,5285,Crossroads of Humboldt,A,"411, 13th Street",Humboldt,IA,50548,10/01/2016,42.715547,-94.22701
+1429,5286,Sauce,A,"108, College",Iowa City,IA,52240,10/01/2016,41.658979,-91.533522
+1430,5287,Yesway Store # 1029/ Clarion,A,300 Central Ave W,Clarion,IA,50525,10/01/2016,42.731643,-93.735925
+1431,5288,Yesway Store # 10016/ Fort Dodge,A,1601 5th Ave,Fort Dodge,IA,50501,10/01/2016,42.501112,-94.175805
+1432,5289,Yesway Store # 10020/ Story City,A,527 Park Ave,Story City,IA,50248,10/01/2016,42.186722,-93.597789
+1433,5290,Yesway Store # 10025/ Newton,A,405 1st Ave E,Newton,IA,50206,10/01/2016,41.699578,-93.049443
+1434,5291,JumpStart,A,"109, Locust St",Carter Lake,IA,51510,10/01/2016,41.285058,-95.928952
+1435,5292,John's Qwik Stop,A,"814, C Ave",Vinton,IA,52349,10/01/2016,42.163119,-92.027865
+1436,5293,The Boonedocks,A,"228, N Hwy 71",Arnolds Park,IA,51331,10/01/2016,43.371031,-95.125869
+1437,5294,Yesway Store # 10022/ Waterloo,A,1976 Franklin St,Waterloo,IA,50703,10/01/2016,42.495308,-92.314941
+1438,5295,Yesway Store # 10023/ Waterloo,A,117 San Marnan Dr E,Waterloo,IA,50702,10/01/2016,42.457847,-92.355754
+1439,5296,Yesway Store # 10021/ Webster City,A,1102 2nd St,Webster City,IA,50595,10/01/2016,42.469524,-93.831462
+1440,5297,Yesway Store # 10018/ Webster City,A,1803 Superior St,Webster City,IA,50595,10/01/2016,42.459531,-93.815845
+1441,5298,DeWitt Travel Mart,A,"630, 6th Ave",DeWitt,IA,52742,10/01/2016,41.82151,-90.538954
+1442,5299,Pearl City Tobacco & Liquor Outlet,A,"200, Green Street",Muscatine,IA,52761,10/01/2016,41.413877,-91.05788
+1443,5300,Yesway Store # 10013/ Ottumwa,A,534 Church St,Otumwa,IA,52501,10/01/2016,41.009459,-92.418522
+1444,5301,Yesway Store # 10012/ Ottumwa,A,2508 Court St N,Ottumwa,IA,52501,10/01/2016,41.051726,-92.409067
+1445,5302,Yesway Store # 10034/ Belmond,A,112 River Ave S,Belmond,IA,50421,10/01/2016,42.84535,-93.616821
+1446,5303,Casey's General Store # 3508/ Marsha,A,108 Iowa Ave,Marshalltown,IA,50158,10/01/2016,42.006977,-92.90978
+1447,5304,Crossroads of Sac City,A,"210, Hwy 20",Sac City,IA,50583,10/01/2016,42.421748,-94.984616
+1448,5305,Fas Mart # 5150/ Cedar Rapids,A,"3330, 16th Avenue",Cedar Rapids,IA,52404,10/01/2016,41.963571,-91.715563
+1449,5306,Fas Mart # 5159/ Dubuque,A,"2175, Central Avenue",Dubuque,IA,52001,10/01/2016,42.513023,-90.67102
+1450,5307,Fareway Store # 167/Johnston,A,"6005, Merle Hay Road",Johnston,IA,50131,10/01/2016,41.670127,-93.697658
+1451,5309,Royal Food,A,1443 2nd Ave,Des Moines,IA,50314,10/01/2016,41.605229,-93.619783
+1452,9001,Cedar Ridge Vineyards,I,1441 Marak Rd NW,Swisher,IA,52338,10/01/2016,41.832116,-91.677511
+1453,9002,Mississippi River Distillery,I,303 N Cody Rd,Leclaire,IA,52753,10/01/2016,41.599733,-90.343594
+1454,9010,Broadbent Distillery,I,6175 50th Ave,Norwalk,IA,50211,10/01/2016,41.436471,-93.712268
+1455,9013,Iowa Distilling Company,I,4349 Cumming Ave.,Cumming,IA,50061,10/01/2016,41.483192,-93.762456
+1456,9014,Werner Distilling,I,5520 190th St.,Holstein,IA,51025,10/01/2016,42.428294,-95.533015
+1457,9018,Paradise Distilling Company,I,"245, Railroad Ave",Dubuque,IA,52001,10/01/2016,42.487323,-90.661945
+1458,9019,Dehner Distillery,I,7500 University Ave,Clive,IA,50325,10/01/2016,41.60039,-93.719833
+1459,9022,Artisan Grain Distillery,I,"318, E 2nd St.",Davenport,IA,52801,10/01/2016,41.521305,-90.570318
+1460,9023,Iowa Legendary Rye,I,"314, Prairie View Dr.",Carroll,IA,51401,10/01/2016,42.056362,-94.874691
+1461,9901,Cedar Ridge,I,1441 Marak Rd NW,Swisher,IA,52338,10/01/2016,41.832116,-91.677511
+1462,9902,Mississippi River Distilling Co,I,303 N Cody Road,Leclaire,IA,52753,10/01/2016,41.599733,-90.343594
+1463,9903,Glazer Distributing,I,4377 NW 112th Street,Urbandale,IA,50322,10/01/2016,41.640109,-93.768781
+1464,9906,Johnson Brothers Wirtz,I,2515 Dean Avenue,Des Moines,IA,50317,10/01/2016,41.591304,-93.570027
+1465,9909,Wirtz Beverage,I,"3100 Justin Drive, Ste. F",Urbandale,IA,50322,10/01/2016,41.624445,-93.759105
+1466,9910,Broadbent Distillery,I,6175 50th Ave,Norwalk,IA,50211,10/01/2016,41.436471,-93.712268
+1467,9911,North American Spirits,I,501 7th ave SE,Urbandale,IA,50322,10/01/2016,,
+1468,9912,Southern Wine & Spirits,I,,Grimes,IA,50111,10/01/2016,41.683934,-93.789256
+1469,9913,Iowa Distilling Company,I,4349 Cumming Ave.,Cumming,IA,50061,10/01/2016,41.483192,-93.762456
+1470,9914,Werner Distilling,I,5520 190th St.,Holstein,IA,51025,10/01/2016,42.428294,-95.533015
+1471,9915,Sipp'n,I,303 SE  2nd St.,Grimes,IA,50111,10/01/2016,41.687449,-93.791954
+1472,9916,G & G Distributors,I,,Des Moines,IA,50312,10/01/2016,41.585489,-93.674747
+1473,9918,Paradise Distilling Company,I,"245, Railroad Ave",Dubuque,IA,52001,10/01/2016,42.487323,-90.661945
+1474,9919,Dehner Distillery,I,"7500, University Ave",Clive,IA,50325,10/01/2016,41.60039,-93.719833
+1475,9920,Louisiana Spirits LLC,I,"20909, South I-10 Frontage Rd",Lacassine,IA,70650,10/01/2016,,
+1476,9921,maDIKwe USA,I,"3101, Ingersoll Ave",Des Moines,IA,50312,10/01/2016,41.586203,-93.659572
+1477,9922,Artisan Grain Distillery,I,318 E 2nd St.,Davenport,IA,52801,10/01/2016,41.521305,-90.570318
+1478,9923,Iowa Legendary Rye,I,"314, Prairie View Dr.",Carroll,IA,51401,10/01/2016,42.056362,-94.874691
+1479,9924,Coopers Chase Distillery,I,"584, 18th Rd.",West Point,IA,68788,10/01/2016,41.812823,-96.690676
+1480,9925,Swell Liquor,I,"3701, Beaver Ave",Des Moines,IA,50310,10/01/2016,41.628412,-93.677403
+1481,9926,Rumcoqui,I,"202, 6th Street",West Des Moines,IA,50265,10/01/2016,41.571342,-93.710274
+1482,9927,Templeton Rye,I,209 East 3rd St,Templeton,IA,51463,10/01/2016,,
+1483,9928,VBJ Beverages LLC,I,"1077, Rockford Rd Bay #1",Cedar Rapids,IA,52404,10/01/2016,41.965789,-91.687168
+1484,9929,Best Case Wines,I,"3576, Dolphin Dr",Iowa City,IA,,10/01/2016,41.672474,-91.452639
