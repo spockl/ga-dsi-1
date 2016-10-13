@@ -47,6 +47,10 @@ Your job is to:
 - An individual blog post describing your findings, with two sections: the first for a non-technical audience, and the second for data scientist peers.
 - A five-minute in-class presentation, delivered as if you were presenting your findings to the principal who tasked you with this investigation.
 
+Please submit a link to your GitHub project repo and blog posts by the start of class on Wednesday (10/19).
+
+Presentations will be on Friday (10/21); there will be some in-class time on Thursday and Friday to prepare.
+
 ---
 
 ### Suggested Ways to Get Started
