@@ -1,4 +1,4 @@
-```['Akron OH',
+'Akron, OH',
  'Albany, GA',
  'Albany, NY',
  'Alexandria, LA',
@@ -265,4 +265,4 @@
  'Wilmington, NC',
  'Wooster, OH',
  'Yakima, WA',
- 'Yuma, AZ’]```
+ 'Yuma, AZ’
