@@ -1,12 +1,13 @@
-[INFO  - 2016-10-18T01:40:01.269Z] GhostDriver - Main - running on port 59770
-[INFO  - 2016-10-18T01:40:01.789Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2016-10-18T01:40:01.789Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.customHeaders:  - {}
-[INFO  - 2016-10-18T01:40:01.789Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2016-10-18T01:40:01.789Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c94f8160-94d3-11e6-b67f-57c40fa94aae
-[ERROR - 2016-10-18T01:41:51.156Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - msg: Error: Invalid JSON string: 
+[INFO  - 2016-10-18T13:02:19.313Z] GhostDriver - Main - running on port 49259
+[INFO  - 2016-10-18T13:02:19.789Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-18T13:02:19.789Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.customHeaders:  - {}
+[INFO  - 2016-10-18T13:02:19.789Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-18T13:02:19.789Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1a40e4b0-9533-11e6-a6ef-6b5b39bc1126
+[INFO  - 2016-10-18T13:07:19.303Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-10-18T13:07:36.386Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-18T01:41:51.165Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - stack:
+[ERROR - 2016-10-18T13:07:36.386Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
   Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
   ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
   xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
@@ -28,52 +29,10 @@
   _handle (phantomjs://code/router_request_handler.js:78)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-18T01:41:57.540Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - msg: Error: Invalid JSON string: 
+[ERROR - 2016-10-18T13:07:38.117Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-18T01:41:57.540Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - stack:
-  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
-  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
-  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
-  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
-  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
-  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
-  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
-  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
-  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  (anonymous function) (:0)
-  openUrl (:0)
-  open (phantomjs://platform/webpage.js:281)
-  (anonymous func[INFO  - 2016-10-18T01:45:40.493Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-18T01:50:40.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-18T01:55:40.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-18T02:00:40.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-18T02:05:40.463Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-18T02:10:40.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-18T02:15:40.448Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-18T02:20:40.441Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-4c65a/jobsearch-all-compiled.js:60)
-  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
-  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
-  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  (anonymous function) (:0)
-  openUrl (:0)
-  open (phantomjs://platform/webpage.js:281)
-  (anonymous function) (phantomjs://code/session_request_handler.js:495)
-  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
-  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
-  _handle (phantomjs://code/session_request_handler.js:91)
-  _reroute (phantomjs://code/request_handler.js:61)
-  _handle (phantomjs://code/router_request_handler.js:78)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2016-10-18T01:45:01.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2016-10-18T01:46:34.549Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - msg: Error: Invalid JSON string: 
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-18T01:46:34.571Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - stack:
+[ERROR - 2016-10-18T13:07:38.117Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
   Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
   ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
   xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
@@ -95,10 +54,11 @@
   _handle (phantomjs://code/router_request_handler.js:78)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-18T01:46:38.407Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - msg: Error: Invalid JSON string: 
+[INFO  - 2016-10-18T13:12:19.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-10-18T13:12:37.024Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-18T01:46:38.407Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - stack:
+[ERROR - 2016-10-18T13:12:37.024Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
   Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
   ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
   xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
@@ -120,3 +80,315 @@
   _handle (phantomjs://code/router_request_handler.js:78)
 
   phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:12:37.892Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:12:37.892Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:12:39.175Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:12:39.175Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:12:40.721Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:12:40.721Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:12:51.452Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:12:51.452Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:13:34.365Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:13:34.365Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:14:37.420Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:14:37.420Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:16:03.536Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:16:03.537Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:16:47.815Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:16:47.816Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:16:48.552Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:16:48.552Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:16:49.599Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:16:49.599Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-10-18T13:17:19.280Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-10-18T13:21:33.550Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:21:33.878Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-10-18T13:22:19.271Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-10-18T13:25:17.366Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T13:25:17.411Z] Session [1a40e4b0-9533-11e6-a6ef-6b5b39bc1126] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-10-18T13:27:19.260Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T13:32:19.779Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T13:37:19.769Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T13:42:19.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T13:47:19.750Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T13:52:19.743Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T13:57:19.734Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T14:02:19.725Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T14:07:19.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T14:12:19.710Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
