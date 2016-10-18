@@ -1,13 +1,12 @@
-[INFO  - 2016-10-17T13:23:07.791Z] GhostDriver - Main - running on port 62145
-[INFO  - 2016-10-17T13:23:08.784Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2016-10-17T13:23:08.784Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.customHeaders:  - {}
-[INFO  - 2016-10-17T13:23:08.784Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2016-10-17T13:23:08.784Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d84e0770-946c-11e6-bcda-e70803c523e6
-[INFO  - 2016-10-17T13:28:07.781Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2016-10-17T13:28:19.977Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - msg: Error: Invalid JSON string: 
+[INFO  - 2016-10-18T01:40:01.269Z] GhostDriver - Main - running on port 59770
+[INFO  - 2016-10-18T01:40:01.789Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-18T01:40:01.789Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.customHeaders:  - {}
+[INFO  - 2016-10-18T01:40:01.789Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-18T01:40:01.789Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c94f8160-94d3-11e6-b67f-57c40fa94aae
+[ERROR - 2016-10-18T01:41:51.156Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - msg: Error: Invalid JSON string: 
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-17T13:28:19.990Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - stack:
+[ERROR - 2016-10-18T01:41:51.165Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - stack:
   Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
   ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
   xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
@@ -29,10 +28,52 @@
   _handle (phantomjs://code/router_request_handler.js:78)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-17T13:29:55.156Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - msg: Error: Invalid JSON string: 
+[ERROR - 2016-10-18T01:41:57.540Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - msg: Error: Invalid JSON string: 
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-17T13:29:55.156Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - stack:
+[ERROR - 2016-10-18T01:41:57.540Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - stack:
+  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
+  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
+  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
+  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
+  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
+  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous func[INFO  - 2016-10-18T01:45:40.493Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T01:50:40.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T01:55:40.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T02:00:40.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T02:05:40.463Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T02:10:40.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T02:15:40.448Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-18T02:20:40.441Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+4c65a/jobsearch-all-compiled.js:60)
+  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
+  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
+  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
+  (anonymous function) (:0)
+  openUrl (:0)
+  open (phantomjs://platform/webpage.js:281)
+  (anonymous function) (phantomjs://code/session_request_handler.js:495)
+  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
+  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
+  _handle (phantomjs://code/session_request_handler.js:91)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-10-18T01:45:01.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-10-18T01:46:34.549Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - msg: Error: Invalid JSON string: 
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-10-18T01:46:34.571Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - stack:
   Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
   ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
   xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
@@ -54,10 +95,10 @@
   _handle (phantomjs://code/router_request_handler.js:78)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-17T13:30:48.959Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - msg: Error: Invalid JSON string: 
+[ERROR - 2016-10-18T01:46:38.407Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - msg: Error: Invalid JSON string: 
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-17T13:30:48.978Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - stack:
+[ERROR - 2016-10-18T01:46:38.407Z] Session [c94f8160-94d3-11e6-b67f-57c40fa94aae] - page.onError - stack:
   Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
   ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
   xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
@@ -79,151 +120,3 @@
   _handle (phantomjs://code/router_request_handler.js:78)
 
   phantomjs://platform/console++.js:263 in error
-[INFO  - 2016-10-17T13:33:07.771Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2016-10-17T13:35:27.328Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - msg: Error: Invalid JSON string: 
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-17T13:35:27.348Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - stack:
-  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
-  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
-  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
-  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
-  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
-  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
-  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
-  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
-  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  (anonymous function) (:0)
-  openUrl (:0)
-  open (phantomjs://platform/webpage.js:281)
-  (anonymous function) (phantomjs://code/session_request_handler.js:495)
-  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
-  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
-  _handle (phantomjs://code/session_request_handler.js:91)
-  _reroute (phantomjs://code/request_handler.js:61)
-  _handle (phantomjs://code/router_request_handler.js:78)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2016-10-17T13:38:07.761Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2016-10-17T13:38:35.968Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - msg: Error: Invalid JSON string: 
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-17T13:38:36.013Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - stack:
-  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
-  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
-  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
-  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
-  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
-  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
-  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
-  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
-  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  (anonymous function) (:0)
-  openUrl (:0)
-  open (phantomjs://platform/webpage.js:281)
-  (anonymous function) (phantomjs://code/session_request_handler.js:495)
-  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
-  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
-  _handle (phantomjs://code/session_request_handler.js:91)
-  _reroute (phantomjs://code/request_handler.js:61)
-  _handle (phantomjs://code/router_request_handler.js:78)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2016-10-17T13:43:07.751Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2016-10-17T13:44:47.757Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - msg: Error: Invalid JSON string: 
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-10-17T13:44:47.799Z] Session [d84e0770-946c-11e6-bcda-e70803c523e6] - page.onError - stack:
-  Cd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:63)
-  ze (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:83)
-  xa (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:139)
-  (anonymous function) (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:140)
-  yd (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:61)
-  dispatchEvent (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:60)
-  se (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:78)
-  ue (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:80)
-  Sk (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  zh (http://www.indeed.com/s/954c65a/jobsearch-all-compiled.js:79)
-  (anonymous function) (:0)
-  openUrl (:0)
-  open (phantomjs://platform/webpage.js:281)
-  (anonymous function) (phantomjs://code/session_request_handler.js:495)
-  _execFuncAndWaitForLoadDecorator (phantomjs://code/session.js:212)
-  _postUrlCommand (phantomjs://code/session_request_handler.js:494)
-  _handle (phantomjs://code/session_request_handler.js:91)
-  _reroute (phantomjs://code/request_handler.js:61)
-  _handle (phantomjs://code/router_request_handler.js:78)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2016-10-17T13:48:06.548Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T13:53:09.949Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T13:58:09.939Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:04:53.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:09:53.979Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:14:53.970Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:19:53.960Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:24:53.949Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:29:53.940Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:34:53.930Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:39:53.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:44:53.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:49:53.901Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:54:53.890Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T14:59:53.880Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:04:53.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:09:53.861Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:17:56.007Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:22:56.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:27:56.447Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:32:56.437Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:37:56.427Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:42:56.418Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:51:29.713Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T15:56:29.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T16:01:29.693Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T16:07:05.533Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T16:12:05.524Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T16:17:05.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T16:24:45.098Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T16:29:45.087Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T16:34:45.077Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T17:36:25.197Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T17:41:25.189Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T17:46:25.178Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T17:51:25.169Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T17:56:25.160Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:01:25.148Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:06:25.140Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:11:25.629Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:16:25.618Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:21:25.608Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:26:25.597Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:31:25.588Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:36:25.577Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:41:26.182Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:46:25.603Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:51:25.577Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T18:56:25.535Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:01:25.526Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:06:25.516Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:11:25.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:16:25.496Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:21:25.485Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:43:55.162Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:48:55.151Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:53:55.141Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T19:58:56.020Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:11:36.698Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:16:36.719Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:21:36.628Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:29:46.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:34:46.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:39:46.708Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:44:47.565Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:49:47.555Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:54:47.545Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T20:59:47.537Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T21:07:20.178Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-10-17T21:12:20.166Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
