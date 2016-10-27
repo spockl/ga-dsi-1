@@ -37,7 +37,7 @@ Here's your partner for this morning:
 
 ('JP', 'Peida')
 
-('Mike', '*')
+('Mike', 'Maria')
 
 
 ```
