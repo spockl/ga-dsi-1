@@ -24,11 +24,6 @@ def get_name(x):
 if __name__ == '__main__':
     out = open('names.txt', 'ab')
     for i in ids[:-1]:
-        out.write(('"' + get_name(i) + '"'+ ", ").encode('utf-8'))
-    out.write(('"' + get_name(ids[-1]) + '"'+ ", ").encode('utf-8'))
+        out.write((get_name(i)+ "\n").encode('utf-8'))
+    out.write((get_name(ids[-1])).encode('utf-8'))
     exit()
-# if __name__ == '__main__':
-#     results = [get_name(i) for i in ids]
-#     out = open('names.txt', 'ab')
-#     out.write(results)
-#     exit()
